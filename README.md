@@ -17,7 +17,7 @@
 
 - 📄 Look at my Resume [https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing](https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing)
 
-- ⚡ Fun fact **I enjoy playing the Japanese arcade game Chunithm**
+- ⚡ Fun fact **I enjoy playing the Japanese arcade game Chunithm** https://www.youtube.com/watch?v=VyIQgg3vDUU&t=86s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
