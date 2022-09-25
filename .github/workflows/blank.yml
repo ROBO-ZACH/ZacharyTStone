@@ -30,22 +30,20 @@ jobs:
       - name: Update Readme
         run: |
 
-        # remove the last line of the readme file and save the integer contained in it to a variable
-        lastline=$(tail -n 1 README.md)
-        # increment the integer by 1
-        newlastline=$((lastline+1))
-        # remove the last line of the readme file
+        # delete the last line of the latest line of the readme file
+
+        # sed -i '$ d' README.md different way to delete the last line
+
         sed -i '$ d' README.md
-        # add the new integer to the phrase "I have auto-majically updated this file this many times: "
-        echo "I have auto-majically updated this file this many times: $newlastline" >> README.md
-        # add the new integer to the end of the file
-        echo "$newlastline" >> README.md
+
+        # update the readme with the amount of seconds since I joined github on April 24th 2021
+
+        echo "I have been on github for $(($(date +%s) - $(date -d "2021-04-24" +%s))) seconds" > README.md
+
         # commit the changes to the readme file
+
+        git config --global user.email "zach.stone.developer@gmail.com"
+        git config --global user.name "Zach Stone"
         git add README.md
-        git commit -m "updated readme file"
-        # push the changes to the repo
+        git commit -m "update readme"
         git push
-
-        
-
-     
