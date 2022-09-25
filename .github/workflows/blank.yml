@@ -9,8 +9,8 @@ name: Update Readme
 # events but only for the master branch
 on:
   schedule:
-# Runs "at minute 55 past every hour" (see https://crontab.guru) 
-- cron: '45 * * * *'
+# runs every 5 minutes after build
+    - cron: '*/1 * * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 
