@@ -29,12 +29,23 @@ jobs:
       # Runs a single command using the runners shell
       - name: Update Readme
         run: |
-          echo "This is a test" >> README.md
-          git config --global user.email "zach.stone.developer@gmail.com"
-          git config --global user.name "github-actions[bot]"
-          
-          git add .
-          git commit -m "Update README.md"
-          git push
+
+        # remove the last line of the readme file and save the integer contained in it to a variable
+        lastline=$(tail -n 1 README.md)
+        # increment the integer by 1
+        newlastline=$((lastline+1))
+        # remove the last line of the readme file
+        sed -i '$ d' README.md
+        # add the new integer to the phrase "I have auto-majically updated this file this many times: "
+        echo "I have auto-majically updated this file this many times: $newlastline" >> README.md
+        # add the new integer to the end of the file
+        echo "$newlastline" >> README.md
+        # commit the changes to the readme file
+        git add README.md
+        git commit -m "updated readme file"
+        # push the changes to the repo
+        git push
+
+        
 
      
