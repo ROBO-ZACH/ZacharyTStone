@@ -32,8 +32,6 @@ jobs:
       - name: Update README.md
         run: |
           echo "## Last updated: $(date)" >> README.md
-          git config --global user.email "
-          git config --global user.name "github-actions[bot]"
           git add README.md
           git commit -m "Update README.md"
           git push
