@@ -10,7 +10,7 @@ name: Update Readme
 on:
   schedule:
 # runs every 5 minutes after build
-    - cron: '*/1 * * * *'
+    - cron: '*/5* * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 
