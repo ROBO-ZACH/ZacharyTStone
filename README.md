@@ -7,7 +7,7 @@
 
 -  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
 
-- 🔭 I’m currently working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
+- 🔭 I’m currently working on a new app using next js
 
 - 🌱 I’m currently learning **Date Structures and Algorithms**
 
