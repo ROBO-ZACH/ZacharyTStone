@@ -9,9 +9,6 @@
 
 - 🔭 I’m currently working on a new app using next js, hasura, and Magic.link
 
-- 🌱 I’m currently learning **Date Structures and Algorithms**
-
-
 - 📝 I regularly write articles on [https://zachinjapan.com/](https://zachinjapan.com/)
 
 - 📫 How to reach me **zach.stone.developer@gmail.com**
