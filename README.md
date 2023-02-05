@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on a new app using next js, hasura, and Magic.link
 
-- 📝 I regularly write articles on [https://zachinjapan.com/](https://zachinjapan.com/)
-
 - 📫 How to reach me **zach.stone.developer@gmail.com**
 
 - 📄 Look at my Resume [https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing](https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing)
