@@ -7,7 +7,7 @@
 
 -  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
 
-- 🔭 I’m currently working on a new app using next js
+- 🔭 I’m currently working on a new app using next js, hasura, and Magic.link
 
 - 🌱 I’m currently learning **Date Structures and Algorithms**
 
