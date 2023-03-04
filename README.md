@@ -3,8 +3,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZacharyTStone"  /></a> </p>
 -->
 
-<p align="left"> <a href="https://twitter.com/zachstonewebdev" target="blank"><img src="https://img.shields.io/twitter/follow/zachstonewebdev?logo=twitter&style=for-the-badge" alt="zachstonewebdev" /></a> </p>
-
 -  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
 
 - 🔭 I’m currently working on a new app using next js, hasura, and Magic.link
