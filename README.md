@@ -5,7 +5,7 @@
 
 -  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
 
-- 🔭 I’m currently working on a new app using next js, hasura, and Magic.link
+- 🔭 I’m currently focusing on getting better at SQL, Testing, Figma, and Data Structures & Algorithms 
 
 - 📫 How to reach me **zach.stone.developer@gmail.com**
 
