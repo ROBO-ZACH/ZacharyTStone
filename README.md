@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I enjoy playing the Japanese arcade game Chunithm** https://www.youtube.com/watch?v=VyIQgg3vDUU&t=86s
 
+- current favorite quote: <q>We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win. </q> ~ John F. Kennedy
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zachinjapan888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachinjapan888" height="30" width="40" /></a>
