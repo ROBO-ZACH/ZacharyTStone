@@ -5,8 +5,6 @@
 
 -  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
 
-- 🔭 I’m currently focusing on getting better at SQL, Testing, Figma, and Data Structures & Algorithms 
-
 - 📫 How to reach me **zach.stone.developer@gmail.com**
 
 - 📄 Look at my Resume [https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing](https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing)
