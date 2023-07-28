@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **zach.stone.developer@gmail.com**
 
-- 📄 Look at my Resume [https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing](https://docs.google.com/document/d/1r5U9UF6FJc0zr_L98dpIwj9Xe0-0CtoVfoux4nxD-g8/edit?usp=sharing)
-
 - ⚡ Fun fact **I enjoy playing the Japanese arcade game Chunithm** https://www.youtube.com/watch?v=VyIQgg3vDUU&t=86s
 
 - 💬<q>We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win. </q> ~ John F. Kennedy
