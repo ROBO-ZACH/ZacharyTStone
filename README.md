@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZacharyTStone"  /></a> </p>
 -->
 
--  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/) ポルトフォリオサイト
+-  👨‍💻 My website [https://zstone.dev/](https://zstone.dev/)
 
 - 📫 How to reach me **zach.stone.developer@gmail.com**
 
