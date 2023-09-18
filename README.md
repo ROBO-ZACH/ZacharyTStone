@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharytstone&label=Profile%20views&color=0e75b6&style=flat" alt="zacharytstone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacharytstone" alt="zacharytstone" /></a> </p>
 
 - 🔭 I’m currently working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
