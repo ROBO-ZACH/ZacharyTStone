@@ -8,19 +8,9 @@
 
 - 🌱 I’m currently learning **backend and SQL**
 
-- 👯 I’m looking to collaborate on [Haku](https://github.com/ZacharyTStone/haku)
-
 - 👨‍💻 All of my projects are available at [https://www.zstone.dev/](https://www.zstone.dev/)
 
-- 📝 I regularly write articles on [https://zachinjapan.com/](https://zachinjapan.com/)
-
-- 💬 Ask me about **Ramen**
-
 - 📫 How to reach me **zach.stone.developer@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WrIeOGQ86a2U0DSC8ay4g1NtUr9Ieygs/view?pli=1](https://drive.google.com/file/d/1WrIeOGQ86a2U0DSC8ay4g1NtUr9Ieygs/view?pli=1)
-
-- ⚡ Fun fact **I like the Japanese arcade game Chunithm**
 
 
 <h3 align="left">Languages and Tools:</h3>
