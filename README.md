@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Character develops itself in the stream of life."
-<br>— Johann Wolfgang von Goethe
+  "The exercise of an extraordinary gift is the supremist pleasure in life."
+<br>— Mark Twain
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 4:45:08 PM UST </h5>
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 5:05:42 PM UST </h5>
