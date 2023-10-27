@@ -22,9 +22,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
 </p>
 
+<hr/>
+
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
   "Coding is like cooking. Sometimes you follow a recipe, and sometimes you just throw in whatever feels right."
   <br>— Unknown Developer
 </blockquote>
+
+<h5 align="center"> auto-magically updated at: {currentDateTime} </h5>
