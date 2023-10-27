@@ -28,6 +28,9 @@ const updateReadme = async () => {
     const currentDateTime = getCurrentDateTime();
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
+    // Escape special characters in the quote for the commit message
+    const escapedQuote = quote.replace(/"/g, '\\"').replace(/\n/g, " ");
+
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent
       .replace(
@@ -44,13 +47,17 @@ const updateReadme = async () => {
 
     // commit the changes
     console.log("Committing updated README...");
-    const commitMessage = `Update README with new quote: ${quote}`;
+    const commitMessage = `Update README with new quote: ${escapedQuote}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
-    execSync(commitCommand);
+    const commitOutput = execSync(commitCommand, { stdio: "inherit" });
+    console.log(commitOutput);
 
     // push the changes
     console.log("Pushing updated README...");
-    execSync("git push");
+    const pushOutput = execSync("git push", { stdio: "inherit" });
+    console.log(pushOutput);
+
+    console.log("README update complete!");
 
     // return the updated readme
     return updatedReadme;
