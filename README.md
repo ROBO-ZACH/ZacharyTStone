@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "I do not dispute with the world; rather it is the world that disputes with me."
-<br>— The Buddha
+  "Obstacles are those things you see when you take your eyes off the goal."
+<br>— Hannah More
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 9:05:44 PM UST </h5>
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 10:05:55 PM UST </h5>
