@@ -39,7 +39,7 @@ const updateReadme = async () => {
       const updatedReadme = readmeContent
         // replace the image
         .replace(
-          /<img width="20%" class="poke-img"(.*)/,
+          /<img width="20%" class='poke-img' src=(.*)/,
           `<img width="20%" class='poke-img' src='${pokemon.image}' alt='${pokemon.name}'/>`
         )
         // replace the name
