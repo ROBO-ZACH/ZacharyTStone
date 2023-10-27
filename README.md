@@ -14,12 +14,12 @@
 <h3 align="center">Random Quote:</h3>
 <h3>
 <blockquote>
-  "Our kindness may be the most persuasive argument for that which we believe."
-<br>— Gordon Hinckley
+  "The greatest way to live with honor in this world is to be what we pretend to be."
+<br>— Socrates
 </blockquote>
 </h3>
 
-<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:18 PM EST </h5>
+<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:21 PM EST </h5>
 
 <hr/>
 
