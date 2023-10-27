@@ -28,4 +28,4 @@
     <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/97.svg' alt='hypno'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : hypno</span>
+<span class="poke-name"> Pokemon Name : linoone</span>
