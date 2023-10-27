@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
@@ -25,4 +25,4 @@ jobs:
         run: npm install
 
       - name: Run script to update readme
-        run: node .github/scripts/update-readme.js
+        run: node .github/scripts/update-readme-quote.js

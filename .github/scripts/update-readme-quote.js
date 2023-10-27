@@ -1,6 +1,7 @@
 const fs = require("fs");
 const axios = require("axios");
 const readmePath = "./README.md";
+require("dotenv").config();
 const { execSync } = require("child_process");
 
 const getCurrentDateTime = () => {
@@ -39,17 +40,24 @@ const updateReadme = async () => {
       )
       .replace(
         /auto-magically updated at: (.*)/,
-        `auto-magically updated at: ${currentDateTime} UST </h5`
+        `auto-magically updated at: ${currentDateTime} UST </h5>`
       );
 
     console.log("updatedReadme", updatedReadme);
     fs.writeFileSync(readmePath, updatedReadme);
 
-    // Set your Git user name and email
-    execSync(
-      'git config --global user.email "ZachStoneReadmeUpdater@gmail.com"'
-    );
-    execSync('git config --global user.name "Robo Zach"');
+    const gitUserEmail = process.env.GIT_USER_EMAIL;
+    const gitUserName = process.env.GIT_USER_NAME;
+
+    if (!gitUserEmail || !gitUserName) {
+      console.error(
+        "Git user email or name not provided in environment variables."
+      );
+      return;
+    }
+
+    execSync(`git config --global user.email "${gitUserEmail}"`);
+    execSync(`git config --global user.name "${gitUserName}"`);
 
     // commit the changes
     console.log("Committing updated README...");
