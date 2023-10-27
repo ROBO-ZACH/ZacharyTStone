@@ -18,12 +18,12 @@
 
 <h3>
 <blockquote>
-  "The greatest way to live with honor in this world is to be what we pretend to be."
-<br>— Socrates
+  "Patience is the companion of wisdom."
+<br>— Augustine of Hippo
 </blockquote>
 </h3>
 
-<h5 align="center" style="font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:21 PM EST </h5>
+<h5 align="center" style="font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:44 PM EST </h5>
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%">
         <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
