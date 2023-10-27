@@ -1,0 +1,11 @@
+{
+  "name": "github-readme-updater",
+  "version": "1.0.0",
+  "description": "GitHub Actions script to update the README with a random quote and timestamp",
+  "scripts": {
+    "start": "node .github/scripts/update-readme.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
