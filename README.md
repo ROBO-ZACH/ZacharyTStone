@@ -13,11 +13,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Meditate … do not delay, lest you later regret it."
-<br>— The Buddha
+  "Where all think alike, no one thinks very much."
+<br>— Walter Lippmann
 </blockquote>
 
-<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:10 PM EST </h5>
+<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:11 PM EST </h5>
 
 <hr/>
 
