@@ -13,11 +13,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "It's not what happens to you, but how you react to it that matters."
-<br>— Epictetus
+  "Everything has beauty, but not everyone sees it."
+<br>— Confucius
 </blockquote>
 
-<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 10/27/2023, 7:07:07 PM EST </h5>
+<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 10/27/2023, 7:08:50 PM EST </h5>
 
 <hr/>
 
