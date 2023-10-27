@@ -20,8 +20,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."
-<br>— Plutarch
+  "All that we see or seem is but a dream within a dream."
+<br>— Edgar Allan Poe
 </blockquote>
 
 <h5 align="center"> auto-magically 🪄 updated by ROBO_ZACH at: Fri Oct 27 2023 10:05:55 PM UST </h5>
