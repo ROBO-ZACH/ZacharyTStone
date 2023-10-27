@@ -15,11 +15,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "With every experience, you alone are painting your own canvas, thought by thought, choice by choice."
-<br>— Oprah Winfrey
+  "He who conquers others is strong; He who conquers himself is mighty."
+<br>— Laozi
 </blockquote>
 
-<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 10/27/2023, 6:42:47 PM EST </h5>
+<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 10/27/2023, 6:58:23 PM EST </h5>
 
 <hr/>
 
