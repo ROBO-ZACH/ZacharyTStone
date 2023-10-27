@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune."
-<br>— Carl Jung
+  "I do not dispute with the world; rather it is the world that disputes with me."
+<br>— The Buddha
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 8:06:18 PM UST </h5>
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 9:05:44 PM UST </h5>
