@@ -45,6 +45,12 @@ const updateReadme = async () => {
     console.log("updatedReadme", updatedReadme);
     fs.writeFileSync(readmePath, updatedReadme);
 
+    // Set your Git user name and email
+    execSync(
+      'git config --global user.email "ZachStoneReadmeUpdater@gmail.com"'
+    );
+    execSync('git config --global user.name "Robo Zach"');
+
     // commit the changes
     console.log("Committing updated README...");
     const commitMessage = `Update README with new quote: ${escapedQuote}`;
