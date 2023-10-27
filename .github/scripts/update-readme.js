@@ -26,10 +26,13 @@ const updateReadme = async () => {
     console.log("Updating README with new quote...");
     const currentDateTime = getCurrentDateTime();
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
-    console.log("readmeContent", readmeContent);
-    console.log("currentDateTime", currentDateTime);
+
+    // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent
-      .replace(/"(.|\n)*"— (.*)/, `"${quote}"`)
+      .replace(
+        /<blockquote>(.|\n)*<\/blockquote>/,
+        `<blockquote>\n  ${quote}\n</blockquote>`
+      )
       .replace(
         /auto-magically updated at: (.*)/,
         `auto-magically updated at: ${currentDateTime}`
