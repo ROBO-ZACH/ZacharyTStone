@@ -12,12 +12,14 @@
 
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
+<h3>
 <blockquote>
-  "What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk."
-<br>— Cicero
+  "Our kindness may be the most persuasive argument for that which we believe."
+<br>— Gordon Hinckley
 </blockquote>
+</h3>
 
-<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:20 PM EST </h5>
+<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:18 PM EST </h5>
 
 <hr/>
 
@@ -26,7 +28,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" style="width: 100%;" />
     </div>
     <div style="width: 30%;">
-        <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/556.svg' alt='maractus'></img>
+        <img class='poke-img' src='null' alt='armarouge'></img>
         <h5 class='poke-name'>cramorant</h5>
     </div>
 </div>
