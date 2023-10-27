@@ -20,8 +20,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "The superior man is satisfied and composed; the mean man is always full of distress."
-<br>— Confucius
+  "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."
+<br>— Plutarch
 </blockquote>
 
 <h3 align="center">Languages and Tools:</h3>
