@@ -1,6 +1,6 @@
 const fs = require("fs");
 const axios = require("axios");
-const readmePath = "../README.md"
+const readmePath = "./README.md";
 
 const getCurrentDateTime = () => {
   const now = new Date();
