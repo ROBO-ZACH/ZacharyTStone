@@ -20,8 +20,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Obstacles are those things you see when you take your eyes off the goal."
-<br>— Hannah More
+  "The superior man is satisfied and composed; the mean man is always full of distress."
+<br>— Confucius
 </blockquote>
 
 <h3 align="center">Languages and Tools:</h3>
