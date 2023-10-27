@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Coding is like cooking. Sometimes you follow a recipe, and sometimes you just throw in whatever feels right."
-  <br>— Unknown Developer
+  "Wise men speak because they have something to say; Fools because they have to say something."
+<br>— Plato
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: {currentDateTime} </h5>
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 2:52:24 PM </h5
