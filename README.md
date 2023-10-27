@@ -13,11 +13,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Where all think alike, no one thinks very much."
-<br>— Walter Lippmann
+  "Meditate … do not delay, lest you later regret it."
+<br>— The Buddha
 </blockquote>
 
-<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:11 PM EST </h5>
+<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:10 PM EST </h5>
 
 <hr/>
 
@@ -26,7 +26,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
     <div style="display: flex; flex-direction: column">
-    <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/325.svg' alt='spoink'></img>
-    <h5 class='poke-name'>spoink</h5>
+    <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg' alt='blastoise'></img>
+    <h5 class='poke-name'> Pokemon Name </h5>
     </div> 
 </div>
