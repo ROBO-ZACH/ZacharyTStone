@@ -13,6 +13,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+      GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -26,9 +30,6 @@ jobs:
         run: npm install
 
       - name: Set Git user name and email
-        env:
-          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
-          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
         run: |
           git config user.email "${GIT_USER_EMAIL}"
           git config user.name "${GIT_USER_NAME}"
