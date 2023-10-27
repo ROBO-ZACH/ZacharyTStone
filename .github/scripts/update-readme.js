@@ -20,15 +20,22 @@ const getRandomQuote = async () => {
 
 const updateReadme = async () => {
   const quote = await getRandomQuote();
+
+  console.log("quote", quote);
   if (quote) {
+    console.log("Updating README with new quote...");
     const currentDateTime = getCurrentDateTime();
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
+    console.log("readmeContent", readmeContent);
+    console.log("currentDateTime", currentDateTime);
     const updatedReadme = readmeContent
       .replace(/"(.|\n)*"— (.*)/, `"${quote}"`)
       .replace(
         /auto-magically updated at: (.*)/,
         `auto-magically updated at: ${currentDateTime}`
       );
+
+    console.log("updatedReadme", updatedReadme);
     fs.writeFileSync(readmePath, updatedReadme);
   }
 };
