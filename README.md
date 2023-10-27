@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Attitude is a little thing that makes a big difference."
-<br>— Winston Churchill
+  "There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen."
+<br>— Wayne Dyer
 </blockquote>
 </h3>
 
