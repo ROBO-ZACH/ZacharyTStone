@@ -13,11 +13,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "All our dreams can come true, if we have the courage to pursue them."
-<br>— Walt Disney
+  "Creativity comes from trust. Trust your instincts. And never hope more than you work."
+<br>— Rita Mae Brown
 </blockquote>
 
-<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 10/27/2023, 7:05:08 PM EST </h5>
+<h5 align="center"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 10/27/2023, 7:05:51 PM EST </h5>
 
 <hr/>
 
