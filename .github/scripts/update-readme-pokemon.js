@@ -35,10 +35,6 @@ const updateReadme = async () => {
   if (pokemon) {
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
-    // Escape special characters in the quote for the commit message
-    const escapedQuote = quote.replace(/"/g, '\\"').replace(/\n/g, " ");
-
-    // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent
       // replace the image
       .replace(
