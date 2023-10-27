@@ -13,11 +13,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "An ounce of emotion is equal to a ton of facts."
-<br>— John Junor
+  "Knowledge is proud that it knows so much; wisdom is humble that it knows no more."
+<br>— William Cowper
 </blockquote>
 
-<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:13 PM EST </h5>
+<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:15 PM EST </h5>
 
 <hr/>
 
