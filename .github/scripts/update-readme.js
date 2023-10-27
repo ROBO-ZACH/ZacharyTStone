@@ -39,7 +39,7 @@ const updateReadme = async () => {
       )
       .replace(
         /auto-magically updated at: (.*)/,
-        `auto-magically updated at: ${currentDateTime} </h5`
+        `auto-magically updated at: ${currentDateTime} UST </h5`
       );
 
     console.log("updatedReadme", updatedReadme);
