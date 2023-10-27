@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "The exercise of an extraordinary gift is the supremist pleasure in life."
-<br>— Mark Twain
+  "Whatever we expect with confidence becomes our own self-fulfilling prophecy."
+<br>— Brian Tracy
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 5:05:42 PM UST </h5>
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 6:06:20 PM UST </h5>
