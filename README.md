@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Whatever we expect with confidence becomes our own self-fulfilling prophecy."
-<br>— Brian Tracy
+  "In skating over thin ice our safety is in our speed."
+<br>— Ralph Waldo Emerson
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 6:06:20 PM UST </h5>
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 7:05:33 PM UST </h5>
