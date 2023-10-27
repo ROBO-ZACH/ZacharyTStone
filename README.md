@@ -7,13 +7,13 @@
 
 <hr/>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/ZacharyTStone/My-Anime-Collection">My Anime Collection</a></p>
+<p align="left">🔭 I’m currently working on <a href="https://github.com/ZacharyTStone/My-Anime-Collection">My Anime Collection</a></p>
 
-<p align="center">🌱 I’m currently learning SQL, VIM Commands, and Svelte</p>
+<p align="left">🌱 I’m currently learning SQL, VIM Commands, and Svelte</p>
 
-<p align="center">👨‍💻 All of my projects are available at <a href="https://www.zstone.dev/">zstone.dev</a></p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://www.zstone.dev/">zstone.dev</a></p>
 
-<p align="center">📫 How to reach me: <a href="mailto:zach.stone.developer@gmail.com">zach.stone.developer@gmail.com</a></p>
+<p align="left">📫 How to reach me: <a href="mailto:zach.stone.developer@gmail.com">zach.stone.developer@gmail.com</a></p>
 
 
 
@@ -24,7 +24,7 @@
 <br>— Man Ray
 </blockquote>
 
-<h5 align="center"> auto-magically 🪄 updated by ROBO_ZACH at: Fri Oct 27 2023 10:05:55 PM UST </h5>
+<h5 align="center"> This readme was auto-magically 🪄 updated by ROBO_ZACH at: Fri Oct 27 2023 10:05:55 PM UST </h5>
 
 <hr/>
 
