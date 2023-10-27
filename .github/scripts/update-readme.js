@@ -35,11 +35,28 @@ const updateReadme = async () => {
       )
       .replace(
         /auto-magically updated at: (.*)/,
-        `auto-magically updated at: ${currentDateTime}`
+        `auto-magically updated at: ${currentDateTime} </h5`
       );
 
     console.log("updatedReadme", updatedReadme);
     fs.writeFileSync(readmePath, updatedReadme);
+
+    // commit the changes
+    console.log("Committing updated README...");
+    const commitMessage = `Update README with new quote: ${quote}`;
+    const commitCommand = `git commit -am "${commitMessage}"`;
+    const commitOutput = exec(commitCommand);
+    console.log(commitOutput);
+
+    // push the changes
+    console.log("Pushing updated README...");
+    const pushOutput = exec("git push");
+    console.log(pushOutput);
+
+    console.log("README update complete!");
+
+    // return the updated readme
+    return updatedReadme;
   }
 };
 
