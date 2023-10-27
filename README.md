@@ -14,12 +14,12 @@
 <h3 align="center">Random Quote:</h3>
 <h3>
 <blockquote>
-  "The greatest way to live with honor in this world is to be what we pretend to be."
-<br>— Socrates
+  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."
+<br>— Marcel Proust
 </blockquote>
 </h3>
 
-<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:21 PM EST </h5>
+<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:43 PM EST </h5>
 
 <hr/>
 
