@@ -28,7 +28,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" style="width: 100%;" />
     </div>
     <div style="width: 30%;">
-        <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/407.svg' alt='roserade'></img>
+        <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/295.svg' alt='exploud'/>
         <h5 class='poke-name'>cramorant</h5>
     </div>
 </div>
