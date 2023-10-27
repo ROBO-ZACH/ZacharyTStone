@@ -23,10 +23,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: space-between; width: 70%; flex-wrap: nowrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <div style="display: flex; flex-direction: column">
-    <img class='poke-img' src='null' alt='cramorant'></img>
-    <h5 class='poke-name'>cramorant</h5>
-    </div> 
+    <div style="width: 30%; display: flex; flex-direction: column;">
+        <img class='poke-img' src='null' alt='cramorant'></img>
+        <h5 class='poke-name'>cramorant</h5>
+    </div>
 </div>
