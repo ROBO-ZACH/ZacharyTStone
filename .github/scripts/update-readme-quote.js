@@ -53,8 +53,8 @@ const updateReadme = async () => {
         `<blockquote>\n  ${quote}\n</blockquote>`
       )
       .replace(
-        /This readme was last auto-magically 🪄 updated by ROBO_ZACH at (.*)/,
-        `This readme was last auto-magically 🪄 updated by ROBO_ZACH at ${currentDateTimeInEST} EST </h5>`
+        /This readme was last auto-magically updated by ROBO_ZACH at (.*)/,
+        `This readme was last auto-magically updated by ROBO_ZACH at ${currentDateTimeInEST} EST 🪄 </h5>`
       );
 
     console.log("updatedReadme", updatedReadme);
