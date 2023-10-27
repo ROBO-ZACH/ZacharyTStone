@@ -21,12 +21,12 @@
 
 <hr/>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<div style="display: flex; justify-content: space-between; width: 70%; flex-wrap: nowrap;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <div style="width: 30%; display: flex; flex-direction: column;">
-        <img class='poke-img' src='null' alt='corviknight'></img>
+<div style="display: flex; justify-content: space-between; width: 70%; padding: 10px;">
+    <div style="width: 70%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" style="width: 100%;" />
+    </div>
+    <div style="width: 30%;">
+        <img class='poke-img' src='null' alt='cramorant' style="width: 100%;"></img>
         <h5 class='poke-name'>cramorant</h5>
     </div>
 </div>
