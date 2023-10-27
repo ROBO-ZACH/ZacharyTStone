@@ -10,8 +10,6 @@
 
 <p align="left">📫 How to reach me: <a href="mailto:zach.stone.developer@gmail.com">zach.stone.developer@gmail.com</a></p>
 
-
-
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
@@ -25,9 +23,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-
 <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img src="https://pokeapi.co/api/v2/pokemon/1" alt="pokemon" />
+    <div style="display: flex; flex-direction: column">
+    <img class='poke-img' src="https://pokeapi.co/api/v2/pokemon/1" alt="pokemon" />
+    <h5 class='poke-name'> Pokemon Name </h5>
+    </div> 
 </div>
-
