@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zacharytstone&label=Profile%20views&color=0e75b6&style=flat" alt="zacharytstone" />
-</p>
-
 <h1 align="center">Hi there, I'm Zach 👋</h1>
-<h3 align="center">A web developer from America who speaks Japanese.</h3>
 
 <hr/>
 
@@ -29,9 +24,10 @@
 <hr/>
 
 <h3 align="center">Languages and Tools:</h3>
-<!-- Add your icons here as you did before -->
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-</p>
+
+<div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
+    <img src="https://pokeapi.co/api/v2/pokemon/1" alt="pokemon" />
+</div>
 
