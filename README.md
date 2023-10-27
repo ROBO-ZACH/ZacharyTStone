@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Wise men speak because they have something to say; Fools because they have to say something."
-<br>— Plato
+  "We know the truth, not only by the reason, but by the heart."
+<br>— Blaise Pascal
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 2:52:24 PM </h5
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 2:56:02 PM UST </h5
