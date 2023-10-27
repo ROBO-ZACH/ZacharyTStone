@@ -1,34 +1,33 @@
-<h1 align="center">Hi there, I'm Zach 👋</h1>
+# Hi there 👋
 
-<hr/>
+---
 
-<p align="left">🔭 I’m currently working on <a href="https://github.com/ZacharyTStone/My-Anime-Collection">My Anime Collection</a></p>
+🔭 I’m currently working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
-<p align="left">🌱 I’m currently learning SQL, VIM Commands, and Svelte</p>
+🌱 I’m currently learning SQL, VIM Commands, and Svelte
 
-<p align="left">👨‍💻 All of my projects are available at <a href="https://www.zstone.dev/">zstone.dev</a></p>
+👨‍💻 All of my projects are available at [zstone.dev](https://www.zstone.dev/)
 
-<p align="left">📫 How to reach me: <a href="mailto:zach.stone.developer@gmail.com">zach.stone.developer@gmail.com</a></p>
+📫 How to reach me: [zach.stone.developer@gmail.com](mailto:zach.stone.developer@gmail.com)
+
+---
 
 <!-- Add a Quotes section -->
-<h3 align="center">Random Quote:</h3>
+
+## Random Quote
+
 <h3>
 <blockquote>
-  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."
-<br>— Marcel Proust
+  "The greatest way to live with honor in this world is to be what we pretend to be."
+<br>— Socrates
 </blockquote>
 </h3>
 
-<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:43 PM EST </h5>
+<h5 align="center" style="font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:21 PM EST </h5>
 
-<hr/>
-
-<div style="display: flex; justify-content: space-between; width: 70%; padding: 10px;">
-    <div style="width: 70%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" style="width: 100%;" />
-    </div>
-    <div style="width: 30%;">
-        <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/295.svg' alt='exploud'/>
-        <h5 class='poke-name'>cramorant</h5>
-    </div>
+<div style="display: flex; flex-wrap: no-wrap; width: 100%">
+        <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
+    <img width="20%" class="poke-img" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/407.svg" alt="roserade" />
 </div>
+
+<span class="poke-name"> Pokemon Name : wozara </span>
