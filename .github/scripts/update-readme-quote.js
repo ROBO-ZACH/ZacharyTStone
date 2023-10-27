@@ -39,8 +39,8 @@ const updateReadme = async () => {
         `<blockquote>\n  ${quote}\n</blockquote>`
       )
       .replace(
-        /auto-magically updated at: (.*)/,
-        `auto-magically updated at: ${currentDateTime} UST </h5>`
+        /auto-magically 🪄 updated by ROBO_ZACH: (.*)/,
+        `auto-magically 🪄 updated by ROBO_ZACH: ${currentDateTime} UST </h5>`
       );
 
     console.log("updatedReadme", updatedReadme);
