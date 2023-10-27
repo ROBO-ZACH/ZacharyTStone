@@ -15,13 +15,6 @@
 
 <p align="center">📫 How to reach me: <a href="mailto:zach.stone.developer@gmail.com">zach.stone.developer@gmail.com</a></p>
 
-<h3 align="center">Languages and Tools:</h3>
-<!-- Add your icons here as you did before -->
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-</p>
-
 <hr/>
 
 <!-- Add a Quotes section -->
@@ -31,4 +24,14 @@
 <br>— Hannah More
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 10:05:55 PM UST </h5>
+<h3 align="center">Languages and Tools:</h3>
+<!-- Add your icons here as you did before -->
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
+</p>
+
+
+<h5 align="center"> auto-magically 🪄 updated by ROBO_ZACH at: Fri Oct 27 2023 10:05:55 PM UST </h5>
+
+
