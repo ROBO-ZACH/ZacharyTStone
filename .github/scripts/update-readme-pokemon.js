@@ -39,14 +39,11 @@ const updateReadme = async () => {
       const updatedReadme = readmeContent
         // replace the image
         .replace(
-          /<img class='poke-img' (.*)/,
-          `<img class='poke-img' src='${pokemon.image}' alt='${pokemon.name}'></img>`
+          /class='poke-img' (.*)/,
+          `class='poke-img' src='${pokemon.image}' alt='${pokemon.name}'/>`
         )
         // replace the name
-        .replace(
-          /<h5 class='poke-name'> (.*)/,
-          `<h5 class='poke-name'>${pokemon.name}</h5>`
-        );
+        .replace(/Pokemon Name :(.*)/, `Pokemon Name : ${pokemon.name}</span>`);
 
       console.log("updatedReadme", updatedReadme);
       fs.writeFileSync(readmePath, updatedReadme);
