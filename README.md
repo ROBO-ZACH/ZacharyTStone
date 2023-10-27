@@ -13,11 +13,11 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Our kindness may be the most persuasive argument for that which we believe."
-<br>— Gordon Hinckley
+  "What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk."
+<br>— Cicero
 </blockquote>
 
-<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:18 PM EST </h5>
+<h5 align="center" style="color: #4CAF50; font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:20 PM EST </h5>
 
 <hr/>
 
