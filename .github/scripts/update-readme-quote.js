@@ -25,9 +25,13 @@ const convertDateTimeToEST = (dateTime) => {
   const utcDate = new Date(date.toUTCString());
   utcDate.setHours(utcDate.getHours() - 4);
   const usDate = new Date(utcDate);
-  return usDate.toLocaleString();
-};
 
+  // return time without seconds
+  return usDate.toLocaleTimeString([], {
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+};
 
 const updateReadme = async () => {
   const quote = await getRandomQuote();
@@ -36,7 +40,7 @@ const updateReadme = async () => {
   if (quote) {
     console.log("Updating README with new quote...");
     const currentDateTime = getCurrentDateTime();
-const currentDateTimeInEST = convertDateTimeToEST(currentDateTime);
+    const currentDateTimeInEST = convertDateTimeToEST(currentDateTime);
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
     // Escape special characters in the quote for the commit message
