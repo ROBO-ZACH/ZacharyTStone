@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "Our work is the presentation of our capabilities."
-<br>— Edward Gibbon
+  "Science gives us knowledge, but only philosophy can give us wisdom."
+<br>— Will Durant
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 3:06:13 PM UST </h5
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 4:06:19 PM UST </h5
