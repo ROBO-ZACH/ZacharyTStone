@@ -23,7 +23,7 @@
 </p>
 
 <!-- Add a Quotes section -->
-<h3 align="center">Random Dev Quote:</h3>
+<h3 align="center">Random Quote:</h3>
 <blockquote>
   "Coding is like cooking. Sometimes you follow a recipe, and sometimes you just throw in whatever feels right."
   <br>— Unknown Developer
