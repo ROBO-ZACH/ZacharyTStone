@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "A single lamp may light hundreds of thousands of lamps without itself being diminished."
-<br>— The Buddha
+  "Attitude is a little thing that makes a big difference."
+<br>— Winston Churchill
 </blockquote>
 </h3>
 
