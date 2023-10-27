@@ -15,7 +15,7 @@
 
 <p align="center">📫 How to reach me: <a href="mailto:zach.stone.developer@gmail.com">zach.stone.developer@gmail.com</a></p>
 
-<hr/>
+
 
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
@@ -26,7 +26,7 @@
 
 <h5 align="center"> auto-magically 🪄 updated by ROBO_ZACH at: Fri Oct 27 2023 10:05:55 PM UST </h5>
 
-
+<hr/>
 
 <h3 align="center">Languages and Tools:</h3>
 <!-- Add your icons here as you did before -->
