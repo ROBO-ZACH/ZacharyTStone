@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 align="center" style="font-style: italic; font-weight: bold;"> This readme was last auto-magically updated by ROBO_ZACH at 07:48 PM EST 🪄 </h1>
 
 ---
 
@@ -18,16 +18,14 @@
 
 <h3>
 <blockquote>
-  "There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen."
-<br>— Wayne Dyer
+  "A single lamp may light hundreds of thousands of lamps without itself being diminished."
+<br>— The Buddha
 </blockquote>
 </h3>
-
-<h5 align="center" style="font-style: italic; font-weight: bold;"> This readme was last auto-magically 🪄 updated by ROBO_ZACH at 07:48 PM EST </h5>
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%">
         <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
     <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/97.svg' alt='hypno'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : magmortar</span>
+<span class="poke-name"> Pokemon Name : hypno</span>
