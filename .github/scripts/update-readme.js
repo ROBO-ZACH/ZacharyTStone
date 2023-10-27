@@ -1,6 +1,7 @@
 const fs = require("fs");
 const axios = require("axios");
 const readmePath = "./README.md";
+const { execSync } = require("child_process");
 
 const getCurrentDateTime = () => {
   const now = new Date();
@@ -45,15 +46,11 @@ const updateReadme = async () => {
     console.log("Committing updated README...");
     const commitMessage = `Update README with new quote: ${quote}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
-    const commitOutput = exec(commitCommand);
-    console.log(commitOutput);
+    execSync(commitCommand);
 
     // push the changes
     console.log("Pushing updated README...");
-    const pushOutput = exec("git push");
-    console.log(pushOutput);
-
-    console.log("README update complete!");
+    execSync("git push");
 
     // return the updated readme
     return updatedReadme;
