@@ -26,7 +26,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
     <div style="display: flex; flex-direction: column">
-    <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/581.svg' alt='swanna'></img>
+    <img class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg' alt='blastoise'></img>
     <h5 class='poke-name'> Pokemon Name </h5>
     </div> 
 </div>
