@@ -20,8 +20,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "It has never been my object to record my dreams, just to realize them."
-<br>— Man Ray
+  "If I know what love is, it is because of you."
+<br>— Hermann Hesse
 </blockquote>
 
 <h5 align="center"> This readme was auto-magically 🪄 updated by ROBO_ZACH at: Fri Oct 27 2023 10:05:55 PM UST </h5>
