@@ -20,6 +20,15 @@ const getRandomQuote = async () => {
   }
 };
 
+const convertDateTimeToEST = (dateTime) => {
+  const date = new Date(dateTime);
+  const utcDate = new Date(date.toUTCString());
+  utcDate.setHours(utcDate.getHours() - 4);
+  const usDate = new Date(utcDate);
+  return usDate.toLocaleString();
+};
+
+
 const updateReadme = async () => {
   const quote = await getRandomQuote();
 
@@ -27,6 +36,7 @@ const updateReadme = async () => {
   if (quote) {
     console.log("Updating README with new quote...");
     const currentDateTime = getCurrentDateTime();
+const currentDateTimeInEST = convertDateTimeToEST(currentDateTime);
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
     // Escape special characters in the quote for the commit message
@@ -39,8 +49,8 @@ const updateReadme = async () => {
         `<blockquote>\n  ${quote}\n</blockquote>`
       )
       .replace(
-        /auto-magically 🪄 updated by ROBO_ZACH: (.*)/,
-        `auto-magically 🪄 updated by ROBO_ZACH: ${currentDateTime} UST </h5>`
+        /This readme was last auto-magically 🪄 updated by ROBO_ZACH at (.*)/,
+        `This readme was last auto-magically 🪄 updated by ROBO_ZACH at ${currentDateTimeInEST} EST </h5>`
       );
 
     console.log("updatedReadme", updatedReadme);
