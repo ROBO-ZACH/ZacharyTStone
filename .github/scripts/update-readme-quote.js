@@ -46,6 +46,10 @@ const updateReadme = async () => {
     console.log("updatedReadme", updatedReadme);
     fs.writeFileSync(readmePath, updatedReadme);
 
+    console.log("process.env.GIT_USER_EMAIL", process.env.GIT_USER_EMAIL);
+    console.log("process.env.GIT_USER_NAME", process.env.GIT_USER_NAME);
+    console.log("process.env", process.env);
+
     const gitUserEmail = process.env.GIT_USER_EMAIL;
     const gitUserName = process.env.GIT_USER_NAME;
 
