@@ -27,8 +27,8 @@
 <!-- Add a Quotes section -->
 <h3 align="center">Random Quote:</h3>
 <blockquote>
-  "We know the truth, not only by the reason, but by the heart."
-<br>— Blaise Pascal
+  "Our work is the presentation of our capabilities."
+<br>— Edward Gibbon
 </blockquote>
 
-<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 2:56:02 PM UST </h5
+<h5 align="center"> auto-magically updated at: Fri Oct 27 2023 3:06:13 PM UST </h5
