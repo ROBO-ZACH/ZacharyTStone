@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
-- 🌱 I’m currently learning **backend and SQL**
+- 🌱 I’m currently learning **SQL, VIM Commands, and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://www.zstone.dev/](https://www.zstone.dev/)
 
