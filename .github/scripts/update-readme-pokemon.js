@@ -43,7 +43,7 @@ const updateReadme = async () => {
       )
       // replace the name
       .replace(
-        /<h5 class='poke-name' (.*)/,
+        /<h5 class='poke-name'> (.*)/,
         `<h5 class='poke-name'>${pokemon.name}</h5>`
       );
 
