@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:07 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:23 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Purity and impurity depend on oneself; no one can purify another."
-<br>— The Buddha
+  "The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."
+<br>— Walter Benjamin
 </blockquote>
 </h3>
 
