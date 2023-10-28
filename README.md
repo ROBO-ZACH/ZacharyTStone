@@ -30,7 +30,7 @@
     <img width="25%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/622.svg' alt='golett'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : golett</span>
+<span class="poke-name"> Pokemon Name : chikorita</span>
 
 ---
 
