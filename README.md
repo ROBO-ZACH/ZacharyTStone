@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:43 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:45 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha"
-<br>— The Buddha
+  "A man is great by deeds, not by birth."
+<br>— Chanakya
 </blockquote>
 </h3>
 
