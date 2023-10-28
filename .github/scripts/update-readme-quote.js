@@ -36,6 +36,10 @@ const convertDateTimeToEST = (dateTime) => {
 };
 
 const updateReadme = async () => {
+  // Pull the latest changes from the remote repository
+  console.log("Pulling the latest changes...");
+  execSync("git pull", { stdio: "inherit" });
+
   const quote = await getRandomQuote();
 
   console.log("quote", quote);
