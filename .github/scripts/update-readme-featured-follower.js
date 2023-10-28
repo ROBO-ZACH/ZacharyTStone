@@ -51,7 +51,7 @@ const updateReadme = async () => {
       )
       .replace(
         /#### Checkout out Zach's follower(.*)/,
-        `##### Checkout out Zach's follower ${follower.login}.`
+        `#### Checkout out Zach's follower ${follower.login}.`
       )
       .replace(
         /##### 💻(.*)/,

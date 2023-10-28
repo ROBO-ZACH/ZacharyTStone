@@ -36,7 +36,7 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-####### Checkout out Zach's follower mdwiltfong.
+###### Checkout out Zach's follower mdwiltfong.
 
 #### They must be pretty cool if they follow Zach!
 
