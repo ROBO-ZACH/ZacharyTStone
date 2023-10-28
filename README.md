@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Silence is deep as Eternity; Speech is shallow as Time."
-<br>— Thomas Carlyle
+  "Successful people ask better questions, and as a result, they get better answers."
+<br>— Tony Robbins
 </blockquote>
 </h3>
 
