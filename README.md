@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:06 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:08 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."
-<br>— Ralph Waldo Emerson
+  "There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."
+<br>— Plato
 </blockquote>
 </h3>
 
