@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out Zach's follower mrBean009.
+#### Checkout out Zach's follower kazumasasama.
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/72055437?v=4' alt='kazumasasama'/>
 
-##### 💻 [Web-Dev-Dan's Github](https://github.com/Web-Dev-Dan)
+##### 💻 [kazumasasama's Github](https://github.com/kazumasasama)
 
 ---
 
