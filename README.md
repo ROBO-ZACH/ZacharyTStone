@@ -36,7 +36,7 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out josephjaspers.
+#### Checkout out Zach's follower josephjaspers.
 
 #### They must be pretty cool if they follow Zach!
 
