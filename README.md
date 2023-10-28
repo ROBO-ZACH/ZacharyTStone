@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-##### Checkout out Zach's follower mrBean009.
+###### Checkout out Zach's follower matttdean.
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/37552721?v=4' alt='matttdean'/>
 
-##### 💻 [mrBean009's Github](https://github.com/mrBean009)
+##### 💻 [matttdean's Github](https://github.com/matttdean)
 
 ---
 
