@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:29 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:30 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "If you smile when no one else is around, you really mean it."
-<br>— Andy Rooney
+  "There are many ways of going forward, but only one way of standing still."
+<br>— Franklin D. Roosevelt
 </blockquote>
 </h3>
 
