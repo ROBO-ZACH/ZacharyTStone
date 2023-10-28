@@ -4,7 +4,6 @@ const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
 
-
 const getRandomPokemon = async () => {
   const randomId = Math.floor(Math.random() * 1000) + 1;
   try {
@@ -38,8 +37,8 @@ const updateReadme = async () => {
       const updatedReadme = readmeContent
         // replace the image
         .replace(
-          /<img width="20%" class='poke-img' src=(.*)/,
-          `<img width="20%" class='poke-img' src='${pokemon.image}' alt='${pokemon.name}'/>`
+          /<img width="25%" class='poke-img' src=(.*)/,
+          `<img width="25%" class='poke-img' src='${pokemon.image}' alt='${pokemon.name}'/>`
         )
         // replace the name
         .replace(/Pokemon Name :(.*)/, `Pokemon Name : ${pokemon.name}</span>`);
