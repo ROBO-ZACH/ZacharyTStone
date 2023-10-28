@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:07 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:14 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "By believing passionately in something that does not yet exist, we create it."
-<br>— Nikos Kazantzakis
+  "It's supposed to be automatic, but actually you have to push this button."
+<br>— John Brunner
 </blockquote>
 </h3>
 
