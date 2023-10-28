@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Your sacred space is where you can find yourself again and again."
-<br>— Joseph Campbell
+  "Think for yourselves and let others enjoy the privilege to do so too."
+<br>— Voltaire
 </blockquote>
 </h3>
 
