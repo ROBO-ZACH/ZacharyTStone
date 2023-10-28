@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:08 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:10 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."
-<br>— Plato
+  "Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have."
+<br>— Ernie Banks
 </blockquote>
 </h3>
 
