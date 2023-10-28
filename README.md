@@ -1,6 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 at Oct 28, 04:26 AM EST 🪄 </h2></a>
-
-#### [ROBO ZACH's GitHub](https://github.com/ROBO-ZACH)
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 on Oct 28, 04:25 AM EST 🪄 </h2></a>
 
 ---
 
@@ -30,4 +28,6 @@
     <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/461.svg' alt='weavile'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : weavile</span>
+<span class="poke-name"> Pokemon Name : gabite</span>
+
+#### [ROBO ZACH's GitHub](https://github.com/ROBO-ZACH)
