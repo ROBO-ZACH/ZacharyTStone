@@ -27,7 +27,7 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/444.svg' alt='gabite'/>
+    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/461.svg' alt='weavile'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : gabite</span>
+<span class="poke-name"> Pokemon Name : weavile</span>
