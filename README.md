@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 05:06 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 05:38 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Successful people ask better questions, and as a result, they get better answers."
-<br>— Tony Robbins
+  "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."
+<br>— Daisaku Ikeda
 </blockquote>
 </h3>
 
