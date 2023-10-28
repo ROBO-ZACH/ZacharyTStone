@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 09:07 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 09:12 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Our greatest glory is not in never falling, but in rising every time we fall."
-<br>— Confucius
+  "Begin, be bold, and venture to be wise."
+<br>— Horace
 </blockquote>
 </h3>
 
