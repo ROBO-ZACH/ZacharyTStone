@@ -25,7 +25,7 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%">
         <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png' alt='amaura'/>
+    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png' alt='hakamo-o'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : amaura</span>
+<span class="poke-name"> Pokemon Name : hakamo-o</span>
