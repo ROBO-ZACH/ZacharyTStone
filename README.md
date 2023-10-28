@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:05 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:06 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Think for yourselves and let others enjoy the privilege to do so too."
-<br>— Voltaire
+  "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."
+<br>— Ralph Waldo Emerson
 </blockquote>
 </h3>
 
