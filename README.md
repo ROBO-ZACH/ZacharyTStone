@@ -36,9 +36,9 @@
 
 ## Featured Follower (updated hourly)
 
-#### Checkout out my follower brandonflores647. They must be pretty cool if they follow me! bob. They are super awesome...and not just because they follow me!
+#### Checkout out my follower cesarvspr. They must be pretty cool if they follow me!
 
-<img class='github-img' src='https://avatars.githubusercontent.com/u/100805072?v=4' alt='brandonflores647'/>
+<img class='github-img' src='https://avatars.githubusercontent.com/u/37849741?v=4' alt='cesarvspr'/>
 
 ##### Check out their [Github](https://www.linkedin.com/in/zacharystone42)!
 
