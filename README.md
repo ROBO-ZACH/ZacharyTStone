@@ -40,9 +40,9 @@
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/96970580?v=4' alt='Paulette-Zaldivar-Flores'/>
+<img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/72859210?v=4' alt='Stephen-Eneji'/>
 
-##### Check out their [Github](https://github.com/Paulette-Zaldivar-Flores)
+##### Check out their [Github](https://github.com/Stephen-Eneji)
 
 ---
 
