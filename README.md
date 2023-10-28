@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 11:06 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 12:06 AM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."
-<br>— Abraham Lincoln
+  "The poor man is not he who is without a cent, but he who is without a dream."
+<br>— Harry Kemp
 </blockquote>
 </h3>
 
