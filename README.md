@@ -40,7 +40,7 @@
 
 #### They must be pretty cool if they follow me!
 
-<img style="width: 200px" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
+<img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
 
 ##### Check out their [Github](https://github.com/mrBean009)
 
