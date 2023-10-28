@@ -108,7 +108,12 @@ const updateReadme = async () => {
 
     // if the user has changed then commit and push the changes
 
-    if (updateReadme === readmeContent) {
+    if (
+      updateReadme === readmeContent ||
+      readmeContent.includes(follower.login) ||
+      readmeContent.includes(follower.login.toLowerCase()) ||
+      readmeContent.includes(follower.avatar_url)
+    ) {
       console.log("No changes to the README. Exiting...");
       return;
     }
