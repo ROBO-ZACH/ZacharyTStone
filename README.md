@@ -1,4 +1,4 @@
-<h1 align="center" style="font-style: italic; font-weight: bold;"> This readme was last auto-magically updated by ROBO_ZACH at 07:59 PM EST 🪄 </h1>
+<h1 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 07:59 PM EST 🪄 </h1>
 
 ---
 
@@ -18,14 +18,14 @@
 
 <h3>
 <blockquote>
-  "The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."
-<br>— Charlotte Perkins Gilman
+  "Once you choose hope, anything's possible."
+<br>— Christopher Reeve
 </blockquote>
 </h3>
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%">
         <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/446.svg' alt='munchlax'/>
+    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/386.svg' alt='deoxys-normal'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : munchlax</span>
+<span class="poke-name"> Pokemon Name : deoxys-normal</span>
