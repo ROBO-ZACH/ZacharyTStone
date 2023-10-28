@@ -1,4 +1,4 @@
-<h1 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 07:59 PM EST 🪄 </h1>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 07:59 PM EST 🪄 </h2>
 
 ---
 
@@ -18,14 +18,14 @@
 
 <h3>
 <blockquote>
-  "Nothing in life is to be feared. It is only to be understood."
-<br>— Marie Curie
+  "Once you choose hope, anything's possible."
+<br>— Christopher Reeve
 </blockquote>
 </h3>
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%">
         <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/345.svg' alt='lileep'/>
+    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/386.svg' alt='deoxys-normal'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : lileep</span>
+<span class="poke-name"> Pokemon Name : deoxys-normal</span>
