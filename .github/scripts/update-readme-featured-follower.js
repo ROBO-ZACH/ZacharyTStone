@@ -45,7 +45,7 @@ const updateReadme = async () => {
         `#### Checkout out my follower ${follower.login}.`
       )
       .replace(
-        /##### Check out their [Github](.*)/,
+        /##### Check out their (.*)/,
         `##### Check out their [Github](${follower.html_url})`
       );
 
