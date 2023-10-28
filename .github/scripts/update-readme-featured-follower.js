@@ -3,6 +3,7 @@ const axios = require("axios");
 const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
+import { FORMATED_PLEASE_FEATURE_ME } from "./PLEASE_FEATURE_ME.js";
 
 const myFollowerURL = "https://api.github.com/users/ZacharyTStone/followers";
 
@@ -13,8 +14,16 @@ const getFeaturedFollower = async () => {
 
     console.log("followersArray", followersArray);
 
+    // filter out any followers that are not in the PLEASE_FEATURE_ME array
+
+    const filteredFollowersArray = followersArray.filter((follower) =>
+      FORMATED_PLEASE_FEATURE_ME.includes(follower?.login?.toLowerCase())
+    );
+
     const randomFollower =
-      followersArray[Math.floor(Math.random() * followersArray.length)];
+      filteredFollowersArray[
+        Math.floor(Math.random() * filteredFollowersArray.length)
+      ];
 
     console.log("randomFollower", randomFollower);
     return randomFollower;
