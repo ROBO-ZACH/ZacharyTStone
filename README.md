@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:06 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:07 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Life is 10% what happens to you and 90% how you react to it."
-<br>— Chuck Swindoll
+  "Purity and impurity depend on oneself; no one can purify another."
+<br>— The Buddha
 </blockquote>
 </h3>
 
