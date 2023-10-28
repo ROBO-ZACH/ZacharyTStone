@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Once you choose hope, anything's possible."
-<br>— Christopher Reeve
+  "Nothing in life is to be feared. It is only to be understood."
+<br>— Marie Curie
 </blockquote>
 </h3>
 
