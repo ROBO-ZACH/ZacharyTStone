@@ -28,4 +28,4 @@
     <img width="30%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/463.svg' alt='lickilicky'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : bronzong</span>
+<span class="poke-name"> Pokemon Name : veluza</span>
