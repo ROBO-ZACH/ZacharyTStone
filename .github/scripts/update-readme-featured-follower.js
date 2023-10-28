@@ -67,7 +67,7 @@ const updateReadme = async () => {
 
     // commit the changes
     console.log("Committing updated README...");
-    const commitMessage = `Update README with new quote: ${escapedQuote}`;
+    const commitMessage = `Update README with neew featured follower: ${follower.login}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
     const commitOutput = execSync(commitCommand, { stdio: "inherit" });
     console.log(commitOutput);
