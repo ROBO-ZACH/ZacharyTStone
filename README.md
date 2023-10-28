@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:27 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:29 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."
-<br>— Sam Keen
+  "A single lamp may light hundreds of thousands of lamps without itself being diminished."
+<br>— The Buddha
 </blockquote>
 </h3>
 
