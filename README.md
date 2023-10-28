@@ -54,7 +54,7 @@
 
 3. Create a new branch
 
-4. Add your username to the array in PLEASE_FEATURE_ME.js
+4. Add your username to the PLEASE_FEATURE_ME array in .github/scripts/update-readme-featured-follower.js
 
 5. Commit and push your changes.
 
