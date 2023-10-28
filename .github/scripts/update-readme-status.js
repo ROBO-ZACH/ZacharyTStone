@@ -4,8 +4,7 @@ const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
 
-const getGoogleDocsTitle = async () => {
-  // so first we need to get the html response from this url
+const getGoogleDocsContent = async () => {
 
   const URL =
     "https://docs.google.com/document/d/15CbHEE0xWPC0MQzP_xeyhmOvwhzFeGQnGX_E2J3YScs/edit?usp=sharing";
@@ -20,16 +19,6 @@ const getGoogleDocsTitle = async () => {
     console.error("Error fetching random quote:", error.message);
   }
 
-  // then we need to parse the html to get the title of the document
-
-  // ex 	<meta property="og:description" content="Enjoying the weekend.">
-
-  // so we need to find the meta tag with property="og:description"
-
-  // then we need to get the content of that tag
-
-  // then we need to return that content
-
   const metaTag = '<meta property="og:description" content="';
   const metaTagIndex = html.indexOf(metaTag);
 
@@ -43,7 +32,7 @@ const getGoogleDocsTitle = async () => {
 };
 
 const updateReadme = async () => {
-  const status = await getGoogleDocsTitle();
+  const status = await getGoogleDocsContent();
   console.log("status", status);
   const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
