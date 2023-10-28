@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-###### Checkout out Zach's follower matttdean.
+####### Checkout out Zach's follower mdwiltfong.
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/37552721?v=4' alt='matttdean'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/76107997?v=4' alt='mdwiltfong'/>
 
-##### 💻 [matttdean's Github](https://github.com/matttdean)
+##### 💻 [mdwiltfong's Github](https://github.com/mdwiltfong)
 
 ---
 
