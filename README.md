@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out pjnalls.
+#### Checkout out josephjaspers.
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/42269808?v=4' alt='pjnalls'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/20384345?v=4' alt='josephjaspers'/>
 
-##### 💻 [pjnalls's Github](https://github.com/pjnalls)
+##### 💻 [josephjaspers's Github](https://github.com/josephjaspers)
 
 ---
 
