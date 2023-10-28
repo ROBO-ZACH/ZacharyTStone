@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:32 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:33 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "To enjoy life, we must touch much of it lightly."
-<br>— Voltaire
+  "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy."
+<br>— Wayne Dyer
 </blockquote>
 </h3>
 
