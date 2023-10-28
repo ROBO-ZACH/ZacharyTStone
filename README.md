@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 on Oct 28, 04:25 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 on Oct 28, 04:32 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "You must welcome change as the rule but not as your ruler."
-<br>— Denis Waitley
+  "You have enemies? Good. That means you've stood up for something, sometime in your life."
+<br>— Winston Churchill
 </blockquote>
 </h3>
 
