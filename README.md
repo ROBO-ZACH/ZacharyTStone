@@ -36,9 +36,9 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out my follower kazumasasama. \ They must be pretty cool if they follow me!
+#### Checkout out my follower Jordan6794.  They must be pretty cool if they follow me!
 
-<img style="width: 200px" class='github-img' src='https://avatars.githubusercontent.com/u/37849741?v=4' alt='cesarvspr'/>
+<img style="width: 200px" class='github-img' src='https://avatars.githubusercontent.com/u/96371405?v=4' alt='Jordan6794'/>
 
 ##### Check out their [Github](https://www.linkedin.com/in/zacharystone42)!
 
