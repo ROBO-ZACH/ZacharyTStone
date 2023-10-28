@@ -27,6 +27,6 @@ const PLEASE_FEATURE_ME = ["ROBO-ZACH", "CliffordMorin"];
 
 // don't touch below this line please! ✋
 
-export const FORMATED_PLEASE_FEATURE_ME = PLEASE_FEATURE_ME.map((username) => {
+const FORMATED_PLEASE_FEATURE_ME = PLEASE_FEATURE_ME.map((username) => {
   return username.toLowerCase();
 });
