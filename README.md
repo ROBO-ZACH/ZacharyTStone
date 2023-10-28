@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 06:06 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 07:05 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "To improve is to change; to be perfect is to change often."
-<br>— Winston Churchill
+  "It is easier to live through someone else than to become complete yourself."
+<br>— Betty Friedan
 </blockquote>
 </h3>
 
