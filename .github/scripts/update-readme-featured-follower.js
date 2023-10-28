@@ -41,8 +41,8 @@ const updateReadme = async () => {
         `class='github-img' src='${follower.avatar_url}' alt='${follower.login}'/>`
       )
       .replace(
-        /#### Checkout out my follower (.*)/,
-        `#### Checkout out my follower ${follower.login}.`
+        /#### Checkout out Zach's follower (.*)/,
+        `#### Checkout out Zach's follower ${follower.login}.`
       )
       .replace(
         /##### Check out their (.*)/,
