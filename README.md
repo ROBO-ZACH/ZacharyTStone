@@ -10,7 +10,7 @@
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
-🤖 The best way to get in contact is through his [LinkedIn](https://www.linkedin.com/in/zacharystone42)
+🤖 The best way to get in contact with him is through [LinkedIn](https://www.linkedin.com/in/zacharystone42)
 
 ---
 
