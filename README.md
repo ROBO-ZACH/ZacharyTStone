@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:40 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:41 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "By believing passionately in something that does not yet exist, we create it."
-<br>— Nikos Kazantzakis
+  "Time changes everything except something within us which is always surprised by change."
+<br>— Thomas Hardy
 </blockquote>
 </h3>
 
