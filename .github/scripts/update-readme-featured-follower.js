@@ -16,9 +16,14 @@ const getFeaturedFollower = async () => {
 
     // filter out any followers that are not in the PLEASE_FEATURE_ME array
 
-    const filteredFollowersArray = followersArray.filter((follower) =>
-      FORMATED_PLEASE_FEATURE_ME.includes(follower?.login?.toLowerCase())
-    );
+    const filteredFollowersArray = followersArray.filter((follower) => {
+      console.log("follower", follower, follower?.login?.toLowerCase());
+      return FORMATED_PLEASE_FEATURE_ME.includes(
+        follower?.login?.toLowerCase()
+      );
+    });
+
+    console.log("filteredFollowersArray", filteredFollowersArray);
 
     const randomFollower =
       filteredFollowersArray[
