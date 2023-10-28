@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by [ROBO ZACH](https://github.com/ROBO-ZACH) 🤖 at Oct 28, 04:06 AM EST 🪄</h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by [ROBO ZACH](https://github.com/ROBO-ZACH) 🤖 at Oct 28, 04:22 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Spectacular achievement is always preceded by unspectacular preparation."
-<br>— Robert Schuller
+  "I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match."
+<br>— Mia Hamm
 </blockquote>
 </h3>
 
