@@ -3,50 +3,44 @@ const axios = require("axios");
 const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
-const puppeteer = require("puppeteer");
 
-const twitClassForIndividualTweet = 'data-testid="tweetText"';
+const getGoogleDocsTitle = async () => {
+  // so first we need to get the html response from this url
 
-const getLatestTweet = async () => {
+  const URL =
+    "https://docs.google.com/document/d/15CbHEE0xWPC0MQzP_xeyhmOvwhzFeGQnGX_E2J3YScs/edit?usp=sharing";
+
+  let html = undefined;
   try {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-
-    const username = "taco_cat99wow";
-    const twitterUrl = `https://twitter.com/${username}`;
-
-    await page.goto(twitterUrl, { waitUntil: "networkidle2" });
-
-    // Wait for the tweet element to be rendered
-    await page.waitForSelector(`[${twitClassForIndividualTweet}]`);
-
-    // Get the text content of the first tweet
-    const latestTweet = await page.$eval(
-      `[${twitClassForIndividualTweet}]`,
-      (tweetElement) => tweetElement.textContent
-    );
-
-    await browser.close();
-
-    return latestTweet.trim();
+    const response = await axios.get(URL);
+    const html_data = response.data;
+    console.log(html);
+    html = html_data;
   } catch (error) {
-    console.error("Error fetching latest tweet:", error);
-    return null;
+    console.error("Error fetching random quote:", error.message);
   }
+
+  // then we need to parse the html to get the title of the document
+
+  const title = html.match(/<title>(.*?)<\/title>/)[1];
+
+  // then we need to return the title of the document
+
+  return title;
 };
 
 const updateReadme = async () => {
-  const latestTweet = await getLatestTweet();
+  const status = await getGoogleDocsTitle();
+  console.log("status", status);
+  const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
-  console.log("latestTweet post function", latestTweet);
-
-  if (latestTweet) {
-    console.log("Updating README with new tweet...");
+  if (status) {
+    console.log("Updating README with new status...");
 
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
       /is currently/,
-      `is currently ${latestTweet}`
+      `is currently ${status}`
     );
 
     console.log("updatedReadme", updatedReadme);
@@ -67,7 +61,7 @@ const updateReadme = async () => {
 
     // commit the changes
     console.log("Committing updated README...");
-    const commitMessage = `Update README with new status: ${latestTweet}`;
+    const commitMessage = `Update README with new status: ${status}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
     const commitOutput = execSync(commitCommand, { stdio: "inherit" });
     console.log(commitOutput);
