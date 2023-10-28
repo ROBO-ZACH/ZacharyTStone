@@ -1,4 +1,4 @@
-<a href='https://github.com/ROBO-ZACH'><h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at Oct 28, 04:04 AM EST 🪄 </h2></a>
+<a href='https://github.com/ROBO-ZACH'><h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at Oct 28, 04:06 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Everyone thinks of changing the world, but no one thinks of changing himself."
-<br>— Leo Tolstoy
+  "Spectacular achievement is always preceded by unspectacular preparation."
+<br>— Robert Schuller
 </blockquote>
 </h3>
 
