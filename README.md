@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:43 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:45 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The best cure for the body is a quiet mind."
-<br>— Napoleon
+  "The universe is transformation; our life is what our thoughts make it."
+<br>— Marcus Aurelius
 </blockquote>
 </h3>
 
