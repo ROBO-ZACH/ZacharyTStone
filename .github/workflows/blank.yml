@@ -42,3 +42,6 @@ jobs:
 
       - name: Run script to update my status per my twitter
         run: node .github/scripts/update-readme-status.js
+
+      - name: Run script to set a featured follower
+        run: node .github/scripts/update-readme-featured-follower.js
