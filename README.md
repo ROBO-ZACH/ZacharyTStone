@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 09:16 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 09:43 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "If a man watches three football games in a row, he should be declared legally dead."
-<br>— Erma Bombeck
+  "Those that know, do. Those that understand, teach."
+<br>— Aristotle
 </blockquote>
 </h3>
 
