@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is currently enjoying the weekend.
+🤖 Zach is currently enjoying the weekend. He just finished coding this live update and is going to take a break to get some breakfast.
 
 🤖 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
