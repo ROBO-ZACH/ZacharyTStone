@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 01:05 AM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 02:06 AM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "The essence of true friendship is to make allowance for another's little lapses."
-<br>— Ovid
+  "It is the supreme art of the teacher to awaken joy in creative expression and knowledge."
+<br>— Albert Einstein
 </blockquote>
 </h3>
 
