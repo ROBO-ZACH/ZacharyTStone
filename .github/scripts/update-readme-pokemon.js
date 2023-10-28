@@ -4,12 +4,6 @@ const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
 
-/*   fetch(`https://pokeapi.co/api/v2/pokemon/${id}`)
-  .then(response => response.json())
-  .then(function(data){
-    let nombre = data.name;
-    let url = data.sprites.other.dream_world.front_default;
-    */
 
 const getRandomPokemon = async () => {
   const randomId = Math.floor(Math.random() * 1000) + 1;
