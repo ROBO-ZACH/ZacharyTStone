@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:59 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:00 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "By accepting yourself and being fully what you are, your presence can make others happy."
-<br>— Jane Roberts
+  "Better than a thousand hollow words, is one word that brings peace."
+<br>— The Buddha
 </blockquote>
 </h3>
 
