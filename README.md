@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:25 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:27 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family."
-<br>— Salman Rushdie
+  "It is not a lack of love, but a lack of friendship that makes unhappy marriages."
+<br>— Friedrich Nietzsche
 </blockquote>
 </h3>
 
