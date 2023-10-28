@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out my follower mrBean009.
+#### Checkout out my follower Paulette-Zaldivar-Flores.
 
 #### They must be pretty cool if they follow me!
 
-<img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
+<img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/96970580?v=4' alt='Paulette-Zaldivar-Flores'/>
 
-##### Check out their [Github](https://github.com/mrBean009)
+##### Check out their [Github](https://github.com/Paulette-Zaldivar-Flores)
 
 ---
 
