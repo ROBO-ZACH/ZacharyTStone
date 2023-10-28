@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 08:25 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 08:30 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others."
-<br>— Winston Churchill
+  "He who knows, does not speak. He who speaks, does not know."
+<br>— Laozi
 </blockquote>
 </h3>
 
