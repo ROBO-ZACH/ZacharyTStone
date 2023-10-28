@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:45 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:46 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The universe is transformation; our life is what our thoughts make it."
-<br>— Marcus Aurelius
+  "Once we accept our limits, we go beyond them."
+<br>— Albert Einstein
 </blockquote>
 </h3>
 
