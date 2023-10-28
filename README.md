@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:04 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:05 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "I do not dispute with the world; rather it is the world that disputes with me."
-<br>— The Buddha
+  "The key is to keep company only with people who uplift you, whose presence calls forth your best."
+<br>— Epictetus
 </blockquote>
 </h3>
 
