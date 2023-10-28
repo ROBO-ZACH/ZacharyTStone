@@ -28,6 +28,8 @@ const convertDateTimeToEST = (dateTime) => {
 
   // return time without seconds
   return usDate.toLocaleTimeString([], {
+    month: "short",
+    day: "numeric",
     hour: "2-digit",
     minute: "2-digit",
   });
@@ -54,7 +56,7 @@ const updateReadme = async () => {
       )
       .replace(
         /This readme was last updated by ROBO ZACH 🤖 at (.*)/,
-        `This readme was last updated by ROBO ZACH 🤖 at ${currentDateTimeInEST} EST 🪄 </h2>`
+        `This readme was last updated by ROBO ZACH 🤖 at ${currentDateTimeInEST} EST 🪄 </h2></a>`
       );
 
     console.log("updatedReadme", updatedReadme);
