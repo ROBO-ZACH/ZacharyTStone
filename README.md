@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:33 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:34 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy."
-<br>— Wayne Dyer
+  "If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum."
+<br>— Holly Near
 </blockquote>
 </h3>
 
