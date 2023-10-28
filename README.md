@@ -6,7 +6,7 @@
 
 ---
 
-🤖"Zach has been working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection) recently.
+🤖 Zach has been working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection) recently.
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
