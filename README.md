@@ -27,10 +27,10 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/543.svg' alt='venipede'/>
+    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/387.svg' alt='turtwig'/>
 </div>
 
-#### Pokemon Name : venipede</span>
+#### Pokemon Name : turtwig</span>
 
 ---
 
