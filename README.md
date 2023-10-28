@@ -34,9 +34,13 @@
 
 ---
 
-## Featured Follower
+## Featured Follower (updated hourly)
 
-#### ... Coming Soon (follow me to be featured in this section.)
+#### Checkout out my follower bob. They are super awesome...and not just because they follow me!
+
+<img class='github-img' src="avatar url' />
+
+##### Check out their [Github](https://www.linkedin.com/in/zacharystone42)!
 
 ---
 
