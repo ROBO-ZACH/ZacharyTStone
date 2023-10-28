@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 07:05 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:06 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
-<br>— Marie Curie
+  "Life is 10% what happens to you and 90% how you react to it."
+<br>— Chuck Swindoll
 </blockquote>
 </h3>
 
