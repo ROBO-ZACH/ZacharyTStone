@@ -48,7 +48,7 @@
 
 ### Want to be featured?
 
-1. Fork this repo
+1. Follow me and fork this repo
 
 2. Clone your forked repo
 
@@ -56,12 +56,10 @@
 
 4. Add your username to the array in PLEASE_FEATUR_ME.js
 
-5. Commit your changes
+5. Commit and push your changes.
 
-6. Push your changes
+6. Create a pull request
 
-7. Create a pull request
+7. Wait for your pull request to be reviewed and merged, and you'll be added to the list!
 
-8. Wait for your pull request to be reviewed and merged, and you'll be added to the list!
-
-9. Celebrate! 🎉 🎉 🎉
+8. Celebrate! 🎉 🎉 🎉
