@@ -52,7 +52,7 @@ const updateReadme = async () => {
 
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
-      /is currently/,
+      /is currently (.*)/,
       `is currently ${status}`
     );
 
@@ -73,16 +73,16 @@ const updateReadme = async () => {
     execSync(`git config --global user.name "${gitUserName}"`);
 
     // commit the changes
-    // console.log("Committing updated README...");
-    // const commitMessage = `Update README with new status: ${status}`;
-    // const commitCommand = `git commit -am "${commitMessage}"`;
-    // const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-    // console.log(commitOutput);
+    console.log("Committing updated README...");
+    const commitMessage = `Update README with new status: ${status}`;
+    const commitCommand = `git commit -am "${commitMessage}"`;
+    const commitOutput = execSync(commitCommand, { stdio: "inherit" });
+    console.log(commitOutput);
 
-    // // push the changes
-    // console.log("Pushing updated README...");
-    // const pushOutput = execSync("git push", { stdio: "inherit" });
-    // console.log(pushOutput);
+    // push the changes
+    console.log("Pushing updated README...");
+    const pushOutput = execSync("git push", { stdio: "inherit" });
+    console.log(pushOutput);
 
     console.log("README update complete!");
 
