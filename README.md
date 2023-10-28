@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out Zach's follower josephjaspers.
+##### Checkout out Zach's follower mrBean009.
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/20384345?v=4' alt='josephjaspers'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
 
-##### 💻 [josephjaspers's Github](https://github.com/josephjaspers)
+##### 💻 [mrBean009's Github](https://github.com/mrBean009)
 
 ---
 
