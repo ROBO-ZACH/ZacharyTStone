@@ -28,4 +28,4 @@
     <img width="25%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/585.svg' alt='deerling'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : deerling</span>
+<span class="poke-name"> Pokemon Name : fuecoco</span>
