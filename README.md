@@ -34,9 +34,9 @@
 
 ---
 
-## 🤖 Featured Follower (updated hourly)
+## 🤖 Featured Follower
 
-###### Checkout out Zach's follower CliffordMorin.
+###### Checkout out CliffordMorin! 🎉
 
 #### They must be pretty cool if they follow Zach!
 
