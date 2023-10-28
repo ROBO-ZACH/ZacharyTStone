@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is currently Enjoying the weekend. Status - Google Docs Status - Google Docs ...unable to load status
+🤖 Zach is currently Enjoying the weekend. Enjoying the weekend. Status - Google Docs Status - Google Docs ...unable to load status
 
 🤖 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
