@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:54 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:55 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The pain passes, but the beauty remains."
-<br>— Pierre-Auguste Renoir
+  "All that I am, or hope to be, I owe to my angel mother."
+<br>— Abraham Lincoln
 </blockquote>
 </h3>
 
