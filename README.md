@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:09 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 10:30 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "The greater our knowledge increases the more our ignorance unfolds."
-<br>— John F. Kennedy
+  "Faith in oneself is the best and safest course."
+<br>— Michelangelo
 </blockquote>
 </h3>
 
