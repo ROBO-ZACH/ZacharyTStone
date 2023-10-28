@@ -3,37 +3,36 @@ const axios = require("axios");
 const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
-const Twit = require("twit");
+const puppeteer = require("puppeteer");
+
+const twitClassForIndividualTweet = 'data-testid="tweetText"';
 
 const getLatestTweet = async () => {
-  // Replace these with your own credentials
-  const T = await new Twit({
-    consumer_key: process.env.TWITTER_CONSUMER_KEY,
-    consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-    access_token: process.env.TWITTER_ACCESS_TOKEN,
-    access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
-  });
+  try {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
 
-  const params = {
-    screen_name: "taco_cat99wow",
-    count: 1,
-  };
+    const username = "taco_cat99wow";
+    const twitterUrl = `https://twitter.com/${username}`;
 
-  let latestTweet = null;
+    await page.goto(twitterUrl, { waitUntil: "networkidle2" });
 
-  return new Promise((resolve, reject) => {
-    T.get("statuses/user_timeline", params, (err, data, response) => {
-      if (err) {
-        console.error(err);
-        reject(err);
-      } else {
-        console.log("data", data);
-        const latestTweet = data[0].text;
-        console.log("latestTweet", latestTweet);
-        resolve(latestTweet);
-      }
-    });
-  });
+    // Wait for the tweet element to be rendered
+    await page.waitForSelector(`[${twitClassForIndividualTweet}]`);
+
+    // Get the text content of the first tweet
+    const latestTweet = await page.$eval(
+      `[${twitClassForIndividualTweet}]`,
+      (tweetElement) => tweetElement.textContent
+    );
+
+    await browser.close();
+
+    return latestTweet.trim();
+  } catch (error) {
+    console.error("Error fetching latest tweet:", error);
+    return null;
+  }
 };
 
 const updateReadme = async () => {
@@ -47,7 +46,7 @@ const updateReadme = async () => {
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
       /is currently/,
-      `is currently ${quote}`
+      `is currently ${latestTweet}`
     );
 
     console.log("updatedReadme", updatedReadme);
