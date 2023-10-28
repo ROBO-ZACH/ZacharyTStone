@@ -37,12 +37,12 @@ const updateReadme = async () => {
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent
       .replace(
-        /<img class='github-img' src=(.*)/,
-        `<img class='github-img' src='${follower.avatar_url}' alt='${follower.login}'/>`
+        /class='github-img' src=(.*)/,
+        `class='github-img' src='${follower.avatar_url}' alt='${follower.login}'/>`
       )
       .replace(
         /#### Checkout out my follower (.*)/,
-        `#### Checkout out my follower ${follower.login}. They must be pretty cool if they follow me!`
+        `#### Checkout out my follower ${follower.login}. \ They must be pretty cool if they follow me!`
       )
       .replace(
         /##### Check out their [Github](.*)/,
