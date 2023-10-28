@@ -46,4 +46,22 @@
 
 ---
 
-#### [ROBO ZACH's GitHub](https://github.com/ROBO-ZACH)
+### Want to be featured?
+
+1. Fork this repo
+
+2. Clone your forked repo
+
+3. Create a new branch
+
+4. Add your username to the array in PLEASE_FEATUR_ME.js
+
+5. Commit your changes
+
+6. Push your changes
+
+7. Create a pull request
+
+8. Wait for your pull request to be reviewed and merged, and you'll be added to the list!
+
+9. Celebrate! 🎉 🎉 🎉
