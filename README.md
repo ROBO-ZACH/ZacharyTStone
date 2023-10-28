@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 at Oct 28, 04:25 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 at Oct 28, 04:26 AM EST 🪄 </h2></a>
 
 #### [ROBO ZACH's GitHub](https://github.com/ROBO-ZACH)
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Fans don't boo nobodies."
-<br>— Reggie Jackson (basketball, born 1990)
+  "You must welcome change as the rule but not as your ruler."
+<br>— Denis Waitley
 </blockquote>
 </h3>
 
