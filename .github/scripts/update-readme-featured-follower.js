@@ -3,7 +3,7 @@ const axios = require("axios");
 const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
-import { FORMATED_PLEASE_FEATURE_ME } from "./PLEASE_FEATURE_ME.js";
+const { FORMATED_PLEASE_FEATURE_ME } = require("./PLEASE_FEATURE_ME");
 
 const myFollowerURL = "https://api.github.com/users/ZacharyTStone/followers";
 
