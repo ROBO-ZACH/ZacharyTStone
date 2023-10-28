@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:23 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:25 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."
-<br>— Abraham Lincoln
+  "The extreme limit of wisdom, that's what the public calls madness."
+<br>— Jean Cocteau
 </blockquote>
 </h3>
 
