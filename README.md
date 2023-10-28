@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:29 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:38 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "A single lamp may light hundreds of thousands of lamps without itself being diminished."
-<br>— The Buddha
+  "Be less curious about people and more curious about ideas."
+<br>— Marie Curie
 </blockquote>
 </h3>
 
