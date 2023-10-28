@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Your talent is God's gift to you. What you do with it is your gift back to God."
-<br>— Leo Buscaglia
+  "By accepting yourself and being fully what you are, your presence can make others happy."
+<br>— Jane Roberts
 </blockquote>
 </h3>
 
