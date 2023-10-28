@@ -25,7 +25,7 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%">
         <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/386.svg' alt='deoxys-normal'/>
+    <img width="20%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/345.svg' alt='lileep'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : deoxys-normal</span>
+<span class="poke-name"> Pokemon Name : lileep</span>
