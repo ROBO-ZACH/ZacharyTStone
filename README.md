@@ -2,13 +2,15 @@
 
 ---
 
-🤖 Zach is currently enjoying the weekend. He just finished coding this live update and is going to take a break to get some breakfast.
+🤖 Zach is "currently enjoying the weekend".
 
-🤖 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
+---
 
-🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/)
+🤖"Zach has been working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection) recently.
 
-🤖 How to reach Zach: [zach.stone.developer@gmail.com](mailto:zach.stone.developer@gmail.com)
+🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
+
+🤖 The best way to get in contact is through his [LinkedIn](https://www.linkedin.com/in/zacharystone42)
 
 ---
 

@@ -52,8 +52,8 @@ const updateReadme = async () => {
 
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
-      /is currently (.*)/,
-      `is currently ${status}`
+      /🤖 Zach is(.*)/,
+      `🤖 Zach is ${status}`
     );
 
     console.log("updatedReadme", updatedReadme);
