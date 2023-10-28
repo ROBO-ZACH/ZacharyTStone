@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:28 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:27 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,17 +20,17 @@
 
 <h3>
 <blockquote>
-  "The exercise of an extraordinary gift is the supremist pleasure in life."
-<br>— Mark Twain
+  "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."
+<br>— Sam Keen
 </blockquote>
 </h3>
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png' alt='oranguru'/>
+    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/404.svg' alt='luxio'/>
 </div>
 
-#### 🤖 Pokemon Name : oranguru</span>
+#### 🤖 Pokemon Name : luxio</span>
 
 ---
 
@@ -54,7 +54,7 @@
 
 3. Create a new branch
 
-4. Add your username to the array in PLEASE_FEATUR_ME.js
+4. Add your username to the array in PLEASE_FEATURE_ME.js
 
 5. Commit and push your changes.
 
