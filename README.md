@@ -36,7 +36,7 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out my follower cesarvspr. They must be pretty cool if they follow me!
+#### Checkout out my follower kazumasasama. They must be pretty cool if they follow me!
 
 <img width="50%" class='github-img' src='https://avatars.githubusercontent.com/u/37849741?v=4' alt='cesarvspr'/>
 
