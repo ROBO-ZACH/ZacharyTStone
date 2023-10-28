@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out Zach's follower Paulette-Zaldivar-Flores.
+#### Checkout out Zach's follower Web-Dev-Dan.
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 50vw" class='github-img' src='https://avatars.githubusercontent.com/u/72859210?v=4' alt='Stephen-Eneji'/>
+<img style="width: 50vw" class='github-img' src='https://avatars.githubusercontent.com/u/80458000?v=4' alt='Web-Dev-Dan'/>
 
-##### Check out their [Github](https://github.com/Stephen-Eneji)
+##### Check out their [Github](https://github.com/Web-Dev-Dan)
 
 ---
 
