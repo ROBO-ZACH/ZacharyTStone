@@ -22,11 +22,24 @@ const getGoogleDocsTitle = async () => {
 
   // then we need to parse the html to get the title of the document
 
-  const title = html.match(/<title>(.*?)<\/title>/)[1];
+  // ex 	<meta property="og:description" content="Enjoying the weekend.">
 
-  // then we need to return the title of the document
+  // so we need to find the meta tag with property="og:description"
 
-  return title;
+  // then we need to get the content of that tag
+
+  // then we need to return that content
+
+  const metaTag = '<meta property="og:description" content="';
+  const metaTagIndex = html.indexOf(metaTag);
+
+  const contentStartIndex = metaTagIndex + metaTag.length;
+
+  const contentEndIndex = html.indexOf('">', contentStartIndex);
+
+  const content = html.substring(contentStartIndex, contentEndIndex);
+
+  return content;
 };
 
 const updateReadme = async () => {
@@ -60,16 +73,16 @@ const updateReadme = async () => {
     execSync(`git config --global user.name "${gitUserName}"`);
 
     // commit the changes
-    console.log("Committing updated README...");
-    const commitMessage = `Update README with new status: ${status}`;
-    const commitCommand = `git commit -am "${commitMessage}"`;
-    const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-    console.log(commitOutput);
+    // console.log("Committing updated README...");
+    // const commitMessage = `Update README with new status: ${status}`;
+    // const commitCommand = `git commit -am "${commitMessage}"`;
+    // const commitOutput = execSync(commitCommand, { stdio: "inherit" });
+    // console.log(commitOutput);
 
-    // push the changes
-    console.log("Pushing updated README...");
-    const pushOutput = execSync("git push", { stdio: "inherit" });
-    console.log(pushOutput);
+    // // push the changes
+    // console.log("Pushing updated README...");
+    // const pushOutput = execSync("git push", { stdio: "inherit" });
+    // console.log(pushOutput);
 
     console.log("README update complete!");
 
