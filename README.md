@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:37 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:39 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The possibilities are numerous once we decide to act and not react."
-<br>— George Bernard Shaw
+  "Don't look back. Something might be gaining on you."
+<br>— Satchel Paige
 </blockquote>
 </h3>
 
