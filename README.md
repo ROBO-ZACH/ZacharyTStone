@@ -27,10 +27,10 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="25%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/203.svg' alt='girafarig'/>
+    <img width="25%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/622.svg' alt='golett'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : girafarig</span>
+<span class="poke-name"> Pokemon Name : golett</span>
 
 ---
 
