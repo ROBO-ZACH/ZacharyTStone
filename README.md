@@ -25,7 +25,7 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/69.svg' alt='bellsprout'/>
+    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/540.svg' alt='sewaddle'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : bellsprout</span>
+<span class="poke-name"> Pokemon Name : sewaddle</span>
