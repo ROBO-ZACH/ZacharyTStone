@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out Zach's follower kazumasasama.
+#### Checkout out Zach's follower albertintech.
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/72055437?v=4' alt='kazumasasama'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/72161221?v=4' alt='albertintech'/>
 
-##### 💻 [kazumasasama's Github](https://github.com/kazumasasama)
+##### 💻 [albertintech's Github](https://github.com/albertintech)
 
 ---
 
