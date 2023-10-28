@@ -1,14 +1,14 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH 🤖 on Oct 28, 05:06 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 05:06 AM EST 🪄 </h2></a>
 
 ---
 
-🔭 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
+🤖 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
-🌱 Zach is currently ...unable to load status
+🤖 Zach is currently ...unable to load status
 
-👨‍💻 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/)
+🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/)
 
-📫 How to reach Zach: [zach.stone.developer@gmail.com](mailto:zach.stone.developer@gmail.com)
+🤖 How to reach Zach: [zach.stone.developer@gmail.com](mailto:zach.stone.developer@gmail.com)
 
 ---
 
