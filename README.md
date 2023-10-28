@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:38 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:40 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Be less curious about people and more curious about ideas."
-<br>— Marie Curie
+  "Trust is the lubrication that makes it possible for organizations to work."
+<br>— Warren Bennis
 </blockquote>
 </h3>
 
