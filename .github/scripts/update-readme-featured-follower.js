@@ -3,16 +3,43 @@ const axios = require("axios");
 const readmePath = "./README.md";
 require("dotenv").config();
 const { execSync } = require("child_process");
-const { FORMATED_PLEASE_FEATURE_ME } = require("./PLEASE_FEATURE_ME");
 
-const myFollowerURL = "https://api.github.com/users/ZacharyTStone/followers";
+// 🌟 Welcome to the Featured Follower Club! 🌟
+
+// This is the list of GitHub usernames we feature.
+// Want to join? Follow these easy steps:
+
+// 🚀 How to Add Yourself:
+
+// 1. 🍴 Fork this repo
+// 2. 👯 Clone your forked repo
+// 3. 🌿 Create a new branch
+// 4. 📜 Add your GitHub username to the array below
+// 5. 💾 Commit your changes
+// 6. 🚀 Push your changes
+// 7. 🔄 Create a pull request
+// 8. 🕰️ Wait for your pull request to be reviewed and merged
+// 9. 🎉 Celebrate! You're officially part of the list!
+
+// ✨ ADD YOUR USERNAME TO THE ARRAY BELOW ⬇️
+const PLEASE_FEATURE_ME = ["ROBO-ZACH", "CliffordMorin"];
+
+// ------------------------------ //
+
+// ✋ Please don't touch anything below this line!
+
+// 🎈 That's it! Welcome to the club! 🎈
+
+const FORMATED_PLEASE_FEATURE_ME = PLEASE_FEATURE_ME.map((username) => {
+  return username.toLowerCase();
+});
 
 const getFeaturedFollower = async () => {
+  const myFollowerURL = "https://api.github.com/users/ZacharyTStone/followers";
+
   try {
     const response = await axios.get(myFollowerURL);
     const followersArray = response.data;
-
-    console.log("followersArray", followersArray);
 
     // filter out any followers that are not in the PLEASE_FEATURE_ME array
 

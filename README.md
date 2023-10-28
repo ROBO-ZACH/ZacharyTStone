@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-###### Checkout out Zach's follower mdwiltfong.
+###### Checkout out Zach's follower CliffordMorin.
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/76107997?v=4' alt='mdwiltfong'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/77898207?v=4' alt='CliffordMorin'/>
 
-##### 💻 [mdwiltfong's Github](https://github.com/mdwiltfong)
+##### 💻 [CliffordMorin's Github](https://github.com/CliffordMorin)
 
 ---
 
