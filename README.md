@@ -40,7 +40,7 @@
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/72859210?v=4' alt='Stephen-Eneji'/>
+<img style="width: 50vw" class='github-img' src='https://avatars.githubusercontent.com/u/72859210?v=4' alt='Stephen-Eneji'/>
 
 ##### Check out their [Github](https://github.com/Stephen-Eneji)
 
