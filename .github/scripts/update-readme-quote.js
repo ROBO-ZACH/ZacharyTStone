@@ -54,7 +54,10 @@ const updateReadme = async () => {
         /<blockquote>(.|\n)*<\/blockquote>/,
         `<blockquote>\n  ${quote}\n</blockquote>`
       )
-      .replace(/🤖 on (.*)/, `🤖 on ${currentDateTimeInEST} EST 🪄 </h2></a>`);
+      .replace(
+        /ROBO ZACH on (.*)/,
+        `ROBO ZACH on ${currentDateTimeInEST} EST 🪄 </h2></a>`
+      );
 
     console.log("updatedReadme", updatedReadme);
     fs.writeFileSync(readmePath, updatedReadme);
