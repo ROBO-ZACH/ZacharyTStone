@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Once you choose hope, anything's possible."
-<br>— Christopher Reeve
+  "The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."
+<br>— Charlotte Perkins Gilman
 </blockquote>
 </h3>
 
