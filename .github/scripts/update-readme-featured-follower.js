@@ -106,6 +106,13 @@ const updateReadme = async () => {
     execSync(`git config --global user.email "${gitUserEmail}"`);
     execSync(`git config --global user.name "${gitUserName}"`);
 
+    // if the user has changed then commit and push the changes
+
+    if (updateReadme === readmeContent) {
+      console.log("No changes to the README. Exiting...");
+      return;
+    }
+
     // commit the changes
     console.log("Committing updated README...");
     const commitMessage = `Update README with neew featured follower: ${follower.login}`;
