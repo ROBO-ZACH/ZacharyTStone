@@ -40,7 +40,7 @@
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/77898207?v=4' alt='CliffordMorin'/>
+<img style="width: 20%" class='github-img' src='https://avatars.githubusercontent.com/u/77898207?v=4' alt='CliffordMorin'/>
 
 ##### 💻 [CliffordMorin's Github](https://github.com/CliffordMorin)
 
