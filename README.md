@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:18 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 04:06 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Luck is what happens when preparation meets opportunity."
-<br>— Seneca the Younger
+  "The final proof of greatness lies in being able to endure criticism without resentment."
+<br>— Elbert Hubbard
 </blockquote>
 </h3>
 
