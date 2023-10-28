@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:30 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by ROBO ZACH on Oct 28, 08:56 AM EST 🪄 </h2></a>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "Adopt the pace of nature: her secret is patience."
-<br>— Ralph Waldo Emerson
+  "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."
+<br>— The Buddha
 </blockquote>
 </h3>
 
