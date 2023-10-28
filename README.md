@@ -2,9 +2,9 @@
 
 ---
 
-🤖 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
-
 🤖 Zach is currently ...unable to load status
+
+🤖 Zach is working on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection)
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/)
 
