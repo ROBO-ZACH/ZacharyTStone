@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out Zach's follower albertintech.
+#### Checkout out pjnalls.
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/72161221?v=4' alt='albertintech'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/42269808?v=4' alt='pjnalls'/>
 
-##### 💻 [albertintech's Github](https://github.com/albertintech)
+##### 💻 [pjnalls's Github](https://github.com/pjnalls)
 
 ---
 
