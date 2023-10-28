@@ -16,7 +16,7 @@
 
 <!-- Add a Quotes section -->
 
-## Random Quote
+## 🤖 Random Quote
 
 <h3>
 <blockquote>
@@ -30,15 +30,15 @@
     <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/164.svg' alt='noctowl'/>
 </div>
 
-#### Pokemon Name : noctowl</span>
+#### 🤖 Pokemon Name : noctowl</span>
 
 ---
 
-## Featured Follower (updated hourly)
+## 🤖 Featured Follower (updated hourly)
 
 #### Checkout out my follower cesarvspr. They must be pretty cool if they follow me!
 
-<img class='github-img' src='https://avatars.githubusercontent.com/u/37849741?v=4' alt='cesarvspr'/>
+<img width="50%" class='github-img' src='https://avatars.githubusercontent.com/u/37849741?v=4' alt='cesarvspr'/>
 
 ##### Check out their [Github](https://www.linkedin.com/in/zacharystone42)!
 
