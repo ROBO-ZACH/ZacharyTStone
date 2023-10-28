@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:46 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:57 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,7 +20,7 @@
 
 <h3>
 <blockquote>
-  "Once we accept our limits, we go beyond them."
+  "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."
 <br>— Albert Einstein
 </blockquote>
 </h3>
