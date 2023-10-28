@@ -36,9 +36,9 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out my follower Paulette-Zaldivar-Flores.
+#### Checkout out Zach's follower Paulette-Zaldivar-Flores.
 
-#### They must be pretty cool if they follow me!
+#### They must be pretty cool if they follow him!
 
 <img style="width: 150px" class='github-img' src='https://avatars.githubusercontent.com/u/96970580?v=4' alt='Paulette-Zaldivar-Flores'/>
 
