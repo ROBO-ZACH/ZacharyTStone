@@ -42,7 +42,7 @@
 
 <img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
 
-##### Check out their [Github](https://github.com/mrBean009)
+##### 💻 [Web-Dev-Dan's Github](https://github.com/Web-Dev-Dan)
 
 ---
 
