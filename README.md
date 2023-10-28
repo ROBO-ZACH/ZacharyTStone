@@ -27,10 +27,10 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/381.svg' alt='latios'/>
+    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/193.svg' alt='yanma'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : latios</span>
+<span class="poke-name"> Pokemon Name : yanma</span>
 
 ---
 
