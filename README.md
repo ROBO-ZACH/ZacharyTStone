@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:40 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 02:42 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Trust is the lubrication that makes it possible for organizations to work."
-<br>— Warren Bennis
+  "In the depth of winter, I finally learned that there was within me an invincible summer."
+<br>— Albert Camus
 </blockquote>
 </h3>
 
