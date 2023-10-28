@@ -38,7 +38,7 @@
 
 #### Checkout out pjnalls.
 
-#### They must be pretty cool if they follow him!
+#### They must be pretty cool if they follow Zach!
 
 <img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/42269808?v=4' alt='pjnalls'/>
 
