@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:17 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 12:19 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "I have learned that to be with those I like is enough."
-<br>— Walt Whitman
+  "Compassion and happiness are not a sign of weakness but a sign of strength."
+<br>— Dalai Lama
 </blockquote>
 </h3>
 
