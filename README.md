@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 04:19 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 05:05 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The language of friendship is not words but meanings."
-<br>— Henry David Thoreau
+  "Eternal nothingness is fine if you happen to be dressed for it."
+<br>— Woody Allen
 </blockquote>
 </h3>
 
