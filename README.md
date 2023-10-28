@@ -28,4 +28,4 @@
     <img width="30%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/613.svg' alt='cubchoo'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : cubchoo</span>
+<span class="poke-name"> Pokemon Name : pyroar</span>
