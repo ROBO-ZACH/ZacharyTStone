@@ -5,7 +5,6 @@ require("dotenv").config();
 const { execSync } = require("child_process");
 
 const getGoogleDocsContent = async () => {
-
   const URL =
     "https://docs.google.com/document/d/15CbHEE0xWPC0MQzP_xeyhmOvwhzFeGQnGX_E2J3YScs/edit?usp=sharing";
 
@@ -60,6 +59,13 @@ const updateReadme = async () => {
 
     execSync(`git config --global user.email "${gitUserEmail}"`);
     execSync(`git config --global user.name "${gitUserName}"`);
+
+    const statusHasChanged = readmeContent !== updatedReadme;
+
+    if (!statusHasChanged) {
+      console.log("No changes to commit.");
+      return;
+    }
 
     // commit the changes
     console.log("Committing updated README...");
