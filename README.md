@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."
-<br>— M. Scott Peck
+  "The best cure for the body is a quiet mind."
+<br>— Napoleon
 </blockquote>
 </h3>
 
