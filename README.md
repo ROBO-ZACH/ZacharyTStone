@@ -30,7 +30,7 @@
     <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/605.svg' alt='elgyem'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : elgyem</span>
+#### Pokemon Name : girafarig
 
 ---
 
