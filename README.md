@@ -32,4 +32,12 @@
 
 <span class="poke-name"> Pokemon Name : latios</span>
 
+---
+
+## Featured Follower
+
+#### ... Coming Soon (follow me to be featured in this section.)
+
+---
+
 #### [ROBO ZACH's GitHub](https://github.com/ROBO-ZACH)
