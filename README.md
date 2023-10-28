@@ -36,11 +36,11 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out my follower Jordan6794.
+#### Checkout out my follower pjnalls.
 
 #### They must be pretty cool if they follow me!
 
-<img style="width: 200px" class='github-img' src='https://avatars.githubusercontent.com/u/96371405?v=4' alt='Jordan6794'/>
+<img style="width: 200px" class='github-img' src='https://avatars.githubusercontent.com/u/42269808?v=4' alt='pjnalls'/>
 
 ##### Check out their [Github](https://www.linkedin.com/in/zacharystone42)!
 
