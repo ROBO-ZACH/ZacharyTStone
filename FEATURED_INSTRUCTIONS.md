@@ -1,6 +1,4 @@
-## Steps to be featured in my readme!
-
-#### Note: the featured user is updated once an hour and is choosen randomly from the list.
+## Steps to be featured in my readme that refreshes every hour.
 
 1. Follow me and fork this repo
 
@@ -16,4 +14,4 @@
 
 7. Wait for your pull request to be reviewed and merged, and you'll be added to the list!
 
-8. Celebrate! 🎉 🎉 🎉
+8. Celebrate and wait in anticipation knowing that you will be regularly featured on my README! 🎉 🎉 🎉
