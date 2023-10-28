@@ -40,7 +40,7 @@
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 50vw" class='github-img' src='https://avatars.githubusercontent.com/u/80458000?v=4' alt='Web-Dev-Dan'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/80458000?v=4' alt='Web-Dev-Dan'/>
 
 ##### Check out their [Github](https://github.com/Web-Dev-Dan)
 
