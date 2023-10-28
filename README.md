@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:05 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:06 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The key is to keep company only with people who uplift you, whose presence calls forth your best."
-<br>— Epictetus
+  "I never worry about action, but only inaction."
+<br>— Winston Churchill
 </blockquote>
 </h3>
 
