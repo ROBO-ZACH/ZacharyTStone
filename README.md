@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 08:30 PM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 09:25 PM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "He who knows, does not speak. He who speaks, does not know."
-<br>— Laozi
+  "Remember always that you not only have the right to be an individual, you have an obligation to be one."
+<br>— Eleanor Roosevelt
 </blockquote>
 </h3>
 
