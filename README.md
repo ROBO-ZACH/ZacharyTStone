@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."
-<br>— Daisaku Ikeda
+  "It is in the nature of things that joy arises in a person free from remorse."
+<br>— The Buddha
 </blockquote>
 </h3>
 
