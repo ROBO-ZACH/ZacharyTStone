@@ -22,7 +22,7 @@ const { execSync } = require("child_process");
 // 9. 🎉 Celebrate! You're officially part of the list!
 
 // ✨ ADD YOUR USERNAME TO THE ARRAY BELOW ⬇️
-const PLEASE_FEATURE_ME = ["ROBO-ZACH", "CliffordMorin"];
+const PLEASE_FEATURE_ME = ["ROBO-ZACH", "CliffordMorin", "josephjaspers"];
 
 // ------------------------------ //
 
