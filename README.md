@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:13 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:18 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things."
-<br>— Leonardo da Vinci
+  "Luck is what happens when preparation meets opportunity."
+<br>— Seneca the Younger
 </blockquote>
 </h3>
 
