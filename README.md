@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower (updated hourly)
 
-#### Checkout out Zach's follower Web-Dev-Dan.
+#### Checkout out Zach's follower mrBean009.
 
 #### They must be pretty cool if they follow him!
 
-<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/80458000?v=4' alt='Web-Dev-Dan'/>
+<img style="width: 10%" class='github-img' src='https://avatars.githubusercontent.com/u/104507475?v=4' alt='mrBean009'/>
 
-##### Check out their [Github](https://github.com/Web-Dev-Dan)
+##### Check out their [Github](https://github.com/mrBean009)
 
 ---
 
