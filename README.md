@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:03 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 03:05 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "I am always doing that which I cannot do, in order that I may learn how to do it."
-<br>— Pablo Picasso
+  "Your sacred space is where you can find yourself again and again."
+<br>— Joseph Campbell
 </blockquote>
 </h3>
 
