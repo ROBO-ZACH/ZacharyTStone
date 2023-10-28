@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 02:06 AM EST 🪄 </h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"> This readme was last updated by ROBO ZACH 🤖 at 03:05 AM EST 🪄 </h2>
 
 ---
 
@@ -18,8 +18,8 @@
 
 <h3>
 <blockquote>
-  "It is the supreme art of the teacher to awaken joy in creative expression and knowledge."
-<br>— Albert Einstein
+  "Ardently do today what must be done. Who knows? Tomorrow, death comes."
+<br>— The Buddha
 </blockquote>
 </h3>
 
