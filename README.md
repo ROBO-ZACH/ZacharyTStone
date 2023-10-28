@@ -25,9 +25,9 @@
 
 <div style="display: flex; flex-wrap: no-wrap; width: 100%; gap: 16px">
         <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zacharytstone" alt="zacharytstone" />
-    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png' alt='diancie'/>
+    <img width="15%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/573.svg' alt='cinccino'/>
 </div>
 
-<span class="poke-name"> Pokemon Name : diancie</span>
+<span class="poke-name"> Pokemon Name : cinccino</span>
 
 #### [ROBO ZACH's GitHub](https://github.com/ROBO-ZACH)
