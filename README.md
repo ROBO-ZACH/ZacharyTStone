@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 06:32 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 06:48 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "If you think you can, you can. And if you think you can't, you're right."
-<br>— Henry Ford
+  "The function of wisdom is to discriminate between good and evil."
+<br>— Cicero
 </blockquote>
 </h3>
 
