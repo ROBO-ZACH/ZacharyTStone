@@ -44,9 +44,21 @@ const updateReadme = async () => {
 
     const repoName = event.repo.name;
     const repoURL = event.repo.url;
-    const time = new Date(event.created_at).toLocaleString("en-US", {
-      timeZone: "America/New_York",
+
+    // this should be 10/29/2023 format
+    const date = new Date(event.created_at).toLocaleDateString("en-US", {
+      month: "long",
+      day: "numeric",
+      year: "numeric",
     });
+
+    // this should be 10:00 AM format
+    const time = new Date(event.created_at).toLocaleTimeString("en-US", {
+      hour: "numeric",
+      minute: "numeric",
+    });
+
+    const timeString = `${date} at ${time} EST  🕙`;
 
     if (!repoName || !repoURL || !time) {
       console.error("Error parsing event data:", event);
@@ -58,7 +70,7 @@ const updateReadme = async () => {
     // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
       /🤖 Zach recently worked on (.*)/,
-      `🤖 Zach recently worked on [${repoName}](${repoURL}) at ${time}`
+      `🤖 Zach recently worked on [${repoName}](${repoURL}) at ${timeString}`
     );
 
     console.log("updatedReadme", updatedReadme);
