@@ -36,13 +36,13 @@
 
 ## 🤖 Featured Follower
 
-###### Checkout out CliffordMorin! 🎉
+###### Checkout out josephjaspers! 🎉
 
 #### They must be pretty cool if they follow Zach!
 
-<img style="width: 20%" class='github-img' src='https://avatars.githubusercontent.com/u/77898207?v=4' alt='CliffordMorin'/>
+<img style="width: 20%" class='github-img' src='https://avatars.githubusercontent.com/u/20384345?v=4' alt='josephjaspers'/>
 
-##### 💻 [CliffordMorin's Github](https://github.com/CliffordMorin)
+##### 💻 [josephjaspers's Github](https://github.com/josephjaspers)
 
 ---
 
