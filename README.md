@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:13 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 11:06 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."
-<br>— Charlotte Perkins Gilman
+  "Fame usually comes to those who are thinking about something else."
+<br>— Oliver Wendell Holmes Jr.
 </blockquote>
 </h3>
 
