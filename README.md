@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:34 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:41 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "No one has a finer command of language than the person who keeps his mouth shut."
-<br>— Sam Rayburn
+  "But at any rate, the point is that God is what nobody admits to being, and everybody really is."
+<br>— Alan Watts
 </blockquote>
 </h3>
 
