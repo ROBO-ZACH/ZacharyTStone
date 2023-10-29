@@ -6,7 +6,7 @@
 
 ---
 
-🤖 Zach recently worked on [My Anime Collection](https://github.com/ZacharyTStone/My-Anime-Collection) recently.
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://api.github.com/repos/ZacharyTStone/ZacharyTStone) at 10/29/2023, 12:34:20 PM
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
