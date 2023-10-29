@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is studying Japanese at Starbucks.
+🤖 Zach is learning VIM commands.
 
 ---
 
