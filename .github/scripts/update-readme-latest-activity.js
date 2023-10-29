@@ -48,9 +48,8 @@ const updateReadme = async () => {
     // this should be 10/29/2023 format in EST
     const date = new Date(event.created_at).toLocaleDateString("en-US", {
       timeZone: "America/New_York",
-      hour: "numeric",
-      minute: "numeric",
       month: "long",
+      day: "numeric",
     });
 
     // this should be 10:00 AM format in eastern time!!
