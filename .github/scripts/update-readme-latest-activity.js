@@ -59,7 +59,7 @@ const updateReadme = async () => {
       minute: "numeric",
     });
 
-    const timeString = `${time} - ${date}  EST  🕙`;
+    const timeString = `${time} - ${date}  (EST)  🕙`;
 
     if (!repoName || !repoURL || !time) {
       console.error("Error parsing event data:", event);
