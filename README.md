@@ -6,7 +6,7 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://api.github.com/repos/ZacharyTStone/ZacharyTStone) at 6:32 PM - October 29  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://api.github.com/repos/ZacharyTStone/ZacharyTStone) at 6:32 PM - October 29 (EST) 🕙
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
@@ -42,4 +42,4 @@
 
 ---
 
-###### Want to featured? [Follow These Steps](https://github.com/ZacharyTStone/ZacharyTStone/blob/main/FEATURED_INSTRUCTIONS.md)
+###### Want to featured? ➡️ [Follow These Steps](https://github.com/ZacharyTStone/ZacharyTStone/blob/main/FEATURED_INSTRUCTIONS.md)
