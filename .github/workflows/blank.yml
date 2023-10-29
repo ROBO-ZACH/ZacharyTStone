@@ -45,3 +45,6 @@ jobs:
 
       - name: Run script to set a featured follower
         run: node .github/scripts/update-readme-featured-follower.js
+
+      - name: Run Script to update latest activity
+        run: node .github/scripts/update-readme-activity.js
