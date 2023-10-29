@@ -45,20 +45,22 @@ const updateReadme = async () => {
     const repoName = event.repo.name;
     const repoURL = event.repo.url;
 
-    // this should be 10/29/2023 format
+    // this should be 10/29/2023 format in EST
     const date = new Date(event.created_at).toLocaleDateString("en-US", {
+      timeZone: "America/New_York",
+      hour: "numeric",
+      minute: "numeric",
       month: "long",
-      day: "numeric",
-      year: "numeric",
     });
 
-    // this should be 10:00 AM format
+    // this should be 10:00 AM format in eastern time!!
     const time = new Date(event.created_at).toLocaleTimeString("en-US", {
+      timeZone: "America/New_York",
       hour: "numeric",
       minute: "numeric",
     });
 
-    const timeString = `${date} at ${time} EST  🕙`;
+    const timeString = `${time} - ${date}  EST  🕙`;
 
     if (!repoName || !repoURL || !time) {
       console.error("Error parsing event data:", event);
