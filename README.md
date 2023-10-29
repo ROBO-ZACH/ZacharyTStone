@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:41 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:44 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "But at any rate, the point is that God is what nobody admits to being, and everybody really is."
-<br>— Alan Watts
+  "Do more than dream: work."
+<br>— William Arthur Ward
 </blockquote>
 </h3>
 
