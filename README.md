@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is enjoying the weekend.
+🤖 Zach is studying Japanese at Starbucks.
 
 ---
 
