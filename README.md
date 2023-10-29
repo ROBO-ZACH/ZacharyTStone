@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:33 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:34 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it."
-<br>— Michelangelo
+  "No one has a finer command of language than the person who keeps his mouth shut."
+<br>— Sam Rayburn
 </blockquote>
 </h3>
 
