@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 05:05 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 06:06 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Knowing your own darkness is the best method for dealing with the darkness of other people."
-<br>— Carl Jung
+  "I'm a great believer in luck and I find the harder I work, the more I have of it."
+<br>— Thomas Jefferson
 </blockquote>
 </h3>
 
