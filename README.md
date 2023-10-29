@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:06 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:18 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The time to repair the roof is when the sun is shining."
-<br>— John F. Kennedy
+  "When we seek to discover the best in others, we somehow bring out the best in ourselves."
+<br>— William Arthur Ward
 </blockquote>
 </h3>
 
