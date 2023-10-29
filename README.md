@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you."
-<br>— Paramahansa Yogananda
+  "There are many ways of going forward, but only one way of standing still."
+<br>— Franklin D. Roosevelt
 </blockquote>
 </h3>
 
