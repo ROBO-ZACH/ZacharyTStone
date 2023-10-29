@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 05:06 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 06:06 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Do not wait for leaders; do it alone, person to person."
-<br>— Mother Teresa
+  "Think for yourselves and let others enjoy the privilege to do so too."
+<br>— Voltaire
 </blockquote>
 </h3>
 
