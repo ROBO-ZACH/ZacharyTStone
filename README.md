@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 07:05 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 08:07 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "You cannot be lonely if you like the person you're alone with."
-<br>— Wayne Dyer
+  "Go to your bosom: Knock there and ask your heart what it doth know."
+<br>— William Shakespeare
 </blockquote>
 </h3>
 
