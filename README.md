@@ -6,7 +6,7 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/My-Anime-Collection](https://api.github.com/repos/ZacharyTStone/My-Anime-Collection) at 2:23 PM - October 29  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/My-Anime-Collection](https://api.github.com/repos/ZacharyTStone/My-Anime-Collection) at 2:23 PM - October 29 (EST) 🕙
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
@@ -36,16 +36,8 @@
 
 ## 🤖 Featured Follower
 
-###### Checkout out CliffordMorin! 🎉
+###### 💻 Checkout out [CliffordMorin!](https://github.com/CliffordMorin) 🎉
 
-#### They must be pretty cool if they follow Zach!
+###### They must be pretty cool if they follow Zach!
 
-<img style="width: 20%" class='github-img' src='https://avatars.githubusercontent.com/u/77898207?v=4' alt='CliffordMorin'/>
-
-##### 💻 [CliffordMorin's Github](https://github.com/CliffordMorin)
-
----
-
-### Want to be featured?
-
-##### [Follow these steps](https://github.com/ZacharyTStone/ZacharyTStone/blob/main/FEATURED_INSTRUCTIONS.md)
+###### Want to featured? [Follow These Steps](https://github.com/ZacharyTStone/ZacharyTStone/blob/main/FEATURED_INSTRUCTIONS.md)
