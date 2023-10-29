@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 07:05 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 08:23 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "It is easier to live through someone else than to become complete yourself."
-<br>— Betty Friedan
+  "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."
+<br>— Ralph Waldo Emerson
 </blockquote>
 </h3>
 
