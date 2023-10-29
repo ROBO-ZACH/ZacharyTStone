@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 11:06 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 12:06 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Football is football and talent is talent. But the mindset of your team makes all the difference."
-<br>— Robert Griffin III
+  "The time to repair the roof is when the sun is shining."
+<br>— John F. Kennedy
 </blockquote>
 </h3>
 
