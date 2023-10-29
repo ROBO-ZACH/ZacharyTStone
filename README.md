@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 09:29 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 28, 10:13 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The truth of the matter is that you always know the right thing to do. The hard part is doing it."
-<br>— Norman Schwarzkopf
+  "The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."
+<br>— Charlotte Perkins Gilman
 </blockquote>
 </h3>
 
