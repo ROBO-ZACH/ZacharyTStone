@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 03:05 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 04:06 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Peace cannot be kept by force. It can only be achieved by understanding."
-<br>— Albert Einstein
+  "Fame usually comes to those who are thinking about something else."
+<br>— Oliver Wendell Holmes Jr.
 </blockquote>
 </h3>
 
