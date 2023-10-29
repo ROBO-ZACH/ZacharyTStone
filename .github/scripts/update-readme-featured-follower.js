@@ -103,8 +103,8 @@ const updateReadme = async () => {
       return;
     }
 
-    execSync(`git config --global user.email "${gitUserEmail}"`);
-    execSync(`git config --global user.name "${gitUserName}"`);
+    execSync(`git config user.email "${gitUserEmail}"`);
+    execSync(`git config user.name "${gitUserName}"`);
 
     // if the user has changed then commit and push the changes
 
