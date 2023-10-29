@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 10:05 AM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 11:06 AM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Where there is great love, there are always miracles."
-<br>— Willa Cather
+  "Football is football and talent is talent. But the mindset of your team makes all the difference."
+<br>— Robert Griffin III
 </blockquote>
 </h3>
 
