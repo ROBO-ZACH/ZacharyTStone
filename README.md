@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 02:18 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 03:06 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."
-<br>— Carl Jung
+  "Love is the flower you've got to let grow."
+<br>— John Lennon
 </blockquote>
 </h3>
 
