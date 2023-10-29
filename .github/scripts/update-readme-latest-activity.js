@@ -68,13 +68,19 @@ const updateReadme = async () => {
 
     const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
-    // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
       /🤖 Zach recently worked on (.*)/,
       `🤖 Zach recently worked on [${repoName}](${repoURL}) at ${timeString}`
     );
 
     console.log("updatedReadme", updatedReadme);
+
+    // if the time hasn't changed then exit
+    if (readmeContent.includes(timeString)) {
+      console.log("latest event already in README. Exiting...");
+      return;
+    }
+
     fs.writeFileSync(readmePath, updatedReadme);
 
     const gitUserEmail = process.env.GIT_USER_EMAIL;
