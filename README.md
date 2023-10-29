@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 06:30 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 06:32 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "There are many ways of going forward, but only one way of standing still."
-<br>— Franklin D. Roosevelt
+  "If you think you can, you can. And if you think you can't, you're right."
+<br>— Henry Ford
 </blockquote>
 </h3>
 
