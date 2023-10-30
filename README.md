@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 01:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 02:04 AM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Miracles come in moments. Be ready and willing."
-<br>— Wayne Dyer
+  "What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there."
+<br>— The Buddha
 </blockquote>
 </h3>
 
