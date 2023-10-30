@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 06:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 07:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Love all, trust a few, do wrong to none."
-<br>— William Shakespeare
+  "The most successful people are those who are good at plan B."
+<br>— James A. Yorke
 </blockquote>
 </h3>
 
