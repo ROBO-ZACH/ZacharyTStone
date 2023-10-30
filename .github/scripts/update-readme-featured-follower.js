@@ -78,10 +78,15 @@ const updateReadme = async () => {
   const readmeContent = await fs.readFile(README_PATH, "utf-8");
 
   // Use a regular expression to find and replace the blockquote content
-  const updatedReadme = readmeContent.replace(
-    /#### 💻 Checkout out (.*)/,
-    `#### 💻 Checkout out [${follower.login}](${follower.html_url})! 🎉`
-  );
+  const updatedReadme = readmeContent
+    .replace(
+      /#### 💻 Checkout out (.*)/,
+      `#### 💻 Checkout out [${follower.login}](${follower.html_url})! 🎉`
+    )
+    .replace(
+      /<img width="50%" class=github-img src=(.*)/,
+      `<img width="50%" class=github-img src='${follower.avatar_url}' alt='${follower.login}'/>`
+    );
 
   console.log("updatedReadme", updatedReadme);
 
