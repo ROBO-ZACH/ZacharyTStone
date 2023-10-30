@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 07:06 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 08:22 PM EST 🪄 </h2></a>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "What worries you masters you."
-<br>— Haddon Robinson
+  "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself."
+<br>— Henry Reed
 </blockquote>
 </h3>
 
