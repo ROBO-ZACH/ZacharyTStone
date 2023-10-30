@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 10:12 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 10:15 PM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Successful people ask better questions, and as a result, they get better answers."
-<br>— Tony Robbins
+  "Decision is a risk rooted in the courage of being free."
+<br>— Paul Tillich
 </blockquote>
 </h3>
 
