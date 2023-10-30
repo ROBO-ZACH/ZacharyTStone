@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Love and compassion open our own inner life, reducing stress, distrust and loneliness."
-<br>— Dalai Lama
+  "Fear not for the future, weep not for the past."
+<br>— Percy Bysshe Shelley
 </blockquote>
 </h3>
 
