@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:27 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:35 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."
-<br>— François de La Rochefoucauld
+  "Let the beauty of what you love be what you do."
+<br>— Rumi
 </blockquote>
 </h3>
 
