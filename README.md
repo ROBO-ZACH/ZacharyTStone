@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 01:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 02:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The longer we dwell on our misfortunes, the greater is their power to harm us."
-<br>— Voltaire
+  "Never apologize for showing feelings. When you do so, you apologize for the truth."
+<br>— Benjamin Disraeli
 </blockquote>
 </h3>
 
