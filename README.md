@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:36 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:40 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Whoever doesn't flare up at someone who's angry wins a battle hard to win."
-<br>— The Buddha
+  "Fear grows in darkness; if you think there's a bogeyman around, turn on the light."
+<br>— Dorothy Thompson
 </blockquote>
 </h3>
 
