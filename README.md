@@ -6,7 +6,7 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 9:40 AM - October 30  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 9:40 AM - October 30 (EST) 🕙
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
@@ -65,7 +65,7 @@
 
 ###### They must be pretty cool if they follow Zach!
 
-👤 <a href="https://github.com/CliffordMorin"><img width="30%" class=github-img src=https://avatars.githubusercontent.com/u/77898207?v=4' alt='CliffordMorin'/></a>
+👤 [![CliffordMorin](https://avatars.githubusercontent.com/u/77898207?v=4)](https://github.com/CliffordMorin)
 
 ---
 

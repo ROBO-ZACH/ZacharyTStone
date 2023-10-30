@@ -85,7 +85,7 @@ const updateReadme = async () => {
     )
     .replace(
       /👤 (.*)/,
-      `👤 <a href="https://github.com/${follower.login}"><img width="30%" class=github-img src=${follower.avatar_url}' alt='${follower.login}'/></a>`
+      `👤 [![${follower.login}](${follower.avatar_url})](https://github.com/${follower.login}) `
     );
 
   console.log("updatedReadme", updatedReadme);
