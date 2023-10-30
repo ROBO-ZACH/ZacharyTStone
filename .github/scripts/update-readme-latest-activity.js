@@ -43,7 +43,13 @@ const updateReadme = async () => {
   console.log("Updating README with the latest event..");
 
   const repoName = event.repo.name;
-  const repoURL = event.repo.url;
+  const baseURL = "https://github.com/";
+  const isPublic = event["public"];
+
+  if (!isPublic) {
+    console.log("Event is not public. Exiting...");
+    return;
+  }
 
   // this should be 10/29/2023 format in EST
   const date = new Date(event.created_at).toLocaleDateString("en-US", {
@@ -71,7 +77,7 @@ const updateReadme = async () => {
 
     const updatedReadme = readmeContent.replace(
       /🤖 Zach recently worked on (.*)/,
-      `🤖 Zach recently worked on [${repoName}](${repoURL}) at ${timeString}`
+      `🤖 Zach recently worked on [${repoName}](${baseURL}${repoName}) at ${timeString}`
     );
 
     console.log("updatedReadme", updatedReadme);
