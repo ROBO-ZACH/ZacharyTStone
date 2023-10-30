@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is learning VIM commands.
+🤖 Zach is dreaming of a world without build errors 🛌💤💤
 
 ---
 
