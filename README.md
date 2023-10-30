@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 03:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 04:04 AM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "A thing well said will be wit in all languages."
-<br>— John Dryden
+  "We can change our lives. We can do, have, and be exactly what we wish."
+<br>— Tony Robbins
 </blockquote>
 </h3>
 
