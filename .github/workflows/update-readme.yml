@@ -26,8 +26,8 @@ jobs:
         with:
           node-version: 16
 
-      # - name: Install dependencies (removed gitignore and testing uing cached node_modules)
-      #   run: npm install
+      - name: Install dependencies (removed gitignore and testing uing cached node_modules)
+        run: npm install
 
       # - name: Set Git user name and email
       #   run: |
