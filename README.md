@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:13 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:18 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It is only with the heart that one can see rightly, what is essential is invisible to the eye."
-<br>— Antoine de Saint-Exupéry
+  "Love and compassion open our own inner life, reducing stress, distrust and loneliness."
+<br>— Dalai Lama
 </blockquote>
 </h3>
 
