@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 08:55 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:05 AM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."
-<br>— Oscar Wilde
+  "Do not give your attention to what others do or fail to do; give it to what you do or fail to do."
+<br>— Dhammapada
 </blockquote>
 </h3>
 
