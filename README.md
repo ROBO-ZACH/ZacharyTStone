@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 10:58 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 11:04 PM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone."
-<br>— John Burroughs
+  "In every walk with nature, one receives far more than he seeks."
+<br>— John Muir
 </blockquote>
 </h3>
 
