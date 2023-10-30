@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;">This readme was last updated by 🤖 on Oct 29, 08:44 PM EST 🪄 </h2></a>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 08:44 PM EST 🪄 </a></h2>
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://api.github.com/repos/ZacharyTStone/ZacharyTStone) at 8:43 PM - October 29  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://api.github.com/repos/ZacharyTStone/ZacharyTStone) at 8:43 PM - October 29 (EST) 🕙
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
