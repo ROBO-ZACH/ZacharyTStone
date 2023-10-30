@@ -1,9 +1,10 @@
-const fs = require("fs");
+const fs = require("fs/promises");
 const axios = require("axios");
-const readmePath = "./README.md";
-require("dotenv").config();
 const { execSync } = require("child_process");
 
+require("dotenv").config();
+
+const README_PATH = "./README.md";
 const ONLY_LOGIN_TO_CHECK = "ZacharyTStone";
 
 const getLatestEvent = async () => {
@@ -11,23 +12,18 @@ const getLatestEvent = async () => {
 
   try {
     const response = await axios.get(myFollowerURL);
-    const LatestEvents = response.data;
+    const latestEvents = response.data;
 
     // sort the array by created_at date
+    const sortedEvents = latestEvents
+      .filter((event) => event?.actor?.login === ONLY_LOGIN_TO_CHECK)
+      .sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-    const sortedEvents = LatestEvents.sort((a, b) => {
-      if (a.created_at && b.created_at) {
-        return new Date(b.created_at) - new Date(a.created_at);
-      }
-    }).filter((event) => {
-      return event?.actor?.login === ONLY_LOGIN_TO_CHECK;
-    });
+    const latestEvent = sortedEvents[0];
 
-    const LatestEvent = sortedEvents[0];
+    console.log("latestEvent", latestEvent);
 
-    console.log("LatestEvent", LatestEvent);
-
-    return LatestEvent;
+    return latestEvent;
   } catch (error) {
     console.error("Error fetching latest event:", error.message);
     return null;
@@ -39,34 +35,39 @@ const updateReadme = async () => {
 
   console.log("event", event);
 
-  if (event) {
-    console.log("Updating README with latest event..");
+  if (!event) {
+    console.log("Unable to fetch the latest event. Exiting...");
+    return;
+  }
 
-    const repoName = event.repo.name;
-    const repoURL = event.repo.url;
+  console.log("Updating README with the latest event..");
 
-    // this should be 10/29/2023 format in EST
-    const date = new Date(event.created_at).toLocaleDateString("en-US", {
-      timeZone: "America/New_York",
-      month: "long",
-      day: "numeric",
-    });
+  const repoName = event.repo.name;
+  const repoURL = event.repo.url;
 
-    // this should be 10:00 AM format in eastern time!!
-    const time = new Date(event.created_at).toLocaleTimeString("en-US", {
-      timeZone: "America/New_York",
-      hour: "numeric",
-      minute: "numeric",
-    });
+  // this should be 10/29/2023 format in EST
+  const date = new Date(event.created_at).toLocaleDateString("en-US", {
+    timeZone: "America/New_York",
+    month: "long",
+    day: "numeric",
+  });
 
-    const timeString = `${time} - ${date}  (EST)  🕙`;
+  // this should be 10:00 AM format in eastern time!!
+  const time = new Date(event.created_at).toLocaleTimeString("en-US", {
+    timeZone: "America/New_York",
+    hour: "numeric",
+    minute: "numeric",
+  });
 
-    if (!repoName || !repoURL || !time) {
-      console.error("Error parsing event data:", event);
-      return;
-    }
+  const timeString = `${time} - ${date}  (EST)  🕙`;
 
-    const readmeContent = fs.readFileSync(readmePath, "utf-8");
+  if (!repoName || !repoURL || !time) {
+    console.error("Error parsing event data:", event);
+    return;
+  }
+
+  try {
+    const readmeContent = await fs.readFile(README_PATH, "utf-8");
 
     const updatedReadme = readmeContent.replace(
       /🤖 Zach recently worked on (.*)/,
@@ -77,11 +78,11 @@ const updateReadme = async () => {
 
     // if the time hasn't changed then exit
     if (readmeContent.includes(timeString)) {
-      console.log("latest event already in README. Exiting...");
+      console.log("The latest event is already in the README. Exiting...");
       return;
     }
 
-    fs.writeFileSync(readmePath, updatedReadme);
+    await fs.writeFile(README_PATH, updatedReadme);
 
     const gitUserEmail = process.env.GIT_USER_EMAIL;
     const gitUserName = process.env.GIT_USER_NAME;
@@ -96,16 +97,15 @@ const updateReadme = async () => {
     execSync(`git config user.email "${gitUserEmail}"`);
     execSync(`git config user.name "${gitUserName}"`);
 
-    // if the user has changed then commit and push the changes
-
-    if (updateReadme === readmeContent) {
+    // if the README hasn't changed, exit
+    if (readmeContent === updatedReadme) {
       console.log("No changes to the README. Exiting...");
       return;
     }
 
     // commit the changes
     console.log("Committing updated README...");
-    const commitMessage = `Update README with new repo activity by zach on ${repoName} at ${time}`;
+    const commitMessage = `Update README with new repo activity by Zach on ${repoName} at ${time}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
     const commitOutput = execSync(commitCommand, { stdio: "inherit" });
     console.log(commitOutput);
@@ -119,6 +119,8 @@ const updateReadme = async () => {
 
     // return the updated readme
     return updatedReadme;
+  } catch (error) {
+    console.error("Error updating README:", error.message);
   }
 };
 

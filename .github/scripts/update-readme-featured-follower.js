@@ -1,8 +1,10 @@
-const fs = require("fs");
+const fs = require("fs/promises");
 const axios = require("axios");
-const readmePath = "./README.md";
-require("dotenv").config();
 const { execSync } = require("child_process");
+
+require("dotenv").config();
+
+const README_PATH = "./README.md";
 
 // 🌟 Welcome to the Featured Follower Club! 🌟
 
@@ -30,9 +32,9 @@ const PLEASE_FEATURE_ME = ["ROBO-ZACH", "CliffordMorin", "josephjaspers"];
 
 // 🎈 That's it! Welcome to the club! 🎈
 
-const FORMATED_PLEASE_FEATURE_ME = PLEASE_FEATURE_ME.map((username) => {
-  return username.toLowerCase();
-});
+const FORMATTED_PLEASE_FEATURE_ME = PLEASE_FEATURE_ME.map((username) =>
+  username.toLowerCase()
+);
 
 const getFeaturedFollower = async () => {
   const myFollowerURL = "https://api.github.com/users/ZacharyTStone/followers";
@@ -42,13 +44,9 @@ const getFeaturedFollower = async () => {
     const followersArray = response.data;
 
     // filter out any followers that are not in the PLEASE_FEATURE_ME array
-
-    const filteredFollowersArray = followersArray.filter((follower) => {
-      console.log("follower", follower, follower?.login?.toLowerCase());
-      return FORMATED_PLEASE_FEATURE_ME.includes(
-        follower?.login?.toLowerCase()
-      );
-    });
+    const filteredFollowersArray = followersArray.filter((follower) =>
+      FORMATTED_PLEASE_FEATURE_ME.includes(follower?.login?.toLowerCase())
+    );
 
     console.log("filteredFollowersArray", filteredFollowersArray);
 
@@ -70,62 +68,65 @@ const updateReadme = async () => {
 
   console.log("follower", follower);
 
-  if (follower) {
-    console.log("Updating README with new featured follower..");
-
-    const readmeContent = fs.readFileSync(readmePath, "utf-8");
-
-    // Use a regular expression to find and replace the blockquote content
-    const updatedReadme = readmeContent.replace(
-      /#### 💻 Checkout out (.*)/,
-      `#### 💻 Checkout out [${follower.login}](${follower.html_url})! 🎉`
-    );
-
-    console.log("updatedReadme", updatedReadme);
-    fs.writeFileSync(readmePath, updatedReadme);
-
-    const gitUserEmail = process.env.GIT_USER_EMAIL;
-    const gitUserName = process.env.GIT_USER_NAME;
-
-    if (!gitUserEmail || !gitUserName) {
-      console.error(
-        "Git user email or name not provided in environment variables."
-      );
-      return;
-    }
-
-    execSync(`git config user.email "${gitUserEmail}"`);
-    execSync(`git config user.name "${gitUserName}"`);
-
-    // if the user has changed then commit and push the changes
-
-    if (
-      updateReadme === readmeContent ||
-      readmeContent.includes(follower.login) ||
-      readmeContent.includes(follower.login.toLowerCase()) ||
-      readmeContent.includes(follower.avatar_url)
-    ) {
-      console.log("No changes to the README. Exiting...");
-      return;
-    }
-
-    // commit the changes
-    console.log("Committing updated README...");
-    const commitMessage = `Update README with neew featured follower: ${follower.login}`;
-    const commitCommand = `git commit -am "${commitMessage}"`;
-    const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-    console.log(commitOutput);
-
-    // push the changes
-    console.log("Pushing updated README...");
-    const pushOutput = execSync("git push", { stdio: "inherit" });
-    console.log(pushOutput);
-
-    console.log("README update complete!");
-
-    // return the updated readme
-    return updatedReadme;
+  if (!follower) {
+    console.log("Unable to fetch a featured follower. Exiting...");
+    return;
   }
+
+  console.log("Updating README with a new featured follower..");
+
+  const readmeContent = await fs.readFile(README_PATH, "utf-8");
+
+  // Use a regular expression to find and replace the blockquote content
+  const updatedReadme = readmeContent.replace(
+    /#### 💻 Checkout out (.*)/,
+    `#### 💻 Checkout out [${follower.login}](${follower.html_url})! 🎉`
+  );
+
+  console.log("updatedReadme", updatedReadme);
+
+  // if the user has changed, commit and push the changes
+  if (
+    readmeContent === updatedReadme ||
+    readmeContent.includes(follower.login) ||
+    readmeContent.includes(follower.login.toLowerCase()) ||
+    readmeContent.includes(follower.avatar_url)
+  ) {
+    console.log("No changes to the README. Exiting...");
+    return;
+  }
+
+  await fs.writeFile(README_PATH, updatedReadme);
+
+  const gitUserEmail = process.env.GIT_USER_EMAIL;
+  const gitUserName = process.env.GIT_USER_NAME;
+
+  if (!gitUserEmail || !gitUserName) {
+    console.error(
+      "Git user email or name not provided in environment variables."
+    );
+    return;
+  }
+
+  execSync(`git config user.email "${gitUserEmail}"`);
+  execSync(`git config user.name "${gitUserName}"`);
+
+  // commit the changes
+  console.log("Committing updated README...");
+  const commitMessage = `Update README with new featured follower: ${follower.login}`;
+  const commitCommand = `git commit -am "${commitMessage}"`;
+  const commitOutput = execSync(commitCommand, { stdio: "inherit" });
+  console.log(commitOutput);
+
+  // push the changes
+  console.log("Pushing updated README...");
+  const pushOutput = execSync("git push", { stdio: "inherit" });
+  console.log(pushOutput);
+
+  console.log("README update complete!");
+
+  // return the updated readme
+  return updatedReadme;
 };
 
 updateReadme();

@@ -1,8 +1,10 @@
-const fs = require("fs");
+const fs = require("fs/promises");
 const axios = require("axios");
-const readmePath = "./README.md";
-require("dotenv").config();
 const { execSync } = require("child_process");
+
+require("dotenv").config();
+
+const README_PATH = "./README.md";
 
 const getCurrentDateTime = () => {
   const now = new Date();
@@ -43,11 +45,17 @@ const updateReadme = async () => {
   const quote = await getRandomQuote();
 
   console.log("quote", quote);
-  if (quote) {
-    console.log("Updating README with new quote...");
-    const currentDateTime = getCurrentDateTime();
-    const currentDateTimeInEST = convertDateTimeToEST(currentDateTime);
-    const readmeContent = fs.readFileSync(readmePath, "utf-8");
+  if (!quote) {
+    console.log("Unable to fetch a quote. Exiting...");
+    return;
+  }
+
+  console.log("Updating README with new quote...");
+  const currentDateTime = getCurrentDateTime();
+  const currentDateTimeInEST = convertDateTimeToEST(currentDateTime);
+
+  try {
+    const readmeContent = await fs.readFile(README_PATH, "utf-8");
 
     // Escape special characters in the quote for the commit message
     const escapedQuote = quote.replace(/"/g, '\\"').replace(/\n/g, " ");
@@ -61,7 +69,7 @@ const updateReadme = async () => {
       .replace(/🤖 on (.*)/, `🤖 on ${currentDateTimeInEST} EST </a></h2>`);
 
     console.log("updatedReadme", updatedReadme);
-    fs.writeFileSync(readmePath, updatedReadme);
+    await fs.writeFile(README_PATH, updatedReadme);
 
     const gitUserEmail = process.env.GIT_USER_EMAIL;
     const gitUserName = process.env.GIT_USER_NAME;
@@ -75,6 +83,11 @@ const updateReadme = async () => {
 
     execSync(`git config user.email "${gitUserEmail}"`);
     execSync(`git config user.name "${gitUserName}"`);
+
+    if (readmeContent === updatedReadme) {
+      console.log("No changes to commit.");
+      return;
+    }
 
     // commit the changes
     console.log("Committing updated README...");
@@ -92,6 +105,8 @@ const updateReadme = async () => {
 
     // return the updated readme
     return updatedReadme;
+  } catch (error) {
+    console.error("Error updating README:", error.message);
   }
 };
 

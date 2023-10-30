@@ -1,51 +1,54 @@
-const fs = require("fs");
+const fs = require("fs/promises");
 const axios = require("axios");
-const readmePath = "./README.md";
-require("dotenv").config();
 const { execSync } = require("child_process");
+
+require("dotenv").config();
+
+const README_PATH = "./README.md";
 
 const getGoogleDocsContent = async () => {
   const URL =
     "https://docs.google.com/document/d/15CbHEE0xWPC0MQzP_xeyhmOvwhzFeGQnGX_E2J3YScs/edit?usp=sharing";
 
-  let html = undefined;
   try {
     const response = await axios.get(URL);
     const html_data = response.data;
-    console.log(html);
-    html = html_data;
+
+    const metaTag = '<meta property="og:description" content="';
+    const metaTagIndex = html_data.indexOf(metaTag);
+
+    const contentStartIndex = metaTagIndex + metaTag.length;
+    const contentEndIndex = html_data.indexOf('">', contentStartIndex);
+
+    const content = html_data.substring(contentStartIndex, contentEndIndex);
+
+    return content;
   } catch (error) {
-    console.error("Error fetching random quote:", error.message);
+    console.error("Error fetching Google Docs content:", error.message);
+    return undefined;
   }
-
-  const metaTag = '<meta property="og:description" content="';
-  const metaTagIndex = html.indexOf(metaTag);
-
-  const contentStartIndex = metaTagIndex + metaTag.length;
-
-  const contentEndIndex = html.indexOf('">', contentStartIndex);
-
-  const content = html.substring(contentStartIndex, contentEndIndex);
-
-  return content;
 };
 
 const updateReadme = async () => {
   const status = await getGoogleDocsContent();
-  console.log("status", status);
-  const readmeContent = fs.readFileSync(readmePath, "utf-8");
 
-  if (status) {
+  if (!status) {
+    console.log("Unable to fetch status. Exiting...");
+    return;
+  }
+
+  try {
+    const readmeContent = await fs.readFile(README_PATH, "utf-8");
+
     console.log("Updating README with new status...");
 
-    // Use a regular expression to find and replace the blockquote content
     const updatedReadme = readmeContent.replace(
       /🤖 Zach is(.*)/,
       `🤖 Zach is ${status}`
     );
 
     console.log("updatedReadme", updatedReadme);
-    fs.writeFileSync(readmePath, updatedReadme);
+    await fs.writeFile(README_PATH, updatedReadme);
 
     const gitUserEmail = process.env.GIT_USER_EMAIL;
     const gitUserName = process.env.GIT_USER_NAME;
@@ -60,9 +63,7 @@ const updateReadme = async () => {
     execSync(`git config user.email "${gitUserEmail}"`);
     execSync(`git config user.name "${gitUserName}"`);
 
-    const statusHasChanged = readmeContent !== updatedReadme;
-
-    if (!statusHasChanged) {
+    if (readmeContent === updatedReadme) {
       console.log("No changes to commit.");
       return;
     }
@@ -83,6 +84,8 @@ const updateReadme = async () => {
 
     // return the updated readme
     return updatedReadme;
+  } catch (error) {
+    console.error("Error updating README:", error.message);
   }
 };
 
