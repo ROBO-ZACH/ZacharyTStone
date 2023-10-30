@@ -65,7 +65,7 @@
 
 ###### They must be pretty cool if they follow Zach!
 
-<a href='blah'><img width="30%" class=github-img src='https://avatars.githubusercontent.com/u/20384345?v=4' alt='josephjaspers'/></a>
+👤 <a href="https://github.com/${follower.login}"><img width="30%" class=github-img src=${follower.avatar_url}' alt='${follower.login}'/></a>
 
 ---
 
