@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is dreaming of a world without build errors 🛌💤💤
+🤖 Zach is learning vim.
 
 ---
 
