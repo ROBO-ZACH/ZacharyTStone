@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 09:28 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 10:12 PM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."
-<br>— Richard Bach
+  "Successful people ask better questions, and as a result, they get better answers."
+<br>— Tony Robbins
 </blockquote>
 </h3>
 
