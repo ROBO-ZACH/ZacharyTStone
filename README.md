@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 10:15 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 29, 10:57 PM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "Decision is a risk rooted in the courage of being free."
-<br>— Paul Tillich
+  "Knowledge is of no value unless you put it into practice."
+<br>— Anton Chekhov
 </blockquote>
 </h3>
 
