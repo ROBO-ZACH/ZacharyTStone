@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 08:55 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:10 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."
-<br>— Oscar Wilde
+  "It is not fair to ask of others what you are unwilling to do yourself."
+<br>— Eleanor Roosevelt
 </blockquote>
 </h3>
 
