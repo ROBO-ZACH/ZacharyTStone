@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 07:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 08:05 AM EST </a></h2>
 
 ---
 
@@ -20,8 +20,8 @@
 
 <h3>
 <blockquote>
-  "When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it."
-<br>— W. Clement Stone
+  "I'm not afraid of storms, for I'm learning how to sail my ship."
+<br>— Louisa May Alcott
 </blockquote>
 </h3>
 
