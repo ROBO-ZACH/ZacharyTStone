@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:10 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:13 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It is not fair to ask of others what you are unwilling to do yourself."
-<br>— Eleanor Roosevelt
+  "It is only with the heart that one can see rightly, what is essential is invisible to the eye."
+<br>— Antoine de Saint-Exupéry
 </blockquote>
 </h3>
 
