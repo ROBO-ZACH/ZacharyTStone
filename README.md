@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 09:44 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 10:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Good timber does not grow with ease; the stronger the wind, the stronger the trees."
-<br>— J. Willard Marriott
+  "Rejoicing in our joy, not suffering over our suffering, makes someone a friend."
+<br>— Friedrich Nietzsche
 </blockquote>
 </h3>
 
