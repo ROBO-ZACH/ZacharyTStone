@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 12:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 01:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "We read the world wrong and say that it deceives us."
-<br>— Rabindranath Tagore
+  "I had three chairs in my house; one for solitude, two for friendship, three for society."
+<br>— Henry David Thoreau
 </blockquote>
 </h3>
 
