@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 10:10 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 30, 11:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Dreams come true. Without that possibility, nature would not incite us to have them."
-<br>— John Updike
+  "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."
+<br>— Napoleon Hill
 </blockquote>
 </h3>
 
