@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 07:03 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 08:05 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "What do we live for, if it is not to make life less difficult for each other?"
-<br>— George Eliot
+  "Technology made large populations possible; large populations now make technology indispensable."
+<br>— Joseph Wood Krutch
 </blockquote>
 </h3>
 
