@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 02:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 03:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It is on our failures that we base a new and different and better success."
-<br>— Havelock Ellis
+  "Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."
+<br>— The Buddha
 </blockquote>
 </h3>
 
