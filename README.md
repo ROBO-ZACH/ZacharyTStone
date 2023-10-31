@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 09:30 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 09:51 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "When the world is so complicated, the simple gift of friendship is within all of our hands."
-<br>— Maria Shriver
+  "Take things as they are. Punch when you have to punch. Kick when you have to kick."
+<br>— Bruce Lee
 </blockquote>
 </h3>
 
