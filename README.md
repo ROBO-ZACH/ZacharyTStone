@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 04:25 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 05:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Genuine sincerity opens people's hearts, while manipulation causes them to close."
-<br>— Daisaku Ikeda
+  "Bad times have a scientific value. These are occasions a good learner would not miss."
+<br>— Ralph Waldo Emerson
 </blockquote>
 </h3>
 
