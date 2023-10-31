@@ -24,7 +24,12 @@ const README_PATH = "./README.md";
 // 9. 🎉 Celebrate! You're officially part of the list!
 
 // ✨ ADD YOUR USERNAME TO THE ARRAY BELOW ⬇️
-const PLEASE_FEATURE_ME = ["ROBO-ZACH", "CliffordMorin", "josephjaspers", "Zakkku"];
+const PLEASE_FEATURE_ME = [
+  "ROBO-ZACH",
+  "CliffordMorin",
+  "josephjaspers",
+  "Zakkku",
+];
 
 // ------------------------------ //
 
@@ -63,10 +68,35 @@ const getFeaturedFollower = async () => {
   }
 };
 
+const getFeaturedFollowerDetails = async (follower) => {
+  const URL = follower["url"];
+
+  try {
+    const response = await axios.get(URL);
+    const followerDetails = response.data;
+    console.log("followerDetails", followerDetails);
+    return followerDetails;
+  } catch (error) {
+    console.error("Error fetching random follower's details:", error.message);
+    return null;
+  }
+};
+
 const updateReadme = async () => {
   const follower = await getFeaturedFollower();
 
+  const followerDetails = await getFeaturedFollowerDetails(follower);
+
   console.log("follower", follower);
+  console.log("followerDetails", followerDetails);
+
+  const followerName = followerDetails?.name || follower.login;
+
+  // not currently used
+
+  const followerBio = followerDetails?.bio || "";
+
+  const followerBlog = followerDetails?.blog || "";
 
   if (!follower) {
     console.log("Unable to fetch a featured follower. Exiting...");
@@ -81,11 +111,15 @@ const updateReadme = async () => {
   const updatedReadme = readmeContent
     .replace(
       /#### 💻 Checkout out (.*)/,
-      `#### 💻 Checkout out [${follower.login}](${follower.html_url})! 🎉`
+      `#### 💻 Checkout out [${followerName}](${follower.html_url})! 🎉`
     )
     .replace(
-      /👤 (.*)/,
-      `👤 [![${follower.login}](${follower.avatar_url})](https://github.com/${follower.login}) `
+      /###### 👤 (.*)/,
+      `###### 👤 [Github](https://github.com/${follower.login}) `
+    )
+    .replace(
+      /class="github-bio-img" src="(.*)"/,
+      `class="github-bio-img" src="${follower.avatar_url}"`
     );
 
   console.log("updatedReadme", updatedReadme);
