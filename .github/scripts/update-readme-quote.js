@@ -38,13 +38,10 @@ const convertDateTimeToEST = (dateTime) => {
 };
 
 const updateReadme = async () => {
-  // Pull the latest changes from the remote repository
-  console.log("Pulling the latest changes...");
   execSync("git pull", { stdio: "inherit" });
 
   const quote = await getRandomQuote();
 
-  console.log("quote", quote);
   if (!quote) {
     console.log("Unable to fetch a quote. Exiting...");
     return;
@@ -68,7 +65,6 @@ const updateReadme = async () => {
       )
       .replace(/🤖 on (.*)/, `🤖 on ${currentDateTimeInEST} EST </a></h2>`);
 
-    console.log("updatedReadme", updatedReadme);
     await fs.writeFile(README_PATH, updatedReadme);
 
     const gitUserEmail = process.env.GIT_USER_EMAIL;
@@ -94,12 +90,12 @@ const updateReadme = async () => {
     const commitMessage = `Update README with new quote: ${escapedQuote}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
     const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-    console.log(commitOutput);
+  
 
     // push the changes
     console.log("Pushing updated README...");
     const pushOutput = execSync("git push", { stdio: "inherit" });
-    console.log(pushOutput);
+
 
     console.log("README update complete!");
 

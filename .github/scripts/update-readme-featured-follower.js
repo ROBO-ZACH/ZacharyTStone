@@ -53,14 +53,12 @@ const getFeaturedFollower = async () => {
       FORMATTED_PLEASE_FEATURE_ME.includes(follower?.login?.toLowerCase())
     );
 
-    console.log("filteredFollowersArray", filteredFollowersArray);
 
     const randomFollower =
       filteredFollowersArray[
         Math.floor(Math.random() * filteredFollowersArray.length)
       ];
 
-    console.log("randomFollower", randomFollower);
     return randomFollower;
   } catch (error) {
     console.error("Error fetching random follower:", error.message);
@@ -74,7 +72,6 @@ const getFeaturedFollowerDetails = async (follower) => {
   try {
     const response = await axios.get(URL);
     const followerDetails = response.data;
-    console.log("followerDetails", followerDetails);
     return followerDetails;
   } catch (error) {
     console.error("Error fetching random follower's details:", error.message);
@@ -86,9 +83,6 @@ const updateReadme = async () => {
   const follower = await getFeaturedFollower();
 
   const followerDetails = await getFeaturedFollowerDetails(follower);
-
-  console.log("follower", follower);
-  console.log("followerDetails", followerDetails);
 
   const followerName = followerDetails?.name || follower.login;
 
@@ -122,7 +116,6 @@ const updateReadme = async () => {
       `class="github-bio-img" src="${follower.avatar_url}"`
     );
 
-  console.log("updatedReadme", updatedReadme);
 
   // if the user has changed, commit and push the changes
   if (
@@ -155,12 +148,10 @@ const updateReadme = async () => {
   const commitMessage = `Update README with new featured follower: ${follower.login}`;
   const commitCommand = `git commit -am "${commitMessage}"`;
   const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-  console.log(commitOutput);
 
   // push the changes
   console.log("Pushing updated README...");
   const pushOutput = execSync("git push", { stdio: "inherit" });
-  console.log(pushOutput);
 
   console.log("README update complete!");
 

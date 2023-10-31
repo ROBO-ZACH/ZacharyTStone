@@ -21,8 +21,6 @@ const getLatestEvent = async () => {
 
     const latestEvent = sortedEvents[0];
 
-    console.log("latestEvent", latestEvent);
-
     return latestEvent;
   } catch (error) {
     console.error("Error fetching latest event:", error.message);
@@ -33,7 +31,6 @@ const getLatestEvent = async () => {
 const updateReadme = async () => {
   const event = await getLatestEvent();
 
-  console.log("event", event);
 
   if (!event) {
     console.log("Unable to fetch the latest event. Exiting...");
@@ -114,12 +111,10 @@ const updateReadme = async () => {
     const commitMessage = `Update README with new repo activity by Zach on ${repoName} at ${time}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
     const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-    console.log(commitOutput);
 
     // push the changes
     console.log("Pushing updated README...");
     const pushOutput = execSync("git push", { stdio: "inherit" });
-    console.log(pushOutput);
 
     console.log("README update complete!");
 

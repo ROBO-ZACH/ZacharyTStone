@@ -33,7 +33,6 @@ const getRandomPokemon = async () => {
 const updateReadme = async () => {
   const pokemon = await getRandomPokemon();
 
-  console.log("pokemon", pokemon);
   if (!pokemon) {
     console.log("Unable to fetch a random Pokemon. Exiting...");
     return;
@@ -53,7 +52,7 @@ const updateReadme = async () => {
       // replace the name
       .replace(/Pokemon Name :(.*)/, `Pokemon Name : ${pokemon.name}</span>`);
 
-    console.log("updatedReadme", updatedReadme);
+
     await fs.writeFile(README_PATH, updatedReadme);
 
     const gitUserEmail = process.env.GIT_USER_EMAIL;
@@ -79,12 +78,10 @@ const updateReadme = async () => {
     const commitMessage = `Update README with new pokemon: ${pokemon.name}`;
     const commitCommand = `git commit -am "${commitMessage}"`;
     const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-    console.log(commitOutput);
 
     // push the changes
     console.log("Pushing updated README...");
     const pushOutput = execSync("git push", { stdio: "inherit" });
-    console.log(pushOutput);
 
     console.log("README update complete!");
 
