@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is learning vim.
+🤖 Zach is feeling spooky 👻
 
 ---
 
