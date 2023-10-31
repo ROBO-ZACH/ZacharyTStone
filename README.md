@@ -73,4 +73,6 @@
 
 ###### Want to featured? ➡️ [Follow These Steps](https://github.com/ZacharyTStone/ZacharyTStone/blob/main/FEATURED_INSTRUCTIONS.md)
 
+###### Want to be removed from featured list? ➡️ [Follow These Steps](https://github.com/ZacharyTStone/ZacharyTStone/blob/main/FEATURED_REMOVE_INSTRUCTIONS.md)
+
 </details>
