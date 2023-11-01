@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 01:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 02:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears."
-<br>— Thomas Carlyle
+  "Be slow of tongue and quick of eye."
+<br>— Miguel de Cervantes
 </blockquote>
 </h3>
 
