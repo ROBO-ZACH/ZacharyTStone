@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 01:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 02:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Do not give your attention to what others do or fail to do; give it to what you do or fail to do."
-<br>— Dhammapada
+  "To succeed, we must first believe that we can."
+<br>— Michael Korda
 </blockquote>
 </h3>
 
