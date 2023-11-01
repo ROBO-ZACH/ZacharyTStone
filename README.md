@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 06:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 07:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
-<br>— Albert Einstein
+  "Our lives are a sum total of the choices we have made."
+<br>— Wayne Dyer
 </blockquote>
 </h3>
 
