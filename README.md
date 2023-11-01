@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 07:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Oct 31, 08:15 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "True friendship can afford true knowledge. It does not depend on darkness and ignorance."
-<br>— Henry David Thoreau
+  "Wisdom consists of the anticipation of consequences."
+<br>— Norman Cousins
 </blockquote>
 </h3>
 
