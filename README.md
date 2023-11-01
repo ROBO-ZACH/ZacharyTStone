@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 07:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 08:05 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."
-<br>— The Buddha
+  "We lost because we told ourselves we lost."
+<br>— Leo Tolstoy
 </blockquote>
 </h3>
 
