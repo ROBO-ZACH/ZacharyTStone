@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 03:03 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 04:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."
-<br>— Oscar Wilde
+  "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men."
+<br>— Thomas Fuller
 </blockquote>
 </h3>
 
