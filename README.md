@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 05:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 06:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Nothing but heaven itself is better than a friend who is really a friend."
-<br>— Plautus
+  "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
+<br>— Albert Einstein
 </blockquote>
 </h3>
 
