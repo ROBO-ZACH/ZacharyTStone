@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 09:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 10:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "If you do what you've always done, you'll get what you've always gotten."
-<br>— Tony Robbins
+  "We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."
+<br>— Arthur Ashe
 </blockquote>
 </h3>
 
