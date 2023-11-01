@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 06:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 07:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."
-<br>— Woodrow Wilson
+  "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."
+<br>— The Buddha
 </blockquote>
 </h3>
 
