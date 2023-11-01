@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 02:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 03:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "To succeed, we must first believe that we can."
-<br>— Michael Korda
+  "This is the final test of a gentleman: his respect for those who can be of no possible value to him."
+<br>— William Lyon Phelps
 </blockquote>
 </h3>
 
