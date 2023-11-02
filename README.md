@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 11:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 12:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "If a man does his best, what else is there?"
-<br>— George S. Patton
+  "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."
+<br>— Epictetus
 </blockquote>
 </h3>
 
