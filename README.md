@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 06:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 07:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things."
-<br>— The Buddha
+  "Without some goals and some efforts to reach it, no man can live."
+<br>— John Dewey
 </blockquote>
 </h3>
 
