@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 12:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 01:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "I have learned that to be with those I like is enough."
-<br>— Walt Whitman
+  "There are two ways of spreading light: to be the candle or the mirror that reflects it."
+<br>— Edith Wharton
 </blockquote>
 </h3>
 
