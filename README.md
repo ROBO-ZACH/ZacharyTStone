@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 05:03 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 06:03 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Minds are like parachutes. They only function when open."
-<br>— Thomas Dewar
+  "One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."
+<br>— Simone de Beauvoir
 </blockquote>
 </h3>
 
