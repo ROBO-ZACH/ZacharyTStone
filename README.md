@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 03:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 04:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."
-<br>— Marcus Aurelius
+  "People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge."
+<br>— Masayoshi Son
 </blockquote>
 </h3>
 
