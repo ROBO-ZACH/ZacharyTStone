@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 09:05 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 10:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Make the most of yourself, for that is all there is of you."
-<br>— Ralph Waldo Emerson
+  "Opportunity is missed by most because it is dressed in overalls and looks like work."
+<br>— Thomas Edison
 </blockquote>
 </h3>
 
