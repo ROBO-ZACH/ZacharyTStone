@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 08:51 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 09:25 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Life is like riding a bicycle. To keep your balance you must keep moving."
-<br>— Albert Einstein
+  "It is not wisdom but Authority that makes a law."
+<br>— Thomas Hobbes
 </blockquote>
 </h3>
 
