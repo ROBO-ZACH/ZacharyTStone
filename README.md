@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 05:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 06:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."
-<br>— Wayne Dyer
+  "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things."
+<br>— The Buddha
 </blockquote>
 </h3>
 
