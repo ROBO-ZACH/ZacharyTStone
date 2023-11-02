@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 02:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 03:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "You don't look out there for God, something in the sky, you look in you."
-<br>— Alan Watts
+  "We should all be thankful for those people who rekindle the inner spirit."
+<br>— Albert Schweitzer
 </blockquote>
 </h3>
 
