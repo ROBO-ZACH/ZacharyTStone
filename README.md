@@ -49,9 +49,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : aegislash-shield</span>
+#### 🤖 Pokemon Name : horsea</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png' alt='aegislash-shield'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/116.svg' alt='horsea'/>
 
 </details>
 
