@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 09:25 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 1, 10:10 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It is not wisdom but Authority that makes a law."
-<br>— Thomas Hobbes
+  "Whoever doesn't flare up at someone who's angry wins a battle hard to win."
+<br>— The Buddha
 </blockquote>
 </h3>
 
