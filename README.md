@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 09:26 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 10:11 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Happiness is found in doing, not merely possessing."
-<br>— Napoleon Hill
+  "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
+<br>— Nelson Mandela
 </blockquote>
 </h3>
 
