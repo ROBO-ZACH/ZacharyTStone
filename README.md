@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 08:14 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 09:26 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "In life, all good things come hard, but wisdom is the hardest to come by."
-<br>— Lucille Ball
+  "Happiness is found in doing, not merely possessing."
+<br>— Napoleon Hill
 </blockquote>
 </h3>
 
