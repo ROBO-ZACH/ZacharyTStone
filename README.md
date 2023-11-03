@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 04:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 05:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "They can do all because they think they can."
-<br>— Virgil
+  "I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair."
+<br>— The Buddha
 </blockquote>
 </h3>
 
