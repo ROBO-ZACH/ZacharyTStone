@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 12:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 01:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Keep your face always toward the sunshine - and shadows will fall behind you."
-<br>— Walt Whitman
+  "A failure is a man who has blundered but is not capable of cashing in on the experience."
+<br>— Elbert Hubbard
 </blockquote>
 </h3>
 
