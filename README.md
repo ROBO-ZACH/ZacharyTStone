@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 01:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 02:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "O, what a tangled web we weave when first we practice to deceive!"
-<br>— Walter Scott
+  "I'm not afraid of storms, for I'm learning how to sail my ship."
+<br>— Louisa May Alcott
 </blockquote>
 </h3>
 
