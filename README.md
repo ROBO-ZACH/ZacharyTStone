@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 10:11 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 2, 11:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."
-<br>— Nelson Mandela
+  "If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."
+<br>— Margaret Thatcher
 </blockquote>
 </h3>
 
