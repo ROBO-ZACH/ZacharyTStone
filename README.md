@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 07:03 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 08:05 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Friendship brings in a lot of honesty and trust into any relationship, especially a marriage."
-<br>— Farhan Akhtar
+  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort."
+<br>— Charles Dickens
 </blockquote>
 </h3>
 
