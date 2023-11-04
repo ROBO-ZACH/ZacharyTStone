@@ -6,7 +6,7 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/svelte-portfolio-site](https://github.com/ZacharyTStone/svelte-portfolio-site) at 11:03 PM - November 2  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/My-Anime-Collection](https://github.com/ZacharyTStone/My-Anime-Collection) at 8:55 AM - November 4  (EST)  🕙
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
