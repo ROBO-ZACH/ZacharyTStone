@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 02:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 03:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration."
-<br>— Niccolò Machiavelli
+  "Quality means doing it right when no one is looking."
+<br>— Henry Ford
 </blockquote>
 </h3>
 
