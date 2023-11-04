@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 11:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 12:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "There is no friendship, no love, like that of the parent for the child."
-<br>— Henry Ward Beecher
+  "Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right."
+<br>— Abraham Lincoln
 </blockquote>
 </h3>
 
