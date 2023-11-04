@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 09:25 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 3, 10:10 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The best cure for the body is a quiet mind."
-<br>— Napoleon
+  "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich."
+<br>— Muhammad Ali
 </blockquote>
 </h3>
 
