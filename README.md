@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 12:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 01:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right."
-<br>— Abraham Lincoln
+  "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."
+<br>— Pema Chödrön
 </blockquote>
 </h3>
 
