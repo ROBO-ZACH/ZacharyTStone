@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 10:03 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 11:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "TV and the Internet are good because they keep stupid people from spending too much time out in public."
-<br>— Douglas Coupland
+  "Truth, and goodness, and beauty are but different faces of the same all."
+<br>— Ralph Waldo Emerson
 </blockquote>
 </h3>
 
