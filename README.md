@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 08:05 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 09:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort."
-<br>— Charles Dickens
+  "It's so simple to be wise. Just think of something stupid to say and then don't say it."
+<br>— Sam Levenson
 </blockquote>
 </h3>
 
