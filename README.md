@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 07:03 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 08:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It has become appallingly obvious that our technology has exceeded our humanity."
-<br>— Albert Einstein
+  "If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum."
+<br>— Holly Near
 </blockquote>
 </h3>
 
