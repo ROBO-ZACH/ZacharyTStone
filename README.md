@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 11:03 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 12:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Keep yourself to the sunshine and you cannot see the shadow."
-<br>— Helen Keller
+  "There surely is in human nature an inherent propensity to extract all the good out of all the evil."
+<br>— Benjamin Haydon
 </blockquote>
 </h3>
 
