@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 01:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 02:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Knowing your own darkness is the best method for dealing with the darkness of other people."
-<br>— Carl Jung
+  "Life is a progress, and not a station."
+<br>— Ralph Waldo Emerson
 </blockquote>
 </h3>
 
