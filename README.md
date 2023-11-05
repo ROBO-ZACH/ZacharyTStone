@@ -49,9 +49,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : carkol</span>
+#### 🤖 Pokemon Name : blissey</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/838.png' alt='carkol'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/242.svg' alt='blissey'/>
 
 </details>
 
