@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 08:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 09:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum."
-<br>— Holly Near
+  "You are never given a wish without also being given the power to make it come true. You may have to work for it, however."
+<br>— Richard Bach
 </blockquote>
 </h3>
 
