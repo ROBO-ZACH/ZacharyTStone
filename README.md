@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 06:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 07:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Write your plans in pencil and give God the eraser."
-<br>— Paulo Coelho
+  "Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."
+<br>— Francis of Assisi
 </blockquote>
 </h3>
 
