@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 04:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 05:03 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The world turns aside to let any man pass who knows where he is going."
-<br>— Epictetus
+  "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever."
+<br>— Amy Tan
 </blockquote>
 </h3>
 
