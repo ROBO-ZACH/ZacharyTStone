@@ -53,7 +53,6 @@ const getFeaturedFollower = async () => {
       FORMATTED_PLEASE_FEATURE_ME.includes(follower?.login?.toLowerCase())
     );
 
-
     const randomFollower =
       filteredFollowersArray[
         Math.floor(Math.random() * filteredFollowersArray.length)
@@ -81,6 +80,11 @@ const getFeaturedFollowerDetails = async (follower) => {
 
 const updateReadme = async () => {
   const follower = await getFeaturedFollower();
+
+  if (!follower || !follower.login || !follower["url"]) {
+    console.log("Unable to fetch a featured follower. Exiting...");
+    return;
+  }
 
   const followerDetails = await getFeaturedFollowerDetails(follower);
 
@@ -115,7 +119,6 @@ const updateReadme = async () => {
       /class="github-bio-img" src="(.*)"/,
       `class="github-bio-img" src="${follower.avatar_url}"`
     );
-
 
   // if the user has changed, commit and push the changes
   if (

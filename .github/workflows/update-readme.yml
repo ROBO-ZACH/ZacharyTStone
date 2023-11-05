@@ -29,11 +29,6 @@ jobs:
       - name: Install dependencies (removed gitignore and testing uing cached node_modules)
         run: npm install
 
-      # - name: Set Git user name and email
-      #   run: |
-      #     git config user.email "${GIT_USER_EMAIL}"
-      #     git config user.name "${GIT_USER_NAME}"
-
       - name: Run script to update readme quote
         run: node .github/scripts/update-readme-quote.js
 
