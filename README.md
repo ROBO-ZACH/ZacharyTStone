@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 01:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 02:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?"
-<br>— The Buddha
+  "We can do no great things, only small things with great love."
+<br>— Mother Teresa
 </blockquote>
 </h3>
 
