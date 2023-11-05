@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 07:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 4, 08:15 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "In seed time learn, in harvest teach, in winter enjoy."
-<br>— William Blake
+  "Kind words can be short and easy to speak, but their echoes are truly endless."
+<br>— Mother Teresa
 </blockquote>
 </h3>
 
