@@ -81,8 +81,8 @@ const getFeaturedFollowerDetails = async (follower) => {
 const updateReadme = async () => {
   const follower = await getFeaturedFollower();
 
-  if (!follower || !follower.login || !follower["url"]) {
-    console.log("Unable to fetch a featured follower. Exiting...");
+  if (!follower || !follower["url"]) {
+    console.log("Unable to fetch a featured follower details. Exiting...");
     return;
   }
 
