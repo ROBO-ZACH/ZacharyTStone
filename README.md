@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 07:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 08:14 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh."
-<br>— Francis of Assisi
+  "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."
+<br>— Pema Chödrön
 </blockquote>
 </h3>
 
