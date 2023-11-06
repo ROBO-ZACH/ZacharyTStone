@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 06:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 07:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It isn't where you come from, it's where you're going that counts."
-<br>— Ella Fitzgerald
+  "The world is round and the place which may seem like the end may also be the beginning."
+<br>— Ivy Baker Priest
 </blockquote>
 </h3>
 
