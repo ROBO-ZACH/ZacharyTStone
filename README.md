@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 08:06 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 09:06 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Never reach out your hand unless you're willing to extend an arm."
-<br>— Pope Paul VI
+  "The more you like yourself, the less you are like anyone else, which makes you unique."
+<br>— Walt Disney
 </blockquote>
 </h3>
 
