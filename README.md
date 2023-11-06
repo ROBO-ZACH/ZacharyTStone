@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 04:05 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 05:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The world is a book, and those who do not travel read only a page."
-<br>— Augustine of Hippo
+  "Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."
+<br>— Epicurus
 </blockquote>
 </h3>
 
