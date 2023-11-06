@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 12:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 01:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."
-<br>— Plutarch
+  "Fans don't boo nobodies."
+<br>— Reggie Jackson (basketball, born 1990)
 </blockquote>
 </h3>
 
