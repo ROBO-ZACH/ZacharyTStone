@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 08:14 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 5, 09:27 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."
-<br>— Pema Chödrön
+  "The secret of getting ahead is getting started."
+<br>— Mark Twain
 </blockquote>
 </h3>
 
