@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 12:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 01:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Don't wait. The time will never be just right."
-<br>— Napoleon Hill
+  "When the world is so complicated, the simple gift of friendship is within all of our hands."
+<br>— Maria Shriver
 </blockquote>
 </h3>
 
