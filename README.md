@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 01:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 02:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "When the world is so complicated, the simple gift of friendship is within all of our hands."
-<br>— Maria Shriver
+  "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre."
+<br>— Uta Hagen
 </blockquote>
 </h3>
 
