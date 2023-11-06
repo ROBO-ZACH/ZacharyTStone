@@ -49,9 +49,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : tinkatuff</span>
+#### 🤖 Pokemon Name : lycanroc-midday</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/958.png' alt='tinkatuff'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png' alt='lycanroc-midday'/>
 
 </details>
 
