@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 01:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 02:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Where there is charity and wisdom, there is neither fear nor ignorance."
-<br>— Francis of Assisi
+  "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things."
+<br>— Leonardo da Vinci
 </blockquote>
 </h3>
 
