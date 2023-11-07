@@ -2,10 +2,6 @@
 
 ---
 
-🤖 Zach is ript nonce="TRL3vP-Jwklhr0sLSBcwIw
-
----
-
 🤖 Zach recently worked on [ZacharyTStone/My-Anime-Collection](https://github.com/ZacharyTStone/My-Anime-Collection) at 8:51 AM - November 7  (EST)  🕙
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
