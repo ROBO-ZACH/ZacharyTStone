@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 10:46 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 11:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill."
-<br>— The Buddha
+  "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."
+<br>— Vince Lombardi
 </blockquote>
 </h3>
 
