@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 10:12 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 11:04 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "No man can succeed in a line of endeavor which he does not like."
-<br>— Napoleon Hill
+  "The art of progress is to preserve order amid change, and to preserve change amid order."
+<br>— Alfred North Whitehead
 </blockquote>
 </h3>
 
