@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 11:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 12:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur."
-<br>— Vince Lombardi
+  "One must be fond of people and trust them if one is not to make a mess of life."
+<br>— E. M. Forster
 </blockquote>
 </h3>
 
