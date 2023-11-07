@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 05:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 06:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "Do not worry about your difficulties in Mathematics. I can assure you mine are still greater."
-<br>— Albert Einstein
+  "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."
+<br>— Thomas Edison
 </blockquote>
 </h3>
 
