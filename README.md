@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 06:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 07:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."
-<br>— Daisaku Ikeda
+  "A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."
+<br>— Ezra Stiles
 </blockquote>
 </h3>
 
