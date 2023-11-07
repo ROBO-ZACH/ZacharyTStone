@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 07:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 08:14 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The world is round and the place which may seem like the end may also be the beginning."
-<br>— Ivy Baker Priest
+  "The truth of the matter is that you always know the right thing to do. The hard part is doing it."
+<br>— Norman Schwarzkopf
 </blockquote>
 </h3>
 
