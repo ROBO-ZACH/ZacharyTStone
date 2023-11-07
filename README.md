@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 12:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 01:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "One must be fond of people and trust them if one is not to make a mess of life."
-<br>— E. M. Forster
+  "Where there is charity and wisdom, there is neither fear nor ignorance."
+<br>— Francis of Assisi
 </blockquote>
 </h3>
 
