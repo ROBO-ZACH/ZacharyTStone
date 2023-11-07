@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is ript nonce="_tmqmsmlnirUt4SibA4c1g
+🤖 Zach is ript nonce="Kg554XLMf9sP3KWShxO3ZA
 
 ---
 
@@ -61,13 +61,13 @@
 
   <summary> 🤖 Featured Follower </summary>
 
-#### 💻 Checkout out [Zachary Andrew Taylor](https://github.com/Zakkku)! 🎉
+#### 💻 Checkout out [Clifford Morin](https://github.com/CliffordMorin)! 🎉
 
 ###### They must be pretty cool if they follow Zach!
 
-###### 👤 [Github](https://github.com/Zakkku) 
+###### 👤 [Github](https://github.com/CliffordMorin) 
 
-<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/94582199?v=4" />
+<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/77898207?v=4" />
 
 ---
 
