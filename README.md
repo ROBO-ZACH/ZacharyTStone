@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 08:05 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 09:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "It is not a lack of love, but a lack of friendship that makes unhappy marriages."
-<br>— Friedrich Nietzsche
+  "Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad."
+<br>— Brian O'Driscoll
 </blockquote>
 </h3>
 
