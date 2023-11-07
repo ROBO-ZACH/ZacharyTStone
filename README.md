@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 04:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 05:04 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts."
-<br>— Booker T. Washington
+  "Do not worry about your difficulties in Mathematics. I can assure you mine are still greater."
+<br>— Albert Einstein
 </blockquote>
 </h3>
 
