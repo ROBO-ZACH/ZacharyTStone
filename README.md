@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 05:03 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 06:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Goals are the fuel in the furnace of achievement."
-<br>— Brian Tracy
+  "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."
+<br>— Daisaku Ikeda
 </blockquote>
 </h3>
 
