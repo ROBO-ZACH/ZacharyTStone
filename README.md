@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 09:26 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 6, 10:12 PM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness."
-<br>— Dalai Lama
+  "No man can succeed in a line of endeavor which he does not like."
+<br>— Napoleon Hill
 </blockquote>
 </h3>
 
