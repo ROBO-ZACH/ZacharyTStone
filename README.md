@@ -2,7 +2,7 @@
 
 ---
 
-🤖 Zach is ript nonce="E7bo5mBnHsxoe4bK6mRDAQ
+🤖 Zach is ript nonce="4gRgP5lTz4xz3p1ASERDtg
 
 ---
 
@@ -61,13 +61,13 @@
 
   <summary> 🤖 Featured Follower </summary>
 
-#### 💻 Checkout out [Joseph Jaspers](https://github.com/josephjaspers)! 🎉
+#### 💻 Checkout out [Zachary Andrew Taylor](https://github.com/Zakkku)! 🎉
 
 ###### They must be pretty cool if they follow Zach!
 
-###### 👤 [Github](https://github.com/josephjaspers) 
+###### 👤 [Github](https://github.com/Zakkku) 
 
-<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/20384345?v=4" />
+<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/94582199?v=4" />
 
 ---
 
