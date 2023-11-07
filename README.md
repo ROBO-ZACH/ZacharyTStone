@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 07:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 08:05 AM EST </a></h2>
 
 ---
 
@@ -21,8 +21,8 @@
 
 <h3>
 <blockquote>
-  "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."
-<br>— Pema Chödrön
+  "It is not a lack of love, but a lack of friendship that makes unhappy marriages."
+<br>— Friedrich Nietzsche
 </blockquote>
 </h3>
 
