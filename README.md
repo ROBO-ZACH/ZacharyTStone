@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 05:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 06:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "There is no way to happiness, happiness is the way."
-<br>— Thích Nhất Hạnh
+  "As an organizer I start from where the world is, as it is, not as I would like it to be."
+<br>— Saul Alinsky
 </blockquote>
 </h3>
 
