@@ -22,12 +22,24 @@ const getRandomQuote = async () => {
   }
 };
 
+// Helper function to determine if DST is observed
+Date.prototype.isDstObserved = function() {
+  const jan = new Date(this.getFullYear(), 0, 1).getTimezoneOffset();
+  const jul = new Date(this.getFullYear(), 6, 1).getTimezoneOffset();
+  
+  return Math.max(jan, jul) !== this.getTimezoneOffset();
+};
+
 const convertDateTimeToEST = (dateTime) => {
   const date = new Date(dateTime);
+  
+  // Determine the timezone offset for Eastern Time, considering Daylight Saving Time
+  const estOffset = date.isDstObserved() ? -4 : -5;
+  
   const utcDate = new Date(date.toUTCString());
-  utcDate.setHours(utcDate.getHours() - 4);
+  utcDate.setHours(utcDate.getHours() + estOffset);
   const usDate = new Date(utcDate);
-
+  
   // return time without seconds
   return usDate.toLocaleTimeString([], {
     month: "short",
@@ -88,14 +100,11 @@ const updateReadme = async () => {
     // commit the changes
     console.log("Committing updated README...");
     const commitMessage = `Update README with new quote: ${escapedQuote}`;
-    const commitCommand = `git commit -am "${commitMessage}"`;
-    const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-  
+    execSync(`git commit -am "${commitMessage}"`, { stdio: "inherit" });
 
     // push the changes
     console.log("Pushing updated README...");
-    const pushOutput = execSync("git push", { stdio: "inherit" });
-
+    execSync("git push", { stdio: "inherit" });
 
     console.log("README update complete!");
 
