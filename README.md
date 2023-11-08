@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 01:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 02:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "He who lives in harmony with himself lives in harmony with the world."
-<br>— Marcus Aurelius
+  "Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone."
+<br>— The Buddha
 </blockquote>
 </h3>
 
