@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 10:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 11:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "It has become appallingly obvious that our technology has exceeded our humanity."
-<br>— Albert Einstein
+  "Russia is a riddle wrapped in a mystery inside an enigma."
+<br>— Winston Churchill
 </blockquote>
 </h3>
 
