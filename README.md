@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 07:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 08:05 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."
-<br>— Margaret Thatcher
+  "The extreme limit of wisdom, that's what the public calls madness."
+<br>— Jean Cocteau
 </blockquote>
 </h3>
 
