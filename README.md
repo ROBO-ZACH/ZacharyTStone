@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 09:26 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 10:11 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "The heart has its reasons which reason knows not of."
-<br>— Blaise Pascal
+  "If it is not right do not do it; if it is not true do not say it."
+<br>— Marcus Aurelius
 </blockquote>
 </h3>
 
