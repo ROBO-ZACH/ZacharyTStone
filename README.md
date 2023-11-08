@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 08:35 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 08:55 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."
-<br>— Margaret Mead
+  "Once you label me you negate me."
+<br>— Søren Kierkegaard
 </blockquote>
 </h3>
 
