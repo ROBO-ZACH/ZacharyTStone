@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 03:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 04:03 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "A man should look for what is, and not for what he thinks should be."
-<br>— Albert Einstein
+  "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."
+<br>— Wayne Dyer
 </blockquote>
 </h3>
 
