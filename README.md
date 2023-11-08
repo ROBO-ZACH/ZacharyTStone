@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 03:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 04:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "There are three faithful friends - an old wife, an old dog, and ready money."
-<br>— Benjamin Franklin
+  "One is not called noble who harms living beings. By not harming living beings one is called noble."
+<br>— The Buddha
 </blockquote>
 </h3>
 
