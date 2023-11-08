@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 08:14 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 7, 09:26 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Give whatever you are doing and whoever you are with the gift of your attention."
-<br>— Jim Rohn
+  "The heart has its reasons which reason knows not of."
+<br>— Blaise Pascal
 </blockquote>
 </h3>
 
