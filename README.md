@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 11:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 12:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Russia is a riddle wrapped in a mystery inside an enigma."
-<br>— Winston Churchill
+  "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."
+<br>— Ralph Abernathy
 </blockquote>
 </h3>
 
