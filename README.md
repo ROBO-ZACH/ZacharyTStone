@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 06:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 07:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side."
-<br>— Yolanda Hadid
+  "If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."
+<br>— Margaret Thatcher
 </blockquote>
 </h3>
 
