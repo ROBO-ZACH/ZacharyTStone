@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 05:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 06:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Begin at once to live and count each separate day as a separate life."
-<br>— Seneca the Younger
+  "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."
+<br>— William Penn
 </blockquote>
 </h3>
 
