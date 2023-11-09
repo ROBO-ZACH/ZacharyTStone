@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 09:11 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 8, 10:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "How many cares one loses when one decides not to be something but to be someone."
-<br>— Coco Chanel
+  "Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."
+<br>— Epicurus
 </blockquote>
 </h3>
 
