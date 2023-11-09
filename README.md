@@ -45,9 +45,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : magmar</span>
+#### 🤖 Pokemon Name : torkoal</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/126.svg' alt='magmar'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/324.svg' alt='torkoal'/>
 
 </details>
 
