@@ -90,36 +90,40 @@ async function autoMergePR() {
 
     // main validation
 
-    // Define a regex to match the exact GitHub username within quotes for added lines
-    const exactUsernamePlusRegex = new RegExp(`^\\+  "${PRgithubUsername}"$`);
-
-    // Define a regex to match the exact GitHub username within quotes for removed lines
-    const exactUsernameMinusRegex = new RegExp(`^-  "${PRgithubUsername}"$`);
-
     // PLUS PATH CHECK
-    const PLUS_REGEX = /^\+  ".*"$/;
-
     const allLinesWithPlus = allLines.filter((line) => line.includes("+ "));
 
-    const validatedLinesWithPlus = allLinesWithPlus.filter(
-      (line) =>
-        // Check for correct format and exact username
-        line.match(PLUS_REGEX) && line.match(exactUsernamePlusRegex)
+    console.log("allLinesWithPlus", allLinesWithPlus);
+
+    // Adjust the regex for the plus lines
+    const exactUsernamePlusRegex = new RegExp(
+      `^\\+\\s*"${PRgithubUsername}"\\s*,?$`
     );
+
+    const validatedLinesWithPlus = allLinesWithPlus.filter((line) => {
+      const isMatch = exactUsernamePlusRegex.test(line);
+      console.log(`Testing plus line: ${line}, Match: ${isMatch}`);
+      return isMatch;
+    });
 
     console.log("validatedLinesWithPlus", validatedLinesWithPlus);
 
     // MINUS PATH CHECK
 
-    const MINUS_REGEX = /^-  ".*"$/;
-
     const allLinesWithMinus = allLines.filter((line) => line.includes("- "));
 
-    const validatedLinesWithMinus = allLinesWithMinus.filter(
-      (line) =>
-        // Check for correct format and exact username
-        line.match(MINUS_REGEX) && line.match(exactUsernameMinusRegex)
+    console.log("allLinesWithMinus", allLinesWithMinus);
+
+    // Adjust the regex to be more flexible with spaces and quote types
+    const exactUsernameMinusRegex = new RegExp(
+      `^-\\s*"${PRgithubUsername}"\\s*,?$`
     );
+
+    const validatedLinesWithMinus = allLinesWithMinus.filter((line) => {
+      const isMatch = exactUsernameMinusRegex.test(line);
+      console.log(`Testing line: ${line}, Match: ${isMatch}`);
+      return isMatch;
+    });
 
     console.log("validatedLinesWithMinus", validatedLinesWithMinus);
 
