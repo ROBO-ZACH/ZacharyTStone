@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 09:11 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 09:12 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Stay away from what might have been and look at what will be."
-<br>— Marsha Petrie Sue
+  "The best cure for the body is a quiet mind."
+<br>— Napoleon
 </blockquote>
 </h3>
 
