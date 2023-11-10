@@ -2,9 +2,9 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:35 PM - November 10  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:30 PM - November 10 (EST) 🕙
 
-🤖 Commit Message: commit message ftw
+📝 Commit Message: [link]("commit message ftw")
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
@@ -63,7 +63,7 @@
 
 ###### They must be pretty cool if they follow Zach!
 
-###### 👤 [Github](https://github.com/Zakkku) 
+###### 👤 [Github](https://github.com/josephjaspers)
 
 <img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/94582199?v=4" />
 
