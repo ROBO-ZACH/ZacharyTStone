@@ -99,6 +99,8 @@ async function autoMergePR() {
 
     console.log("allLines", allLines);
 
+    const PLUS_REGEX = /^\+  ".*"$/;
+
     const allLinesWithPlus = allLines.filter((line) => line.includes("+ "));
 
     console.log("allLinesWithPlus", allLinesWithPlus);
@@ -109,31 +111,41 @@ async function autoMergePR() {
       console.log("line", line);
     });
 
-    const lineAddsUsername = allLinesWithPlus.filter(
-      (line) => line.includes(PRgithubUsername) || line.includes("test")
+    // check the regex for the correct format and name and save new array
+
+    const validatedLinesWithPlus = allLinesWithPlus.filter(
+      (line) =>
+        // correct format
+        (line.match(PLUS_REGEX) &&
+          // name is eiher the PR github username or test
+          line.includes(PRgithubUsername)) ||
+        line.includes("test")
     );
 
-    console.log("lineAddsUsername", lineAddsUsername);
+    console.log("validatedLinesWithPlus", validatedLinesWithPlus);
 
     // do the same for -.... -
+
+    const MINUS_REGEX = /^-  ".*"$/;
 
     const allLinesWithMinus = allLines.filter((line) => line.includes("- "));
 
     console.log("allLinesWithMinus", allLinesWithMinus);
 
-    const lineRemovesUsername = allLinesWithMinus.filter(
-      (line) => line.includes(PRgithubUsername) || line.includes("test")
+    const validatedLinesWithMinus = allLinesWithMinus.filter(
+      (line) =>
+        // correct format
+        (line.match(MINUS_REGEX) &&
+          // name is eiher the PR github username or test
+          line.includes(PRgithubUsername)) ||
+        line.includes("test")
     );
 
-    console.log("lineRemovesUsername", lineRemovesUsername);
-
-    if (allLinesWithMinus.length !== 1 && allLinesWithPlus.length !== 1) {
-      console.log("more than one line changed for either + or -");
-      return;
-    }
+    console.log("validatedLinesWithMinus", validatedLinesWithMinus);
 
     const fileHasCorrectUsernameChange =
-      lineAddsUsername || lineRemovesUsername || false;
+      validatedLinesWithPlus.length === 1 ||
+      validatedLinesWithMinus.length === 1;
 
     if (files.length === 1 && file) {
       // Get the content of the file in the PR
