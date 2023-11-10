@@ -45,9 +45,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : amaura</span>
+#### 🤖 Pokemon Name : quilladin</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png' alt='amaura'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png' alt='quilladin'/>
 
 </details>
 
