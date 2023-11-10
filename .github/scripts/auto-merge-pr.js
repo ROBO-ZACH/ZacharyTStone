@@ -14,6 +14,27 @@ const octokit = new Octokit({
 const owner = "ZacharyTStone";
 const repo = "ZacharyTStone";
 const filePath = ".github/scripts/update-readme-featured-follower.js";
+const GITHUB_API_URL = "https://api.github.com/users/ZacharyTStone/followers";
+
+const getApiResponse = async (url) => {
+  try {
+    const response = await axios.get(url);
+    return response.data;
+  } catch (error) {
+    console.error(`Error fetching data from ${url}:`, error.message);
+    return null;
+  }
+};
+
+const getAllFollowerLogins = async () => {
+  const followers = await getApiResponse(GITHUB_API_URL);
+  if (!followers || !Array.isArray(followers)) {
+    console.log("Unable to fetch followers. Exiting...");
+    return null;
+  }
+
+  return followers.map((follower) => follower.login.toLowerCase());
+};
 
 async function autoMergePR() {
   // List all open pull requests on the repository
@@ -126,6 +147,18 @@ async function autoMergePR() {
     });
 
     console.log("validatedLinesWithMinus", validatedLinesWithMinus);
+
+    // check if the PRgithubUsername is following me
+    const allFollowerLogins = await getAllFollowerLogins();
+
+    console.log("allFollowerLogins", allFollowerLogins);
+
+    if (!allFollowerLogins.includes(PRgithubUsername.toLowerCase())) {
+      console.log(
+        `The PR github username ${PRgithubUsername} is not following me.`
+      );
+      return;
+    }
 
     const fileHasCorrectUsernameChange =
       validatedLinesWithPlus.length === 1 ||

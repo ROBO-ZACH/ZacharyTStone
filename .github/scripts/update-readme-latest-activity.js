@@ -81,8 +81,8 @@ const updateReadme = async () => {
       )
 
       .replace(
-        /📝 Commit Message: "(.*)/,
-        `📝 Commit Message: "[${latestCommit}](${baseURL}/${eventRepoName}/commit/${latestCommitID})"`
+        /> ###### 📝 Commit: "(.*)/,
+        `> ###### 📝 Commit: "[${latestCommit}](${baseURL}/${eventRepoName}/commit/${latestCommitID})"`
       );
 
     console.log("updatedReadme", updatedReadme);
