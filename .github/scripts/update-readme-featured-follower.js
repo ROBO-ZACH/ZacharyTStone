@@ -29,7 +29,6 @@ const README_PATH = "./README.md";
 // ✨ ADD YOUR USERNAME TO THE ARRAY BELOW ⬇️
 
 const PLEASE_FEATURE_ME = [
-  "ROBO-ZACH",
   "CliffordMorin",
   "josephjaspers",
   "Zakkku",
