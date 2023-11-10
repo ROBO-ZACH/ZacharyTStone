@@ -45,9 +45,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : darmanitan-standard</span>
+#### 🤖 Pokemon Name : dolliv</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/555.svg' alt='darmanitan-standard'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/929.png' alt='dolliv'/>
 
 </details>
 
