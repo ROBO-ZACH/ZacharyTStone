@@ -2,9 +2,9 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:39 PM - November 10  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:40 PM - November 10  (EST)  🕙
 
-📝 Commit Message: "[https://api.github.com/repos/ZacharyTStone/ZacharyTStone/commits/1af158f65972fc4083556542c31dfbe5a2ad4d72](Hi Mom! I'm famous)"
+📝 Commit Message: "[swap commit and commit link](https://api.github.com/repos/ZacharyTStone/ZacharyTStone/commits/073d25d67edf47c179f45027da1d0b1c89398ef8)"
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
