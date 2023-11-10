@@ -30,7 +30,6 @@ const PLEASE_FEATURE_ME = [
   "josephjaspers",
   "Zakkku",
   "brandonflores647",
-  "test"
 ];
 
 // ------------------------------ //
