@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement."
-<br>— Ralph Marston
+  "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."
+<br>— Mark Twain
 </blockquote>
 </h3>
 
