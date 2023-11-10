@@ -89,28 +89,17 @@ async function autoMergePR() {
     console.log("allLines", allLines);
 
     // PLUS PATH CHECK
-
     const PLUS_REGEX = /^\+  ".*"$/;
 
     const allLinesWithPlus = allLines.filter((line) => line.includes("+ "));
 
-    console.log("allLinesWithPlus", allLinesWithPlus);
-
-    console.log("all lines with plus count", allLinesWithPlus.length);
-
-    allLinesWithPlus.forEach((line) => {
-      console.log("line", line);
-    });
-
-    // check the regex for the correct format and name and save new array
+    // Define a regex to match the exact GitHub username within quotes
+    const exactUsernamePlusRegex = new RegExp(`^\+  "${PRgithubUsername}"$`);
 
     const validatedLinesWithPlus = allLinesWithPlus.filter(
       (line) =>
-        // correct format
-        (line.match(PLUS_REGEX) &&
-          // name is eiher the PR github username or test
-          line.includes(PRgithubUsername)) ||
-        line.includes("test")
+        // Check for correct format and exact username
+        line.match(PLUS_REGEX) && line.match(exactUsernamePlusRegex)
     );
 
     console.log("validatedLinesWithPlus", validatedLinesWithPlus);
@@ -121,15 +110,13 @@ async function autoMergePR() {
 
     const allLinesWithMinus = allLines.filter((line) => line.includes("- "));
 
-    console.log("allLinesWithMinus", allLinesWithMinus);
+    // Define a regex to match the exact GitHub username within quotes
+    const exactUsernameMinusRegex = new RegExp(`^-  "${PRgithubUsername}"$`);
 
     const validatedLinesWithMinus = allLinesWithMinus.filter(
       (line) =>
-        // correct format
-        (line.match(MINUS_REGEX) &&
-          // name is eiher the PR github username or test
-          line.includes(PRgithubUsername)) ||
-        line.includes("test")
+        // Check for correct format and exact username
+        line.match(MINUS_REGEX) && line.match(exactUsernameMinusRegex)
     );
 
     console.log("validatedLinesWithMinus", validatedLinesWithMinus);
