@@ -31,7 +31,6 @@ const getLatestEvent = async () => {
 const updateReadme = async () => {
   const event = await getLatestEvent();
 
-
   if (!event) {
     console.log("Unable to fetch the latest event. Exiting...");
     return;
@@ -39,6 +38,7 @@ const updateReadme = async () => {
 
   console.log("Updating README with the latest event..");
 
+  const latestCommit = event.payload.commits[0]?.message;
   const repoName = event.repo.name;
   const baseURL = "https://github.com/";
   const isPublic = event["public"];
@@ -64,7 +64,7 @@ const updateReadme = async () => {
 
   const timeString = `${time} - ${date}  (EST)  🕙`;
 
-  if (!repoName || !time) {
+  if (!repoName || !time || !latestCommit) {
     console.error("Error parsing event data:", event);
     return;
   }
@@ -72,10 +72,13 @@ const updateReadme = async () => {
   try {
     const readmeContent = await fs.readFile(README_PATH, "utf-8");
 
-    const updatedReadme = readmeContent.replace(
-      /🤖 Zach recently worked on (.*)/,
-      `🤖 Zach recently worked on [${repoName}](${baseURL}${repoName}) at ${timeString}`
-    );
+    let updatedReadme = readmeContent
+      .replace(
+        /🤖 Zach recently worked on (.*)/,
+        `🤖 Zach recently worked on [${repoName}](${baseURL}${repoName}) at ${timeString}`
+      )
+
+      .replace(/🤖 Commit Message: (.*)/, `🤖 Commit Message: ${latestCommit}`);
 
     console.log("updatedReadme", updatedReadme);
 
