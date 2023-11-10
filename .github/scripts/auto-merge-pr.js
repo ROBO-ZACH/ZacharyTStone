@@ -42,125 +42,126 @@ async function autoMergePR() {
 
     console.log("file", file);
 
-    if (files.length === 1 && file) {
-      // Get the content of the file in the PR
-      const { data: fileContent } = await octokit.repos.getContent({
-        owner,
-        repo,
-        path: file.filename,
-        ref: pullRequest.head.ref, // Use the PR's branch to get the file content
-      });
-
-      console.log("fileContent", fileContent);
-
-      // Decode the base64 content and split into lines
-      const contentDecoded = Buffer.from(
-        fileContent.content,
-        "base64"
-      ).toString("utf8");
-
-      console.log("contentDecoded", contentDecoded);
-
-      const contentLines = contentDecoded.split("\n");
-
-      /*const PLEASE_FEATURE_ME = [
-  "ROBO-ZACH",
-  "CliffordMorin",
-  "josephjaspers",
-  "Zakkku",
-  "brandonflores647",
-];
-
+    /* file {
+  sha: '6bcbefd62f95044d4adb393dbf0be617103f8024',
+  filename: '.github/scripts/update-readme-featured-follower.js',
+  status: 'modified',
+  additions: 1,
+  deletions: 0,
+  changes: 1,
+  blob_url: 'https://github.com/ZacharyTStone/ZacharyTStone/blob/ad0887df5d2cbb3ff8e4d4dfb723ee81b36cb6aa/.github%2Fscripts%2Fupdate-readme-featured-follower.js',
+  raw_url: 'https://github.com/ZacharyTStone/ZacharyTStone/raw/ad0887df5d2cbb3ff8e4d4dfb723ee81b36cb6aa/.github%2Fscripts%2Fupdate-readme-featured-follower.js',
+  contents_url: 'https://api.github.com/repos/ZacharyTStone/ZacharyTStone/contents/.github%2Fscripts%2Fupdate-readme-featured-follower.js?ref=ad0887df5d2cbb3ff8e4d4dfb723ee81b36cb6aa',
+  patch: '@@ -30,6 +30,7 @@ const PLEASE_FEATURE_ME = [\n' +
+    '   "josephjaspers",\n' +
+    '   "Zakkku",\n' +
+    '   "brandonflores647",\n' +
+    '+  "test"\n' +
+    ' ];\n' +
+    ' \n' +
+    ' // ------------------------------ //'
+}
 */
 
-      const featureMeLineIndex = contentDecoded.indexOf(
-        "const PLEASE_FEATURE_ME"
-      );
+    const fileisCorrectFilename =
+      ".github/scripts/update-readme-featured-follower.js";
 
-      console.log("featureMeLineIndex", featureMeLineIndex);
+    console.log("fileisCorrectFilename", fileisCorrectFilename);
 
-      // Perform checks on the line where the array is defined
-      if (featureMeLineIndex !== -1) {
-        const featureMeLineStart = featureMeLineIndex;
+    const isModified = file.status === "modified";
 
-        console.log("featureMeLineStart", featureMeLineStart);
+    console.log("status isModified", isModified);
 
-        // we need to get the full array text that starts from the first [ and ends at the last ]
+    const fileHas1Change = file.changes === 1;
 
-        const findFirstEndingBacketAfterFeatureMeLineStart =
-          contentDecoded.indexOf("]", featureMeLineStart);
+    console.log("fileHas1Change", fileHas1Change);
 
-        console.log(
-          "findFirstEndingBacketAfterFeatureMeLineStart",
-          findFirstEndingBacketAfterFeatureMeLineStart
-        );
+    const PRgithubUsername = pullRequest.user.login;
 
-        const featureMeLine = contentDecoded.substring(
-          featureMeLineStart,
-          findFirstEndingBacketAfterFeatureMeLineStart
-        );
+    console.log("PRgithubUsername", PRgithubUsername);
 
-        console.log("featureMeLine", featureMeLine);
-        // we need to figure out if
-        // 1. the change is a single element being added to the array or removed from the array
-        // 2. the added/removed element is the same as the PR author's username
+    /* check that for this 
+      '+  "test"\n' +
+      it is the correct github username
 
-        const oneElementChanged = featureMeLine.includes("]");
-        const elementAdded = featureMeLine.includes("+");
-        const elementRemoved = featureMeLine.includes("-");
-        const elementChanged = elementAdded || elementRemoved;
+     */
 
-        console.log("oneElementChanged", oneElementChanged);
-        console.log("elementAdded", elementAdded);
-        console.log("elementRemoved", elementRemoved);
-        console.log("elementChanged", elementChanged);
+    const findNameAddedOrRemoved = file.patch.includes(PRgithubUsername);
 
-        const userAddedIsPRAuthor =
-          elementAdded && featureMeLine.includes(pullRequest.user.login);
+    console.log("findNameAddedOrRemoved", findNameAddedOrRemoved);
 
-        console.log("userAddedIsPRAuthor", userAddedIsPRAuthor);
+    // find all instances of +.... + or -.... -
+    // this should be only one instance
 
-        const userRemovedIsPRAuthor =
-          elementRemoved && featureMeLine.includes(pullRequest.user.login);
+    // check that the github username is in the correct place
 
-        console.log("userRemovedIsPRAuthor", userRemovedIsPRAuthor);
+    const allLines = file.patch.split("\n");
 
-        const userChangedIsPRAuthor =
-          userAddedIsPRAuthor || userRemovedIsPRAuthor;
+    console.log("allLines", allLines);
 
-        console.log("userChangedIsPRAuthor", userChangedIsPRAuthor);
+    const allLinesWithPlus = allLines.filter((line) => line.includes("+"));
 
-        const ableToMerge =
-          oneElementChanged && elementChanged && userChangedIsPRAuthor;
+    console.log("allLinesWithPlus", allLinesWithPlus);
 
-        console.log("ableToMerge", ableToMerge);
+    const allLinesWithPlusAndUsername = allLinesWithPlus.filter((line) =>
+      line.includes(PRgithubUsername)
+    );
 
-        const correctPRBranch = pullRequest.head.ref.includes("feature-me");
+    console.log("allLinesWithPlusAndUsername", allLinesWithPlusAndUsername);
 
-        console.log("correctPRBranch", correctPRBranch);
+    const onlyOneLineWithPlusAndUsername =
+      allLinesWithPlusAndUsername.length === 1 && allLinesWithPlus === 1;
 
-        const ableToMergePR = ableToMerge && correctPRBranch;
+    console.log(
+      "onlyOneLineWithPlusAndUsername",
+      onlyOneLineWithPlusAndUsername
+    );
 
-        console.log("ableToMergePR", ableToMergePR);
+    // do the same for -.... -
 
-        if (false) {
-          // Merge the pull request if the condition is met
-          try {
-            // Merge the pull request
-            await octokit.pulls.merge({
-              owner,
-              repo,
-              pull_number: pullRequest.number,
-              commit_title: `Automated merge by bot for PR #${pullRequest.number}`,
-              commit_message:
-                "Auto-merging PR based on conditions met in the array modification.",
-              merge_method: "squash", // or 'merge' or 'rebase'
-            });
+    const allLinesWithMinus = allLines.filter((line) => line.includes("-"));
 
-            console.log(`Successfully merged PR #${pullRequest.number}`);
-          } catch (error) {
-            console.error(`Error merging PR #${pullRequest.number}: ${error}`);
-          }
+    console.log("allLinesWithMinus", allLinesWithMinus);
+
+    const allLinesWithMinusAndUsername = allLinesWithMinus.filter((line) =>
+      line.includes(PRgithubUsername)
+    );
+
+    console.log("allLinesWithMinusAndUsername", allLinesWithMinusAndUsername);
+
+    const onlyOneLineWithMinusAndUsername =
+      allLinesWithMinusAndUsername.length === 1 && allLinesWithMinus === 1;
+
+    console.log(
+      "onlyOneLineWithMinusAndUsername",
+      onlyOneLineWithMinusAndUsername
+    );
+
+    const fileHasCorrectUsernameChange =
+      onlyOneLineWithPlusAndUsername || onlyOneLineWithMinusAndUsername;
+
+    console.log("fileHasCorrectUsernameChange", fileHasCorrectUsernameChange);
+
+    if (files.length === 1 && file) {
+      // Get the content of the file in the PR
+
+      if (false) {
+        // Merge the pull request if the condition is met
+        try {
+          // Merge the pull request
+          await octokit.pulls.merge({
+            owner,
+            repo,
+            pull_number: pullRequest.number,
+            commit_title: `Automated merge by bot for PR #${pullRequest.number}`,
+            commit_message:
+              "Auto-merging PR based on conditions met in the array modification.",
+            merge_method: "squash", // or 'merge' or 'rebase'
+          });
+
+          console.log(`Successfully merged PR #${pullRequest.number}`);
+        } catch (error) {
+          console.error(`Error merging PR #${pullRequest.number}: ${error}`);
         }
       }
     }
