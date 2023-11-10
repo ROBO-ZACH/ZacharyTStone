@@ -62,5 +62,5 @@ jobs:
       - name: Auto merge PR if conditions are met
         env:
           GITHUB_TOKEN: ${{ secrets.README_G_TOKEN }}
-        run: node path/to/auto-merge-pr.js
+        run: node .github/scripts/auto-merge-pr.js
 
