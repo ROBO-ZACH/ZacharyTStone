@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 04:03 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 05:04 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "I never did a day's work in my life.  It was all fun."
-<br>— Thomas Edison
+  "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer."
+<br>— Robert Graves
 </blockquote>
 </h3>
 
