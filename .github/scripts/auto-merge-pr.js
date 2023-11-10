@@ -103,6 +103,12 @@ async function autoMergePR() {
 
     console.log("allLinesWithPlus", allLinesWithPlus);
 
+    console.log("all lines with plus count", allLinesWithPlus.length);
+
+    allLinesWithPlus.forEach((line) => {
+      console.log("line", line);
+    });
+
     const allLinesWithPlusAndUsername = allLinesWithPlus.filter((line) =>
       line.includes(PRgithubUsername || "test")
     );
