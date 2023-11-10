@@ -1,10 +1,10 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 06:03 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 05:20 PM EST </a></h2>
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 6:01 PM - November 10  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:40 PM - November 10 (EST) 🕙
 
-📝 Commit Message: "[update linik](https://github.com//ZacharyTStone/ZacharyTStone/commit/296390869c2b86296de7fe739f7f6f0c51d04add)"
+> ###### 📝 Commit: "[swap commit and commit link](https://api.github.com/repos/ZacharyTStone/ZacharyTStone/commits/073d25d67edf47c179f45027da1d0b1c89398ef8)"
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
@@ -19,8 +19,8 @@
 
 <h3>
 <blockquote>
-  "To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom."
-<br>— Confucius
+  "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."
+<br>— Mark Twain
 </blockquote>
 </h3>
 
@@ -47,9 +47,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : decidueye</span>
+#### 🤖 Pokemon Name : ludicolo</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png' alt='decidueye'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/272.svg' alt='ludicolo'/>
 
 </details>
 
@@ -59,13 +59,13 @@
 
   <summary> 🤖 Featured Follower </summary>
 
-#### 💻 Checkout out [Clifford Morin](https://github.com/CliffordMorin)! 🎉
+#### 💻 Checkout out [Brandon Flores](https://github.com/brandonflores647)! 🎉
 
 ###### They must be pretty cool if they follow Zach!
 
-###### 👤 [Github](https://github.com/CliffordMorin) 
+###### 👤 [Github](https://github.com/brandonflores647)
 
-<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/77898207?v=4" />
+<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/100805072?v=4" />
 
 ---
 
