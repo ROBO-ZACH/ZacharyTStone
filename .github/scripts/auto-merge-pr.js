@@ -73,15 +73,15 @@ async function autoMergePR() {
 
 */
 
-      const featureMeLineIndex = contentLines.findIndex((line) =>
-        line.includes("const PLEASE_FEATURE_ME = [")
+      const featureMeLineIndex = contentDecoded.indexOf(
+        "const PLEASE_FEATURE_ME"
       );
 
       console.log("featureMeLineIndex", featureMeLineIndex);
 
       // Perform checks on the line where the array is defined
       if (featureMeLineIndex !== -1) {
-        const featureMeLineStart = contentLines[featureMeLineIndex];
+        const featureMeLineStart = featureMeLineIndex;
 
         console.log("featureMeLineStart", featureMeLineStart);
 
