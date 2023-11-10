@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 06:02 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 06:03 PM EST </a></h2>
 
 ---
 
@@ -19,8 +19,8 @@
 
 <h3>
 <blockquote>
-  "Only put off until tomorrow what you are willing to die having left undone."
-<br>— Pablo Picasso
+  "To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom."
+<br>— Confucius
 </blockquote>
 </h3>
 
