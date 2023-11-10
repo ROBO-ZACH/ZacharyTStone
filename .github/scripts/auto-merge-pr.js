@@ -2,8 +2,15 @@ const { Octokit } = require("@octokit/rest");
 const { execSync } = require("child_process");
 require("dotenv").config();
 
-// Instantiate Octokit with a personal access token
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+const fetch = require("node-fetch");
+
+// Instantiate Octokit with a personal access token and a fetch implementation
+const octokit = new Octokit({
+  auth: process.env.GITHUB_TOKEN,
+  request: {
+    fetch: fetch
+  }
+});
 
 const owner = 'your-github-username';
 const repo = 'your-repo-name';
