@@ -104,7 +104,7 @@ async function autoMergePR() {
     console.log("allLinesWithPlus", allLinesWithPlus);
 
     const allLinesWithPlusAndUsername = allLinesWithPlus.filter((line) =>
-      line.includes(PRgithubUsername)
+      line.includes(PRgithubUsername || "test")
     );
 
     console.log("allLinesWithPlusAndUsername", allLinesWithPlusAndUsername);
