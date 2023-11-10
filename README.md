@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 11:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 12:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "The noblest worship is to make yourself as good and as just as you can."
-<br>— Isocrates
+  "The greatest healing therapy is friendship and love."
+<br>— Hubert Humphrey
 </blockquote>
 </h3>
 
