@@ -99,7 +99,7 @@ async function autoMergePR() {
 
     console.log("allLines", allLines);
 
-    const allLinesWithPlus = allLines.filter((line) => line.includes("+"));
+    const allLinesWithPlus = allLines.filter((line) => line.includes("+ "));
 
     console.log("allLinesWithPlus", allLinesWithPlus);
 
@@ -116,7 +116,7 @@ async function autoMergePR() {
     console.log("allLinesWithPlusAndUsername", allLinesWithPlusAndUsername);
 
     const onlyOneLineWithPlusAndUsername =
-      allLinesWithPlusAndUsername.length === 1 && allLinesWithPlus === 1;
+      allLinesWithPlusAndUsername.length === 1;
 
     console.log(
       "onlyOneLineWithPlusAndUsername",
@@ -125,7 +125,7 @@ async function autoMergePR() {
 
     // do the same for -.... -
 
-    const allLinesWithMinus = allLines.filter((line) => line.includes("-"));
+    const allLinesWithMinus = allLines.filter((line) => line.includes("- "));
 
     console.log("allLinesWithMinus", allLinesWithMinus);
 
@@ -136,7 +136,7 @@ async function autoMergePR() {
     console.log("allLinesWithMinusAndUsername", allLinesWithMinusAndUsername);
 
     const onlyOneLineWithMinusAndUsername =
-      allLinesWithMinusAndUsername.length === 1 && allLinesWithMinus === 1;
+      allLinesWithMinusAndUsername.length === 1;
 
     console.log(
       "onlyOneLineWithMinusAndUsername",
