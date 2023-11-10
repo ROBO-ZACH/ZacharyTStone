@@ -109,44 +109,36 @@ async function autoMergePR() {
       console.log("line", line);
     });
 
-    const allLinesWithPlusAndUsername = allLinesWithPlus.filter(
+    if (allLinesWithPlus.length !== 1) {
+      console.log("more than one line with plus");
+      return;
+    }
+
+    const lineAddsUsername = allLinesWithPlus.filter(
       (line) => line.includes(PRgithubUsername) || line.includes("test")
     );
 
-    console.log("allLinesWithPlusAndUsername", allLinesWithPlusAndUsername);
-
-    const onlyOneLineWithPlusAndUsername =
-      allLinesWithPlusAndUsername.length === 1;
-
-    console.log(
-      "onlyOneLineWithPlusAndUsername",
-      onlyOneLineWithPlusAndUsername
-    );
+    console.log("lineAddsUsername", lineAddsUsername);
 
     // do the same for -.... -
 
     const allLinesWithMinus = allLines.filter((line) => line.includes("- "));
 
+    if (allLinesWithMinus.length !== 1) {
+      console.log("more than one line with minus");
+      return;
+    }
+
     console.log("allLinesWithMinus", allLinesWithMinus);
 
-    const allLinesWithMinusAndUsername = allLinesWithMinus.filter(
+    const lineRemovesUsername = allLinesWithMinus.filter(
       (line) => line.includes(PRgithubUsername) || line.includes("test")
     );
 
-    console.log("allLinesWithMinusAndUsername", allLinesWithMinusAndUsername);
-
-    const onlyOneLineWithMinusAndUsername =
-      allLinesWithMinusAndUsername.length === 1;
-
-    console.log(
-      "onlyOneLineWithMinusAndUsername",
-      onlyOneLineWithMinusAndUsername
-    );
+    console.log("lineRemovesUsername", lineRemovesUsername);
 
     const fileHasCorrectUsernameChange =
-      onlyOneLineWithPlusAndUsername || onlyOneLineWithMinusAndUsername;
-
-    console.log("fileHasCorrectUsernameChange", fileHasCorrectUsernameChange);
+      lineAddsUsername || lineRemovesUsername;
 
     if (files.length === 1 && file) {
       // Get the content of the file in the PR
