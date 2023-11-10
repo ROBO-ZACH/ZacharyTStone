@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 04:04 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 05:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."
-<br>— Mary Pickford
+  "Knowledge rests not upon truth alone, but upon error also."
+<br>— Carl Jung
 </blockquote>
 </h3>
 
