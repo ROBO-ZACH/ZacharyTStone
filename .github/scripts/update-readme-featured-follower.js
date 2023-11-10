@@ -4,6 +4,9 @@ const { execSync } = require("child_process");
 
 require("dotenv").config();
 
+// Environment Variables
+const GITHUB_API_URL = "https://api.github.com/users/ZacharyTStone/followers";
+const GITHUB_BASE_URL = "https://github.com/";
 const README_PATH = "./README.md";
 
 // 🌟 Welcome to the Featured Follower Club! 🌟
@@ -92,7 +95,7 @@ const updateReadmeContent = async (follower) => {
     )
     .replace(
       /###### 👤 (.*)/,
-      `###### 👤 [Github](https://github.com/${follower.login}) `
+      `###### 👤 [Github](${GITHUB_BASE_URL}${follower.login}) `
     )
     .replace(
       /class="github-bio-img" src="(.*)"/,
