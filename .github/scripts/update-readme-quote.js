@@ -50,7 +50,7 @@ const convertDateTimeToEST = (dateTime) => {
 };
 
 const updateReadme = async () => {
-  execSync("git pull", { stdio: "inherit" });
+  execSync("git pull origin main", { stdio: "inherit" }); // Specify the branch here
 
   const quote = await getRandomQuote();
 
