@@ -24,6 +24,7 @@ const README_PATH = "./README.md";
 // 9. 🎉 Celebrate! You're officially part of the list!
 
 // ✨ ADD YOUR USERNAME TO THE ARRAY BELOW ⬇️
+
 const PLEASE_FEATURE_ME = [
   "ROBO-ZACH",
   "CliffordMorin",
@@ -42,71 +43,48 @@ const FORMATTED_PLEASE_FEATURE_ME = PLEASE_FEATURE_ME.map((username) =>
   username.toLowerCase()
 );
 
+const getApiResponse = async (url) => {
+  try {
+    const response = await axios.get(url);
+    return response.data;
+  } catch (error) {
+    console.error(`Error fetching data from ${url}:`, error.message);
+    return null;
+  }
+};
+
 const getFeaturedFollower = async () => {
-  const myFollowerURL = "https://api.github.com/users/ZacharyTStone/followers";
-
-  try {
-    const response = await axios.get(myFollowerURL);
-    const followersArray = response.data;
-
-    // filter out any followers that are not in the PLEASE_FEATURE_ME array
-    const filteredFollowersArray = followersArray.filter((follower) =>
-      FORMATTED_PLEASE_FEATURE_ME.includes(follower?.login?.toLowerCase())
-    );
-
-    const randomFollower =
-      filteredFollowersArray[
-        Math.floor(Math.random() * filteredFollowersArray.length)
-      ];
-
-    return randomFollower;
-  } catch (error) {
-    console.error("Error fetching random follower:", error.message);
+  const followers = await getApiResponse(GITHUB_API_URL);
+  if (!followers || !Array.isArray(followers)) {
+    console.log("Unable to fetch followers. Exiting...");
     return null;
   }
+
+  const filteredFollowers = followers.filter((follower) =>
+    FORMATTED_PLEASE_FEATURE_ME.includes(follower.login.toLowerCase())
+  );
+
+  return filteredFollowers.length > 0
+    ? filteredFollowers[Math.floor(Math.random() * filteredFollowers.length)]
+    : null;
 };
 
-const getFeaturedFollowerDetails = async (follower) => {
-  const URL = follower["url"];
-
-  try {
-    const response = await axios.get(URL);
-    const followerDetails = response.data;
-    return followerDetails;
-  } catch (error) {
-    console.error("Error fetching random follower's details:", error.message);
-    return null;
-  }
+const getFollowerDetails = async (follower) => {
+  if (!follower || !follower.url) return null;
+  return await getApiResponse(follower.url);
 };
 
-const updateReadme = async () => {
-  const follower = await getFeaturedFollower();
-
-  if (!follower || !follower["url"]) {
-    console.log("Unable to fetch a featured follower details. Exiting...");
-    return;
-  }
-
-  const followerDetails = await getFeaturedFollowerDetails(follower);
-
-  const followerName = followerDetails?.name || follower.login;
-
-  // not currently used
-
-  const followerBio = followerDetails?.bio || "";
-
-  const followerBlog = followerDetails?.blog || "";
-
+const updateReadmeContent = async (follower) => {
   if (!follower) {
     console.log("Unable to fetch a featured follower. Exiting...");
     return;
   }
 
-  console.log("Updating README with a new featured follower..");
+  const followerDetails = await getFollowerDetails(follower);
+  const followerName = followerDetails?.name || follower.login;
 
   const readmeContent = await fs.readFile(README_PATH, "utf-8");
 
-  // Use a regular expression to find and replace the blockquote content
   const updatedReadme = readmeContent
     .replace(
       /#### 💻 Checkout out (.*)/,
@@ -121,7 +99,6 @@ const updateReadme = async () => {
       `class="github-bio-img" src="${follower.avatar_url}"`
     );
 
-  // if the user has changed, commit and push the changes
   if (
     readmeContent === updatedReadme ||
     readmeContent.includes(follower.login) ||
@@ -133,7 +110,10 @@ const updateReadme = async () => {
   }
 
   await fs.writeFile(README_PATH, updatedReadme);
+  return follower;
+};
 
+const commitChanges = (followerName) => {
   const gitUserEmail = process.env.GIT_USER_EMAIL;
   const gitUserName = process.env.GIT_USER_NAME;
 
@@ -147,20 +127,19 @@ const updateReadme = async () => {
   execSync(`git config user.email "${gitUserEmail}"`);
   execSync(`git config user.name "${gitUserName}"`);
 
-  // commit the changes
-  console.log("Committing updated README...");
-  const commitMessage = `Update README with new featured follower: ${follower.login}`;
-  const commitCommand = `git commit -am "${commitMessage}"`;
-  const commitOutput = execSync(commitCommand, { stdio: "inherit" });
-
-  // push the changes
-  console.log("Pushing updated README...");
-  const pushOutput = execSync("git push", { stdio: "inherit" });
+  const commitMessage = `Update README with new featured follower: ${followerName}`;
+  execSync(`git commit -am "${commitMessage}"`, { stdio: "inherit" });
+  execSync("git push", { stdio: "inherit" });
 
   console.log("README update complete!");
+};
 
-  // return the updated readme
-  return updatedReadme;
+const updateReadme = async () => {
+  const newFollower = await updateReadmeContent(await getFeaturedFollower());
+
+  if (newFollower) {
+    commitChanges(newFollower.login);
+  }
 };
 
 updateReadme();

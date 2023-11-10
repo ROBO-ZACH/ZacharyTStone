@@ -1,5 +1,4 @@
 const { Octokit } = require("@octokit/rest");
-const { execSync } = require("child_process");
 require("dotenv").config();
 
 const fetch = require("node-fetch");
@@ -22,7 +21,7 @@ async function autoMergePR() {
     owner,
     repo,
     state: "open",
-    base: "main", // or the name of your default branch
+    base: "main",
   });
 
   console.log(pullRequests);
