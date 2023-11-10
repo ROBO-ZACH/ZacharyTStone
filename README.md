@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 09:24 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 09:34 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."
-<br>— Oscar Wilde
+  "Compassion and happiness are not a sign of weakness but a sign of strength."
+<br>— Dalai Lama
 </blockquote>
 </h3>
 
