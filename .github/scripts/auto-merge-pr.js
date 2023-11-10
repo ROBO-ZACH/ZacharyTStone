@@ -25,6 +25,8 @@ async function autoMergePR() {
     base: "main", // or the name of your default branch
   });
 
+  console.log(pullRequests);
+
   for (const pullRequest of pullRequests) {
     // Get the files of the pull request
     const { data: files } = await octokit.pulls.listFiles({
@@ -33,8 +35,13 @@ async function autoMergePR() {
       pull_number: pullRequest.number,
     });
 
+    console.log("files", files);
+
     // Check if the specific file is the only one changed and has the correct modifications
     const file = files.find((file) => file.filename === filePath);
+
+    console.log("file", file);
+
     if (files.length === 1 && file) {
       // Get the content of the file in the PR
       const { data: fileContent } = await octokit.repos.getContent({
@@ -44,11 +51,16 @@ async function autoMergePR() {
         ref: pullRequest.head.ref, // Use the PR's branch to get the file content
       });
 
+      console.log("fileContent", fileContent);
+
       // Decode the base64 content and split into lines
       const contentDecoded = Buffer.from(
         fileContent.content,
         "base64"
       ).toString("utf8");
+
+      console.log("contentDecoded", contentDecoded);
+
       const contentLines = contentDecoded.split("\n");
 
       // Find the PLEASE_FEATURE_ME array definition line
@@ -56,15 +68,57 @@ async function autoMergePR() {
         line.trim().startsWith("const PLEASE_FEATURE_ME = [")
       );
 
+      console.log("featureMeLineIndex", featureMeLineIndex);
+
       // Perform checks on the line where the array is defined
       if (featureMeLineIndex !== -1) {
         const featureMeLine = contentLines[featureMeLineIndex];
 
-        // Regex to check if only one username was added/removed and does not end with a comma
-        const regex =
-          /const PLEASE_FEATURE_ME = \[\s*(?:'[^']+',\s*)*?'?[^']+'?\s*\];/;
+        console.log("featureMeLine", featureMeLine);
 
-        if (regex.test(featureMeLine)) {
+        // we need to figure out if
+        // 1. the change is a single element being added to the array or removed from the array
+        // 2. the added/removed element is the same as the PR author's username
+
+        const oneElementChanged = featureMeLine.includes("]");
+        const elementAdded = featureMeLine.includes("+");
+        const elementRemoved = featureMeLine.includes("-");
+        const elementChanged = elementAdded || elementRemoved;
+
+        console.log("oneElementChanged", oneElementChanged);
+        console.log("elementAdded", elementAdded);
+        console.log("elementRemoved", elementRemoved);
+        console.log("elementChanged", elementChanged);
+
+        const userAddedIsPRAuthor =
+          elementAdded && featureMeLine.includes(pullRequest.user.login);
+
+        console.log("userAddedIsPRAuthor", userAddedIsPRAuthor);
+
+        const userRemovedIsPRAuthor =
+          elementRemoved && featureMeLine.includes(pullRequest.user.login);
+
+        console.log("userRemovedIsPRAuthor", userRemovedIsPRAuthor);
+
+        const userChangedIsPRAuthor =
+          userAddedIsPRAuthor || userRemovedIsPRAuthor;
+
+        console.log("userChangedIsPRAuthor", userChangedIsPRAuthor);
+
+        const ableToMerge =
+          oneElementChanged && elementChanged && userChangedIsPRAuthor;
+
+        console.log("ableToMerge", ableToMerge);
+
+        const correctPRBranch = pullRequest.head.ref.includes("feature-me");
+
+        console.log("correctPRBranch", correctPRBranch);
+
+        const ableToMergePR = ableToMerge && correctPRBranch;
+
+        console.log("ableToMergePR", ableToMergePR);
+
+        if (false) {
           // Merge the pull request if the condition is met
           try {
             // Merge the pull request
