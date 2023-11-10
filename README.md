@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 08:41 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 08:48 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "A goal without a plan is just a wish."
-<br>— Larry Elder
+  "A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies."
+<br>— Confucius
 </blockquote>
 </h3>
 
