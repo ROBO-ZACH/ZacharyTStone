@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 08:09 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 08:26 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "An organization, no matter how well designed, is only as good as the people who live and work in it."
-<br>— Dee Hock
+  "Better be ignorant of a matter than half know it."
+<br>— Publilius Syrus
 </blockquote>
 </h3>
 
