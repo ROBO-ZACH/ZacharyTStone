@@ -2,9 +2,9 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:40 PM - November 10  (EST)  🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:50 PM - November 10  (EST)  🕙
 
-📝 Commit Message: "[swap commit and commit link](https://api.github.com/repos/ZacharyTStone/ZacharyTStone/commits/073d25d67edf47c179f45027da1d0b1c89398ef8)"
+📝 Commit Message: "[update linik](https://github.com//ZacharyTStone/ZacharyTStone/commit/296390869c2b86296de7fe739f7f6f0c51d04add)"
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
