@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 01:04 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 02:03 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way."
-<br>— Wayne Dyer
+  "A good head and a good heart are always a formidable combination."
+<br>— Nelson Mandela
 </blockquote>
 </h3>
 
