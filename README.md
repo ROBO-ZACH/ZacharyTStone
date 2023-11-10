@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "But man is not made for defeat. A man can be destroyed but not defeated."
-<br>— Ernest Hemingway
+  "Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."
+<br>— Amy Bloom
 </blockquote>
 </h3>
 
