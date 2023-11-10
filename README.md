@@ -45,9 +45,9 @@
 <details>
   <summary> 🤖 Random Pokemon </summary>
 
-#### 🤖 Pokemon Name : revavroom</span>
+#### 🤖 Pokemon Name : glalie</span>
 
- <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png' alt='revavroom'/>
+ <img width="50%" class='poke-img' src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/362.svg' alt='glalie'/>
 
 </details>
 
