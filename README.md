@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 10:02 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 10:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Trust only movement. Life happens at the level of events, not of words. Trust movement."
-<br>— Alfred Adler
+  "You win the victory when you yield to friends."
+<br>— Sophocles
 </blockquote>
 </h3>
 
