@@ -109,11 +109,6 @@ async function autoMergePR() {
       console.log("line", line);
     });
 
-    if (allLinesWithPlus.length !== 1) {
-      console.log("more than one line with plus");
-      return;
-    }
-
     const lineAddsUsername = allLinesWithPlus.filter(
       (line) => line.includes(PRgithubUsername) || line.includes("test")
     );
@@ -124,11 +119,6 @@ async function autoMergePR() {
 
     const allLinesWithMinus = allLines.filter((line) => line.includes("- "));
 
-    if (allLinesWithMinus.length !== 1) {
-      console.log("more than one line with minus");
-      return;
-    }
-
     console.log("allLinesWithMinus", allLinesWithMinus);
 
     const lineRemovesUsername = allLinesWithMinus.filter(
@@ -136,6 +126,11 @@ async function autoMergePR() {
     );
 
     console.log("lineRemovesUsername", lineRemovesUsername);
+
+    if (allLinesWithMinus.length !== 1 && allLinesWithPlus.length !== 1) {
+      console.log("more than one line changed for either + or -");
+      return;
+    }
 
     const fileHasCorrectUsernameChange =
       lineAddsUsername || lineRemovesUsername;
