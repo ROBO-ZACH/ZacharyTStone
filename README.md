@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 09:21 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 09:24 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Love is the attempt to form a friendship inspired by beauty."
-<br>— Cicero
+  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."
+<br>— Oscar Wilde
 </blockquote>
 </h3>
 
