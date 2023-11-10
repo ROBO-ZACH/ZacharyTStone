@@ -129,8 +129,8 @@ async function autoMergePR() {
 
     console.log("allLinesWithMinus", allLinesWithMinus);
 
-    const allLinesWithMinusAndUsername = allLinesWithMinus.filter((line) =>
-      line.includes(PRgithubUsername || "test")
+    const allLinesWithMinusAndUsername = allLinesWithMinus.filter(
+      (line) => line.includes(PRgithubUsername) || line.includes("test")
     );
 
     console.log("allLinesWithMinusAndUsername", allLinesWithMinusAndUsername);
@@ -151,7 +151,7 @@ async function autoMergePR() {
     if (files.length === 1 && file) {
       // Get the content of the file in the PR
 
-      if (false) {
+      if (fileHasCorrectUsernameChange) {
         // Merge the pull request if the condition is met
         try {
           // Merge the pull request
