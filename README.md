@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 07:26 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 07:27 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever."
-<br>— Amy Tan
+  "Appearances are often deceiving."
+<br>— Aesop
 </blockquote>
 </h3>
 
