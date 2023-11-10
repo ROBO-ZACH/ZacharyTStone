@@ -133,7 +133,7 @@ async function autoMergePR() {
     }
 
     const fileHasCorrectUsernameChange =
-      lineAddsUsername || lineRemovesUsername;
+      lineAddsUsername || lineRemovesUsername || false;
 
     if (files.length === 1 && file) {
       // Get the content of the file in the PR
