@@ -37,42 +37,36 @@ async function autoMergePR() {
 
     console.log("files", files);
 
-    // Check if the specific file is the only one changed and has the correct modifications
-    const file = files.find((file) => file.filename === filePath);
+    const file = files?.find((file) => file?.filename === filePath);
+
+    if (!file) {
+      console.log(
+        `No changes detected in ${filePath} for PR #${pullRequest.number}.`
+      );
+      return;
+    }
 
     console.log("file", file);
 
-    /* file {
-  sha: '6bcbefd62f95044d4adb393dbf0be617103f8024',
-  filename: '.github/scripts/update-readme-featured-follower.js',
-  status: 'modified',
-  additions: 1,
-  deletions: 0,
-  changes: 1,
-  blob_url: 'https://github.com/ZacharyTStone/ZacharyTStone/blob/ad0887df5d2cbb3ff8e4d4dfb723ee81b36cb6aa/.github%2Fscripts%2Fupdate-readme-featured-follower.js',
-  raw_url: 'https://github.com/ZacharyTStone/ZacharyTStone/raw/ad0887df5d2cbb3ff8e4d4dfb723ee81b36cb6aa/.github%2Fscripts%2Fupdate-readme-featured-follower.js',
-  contents_url: 'https://api.github.com/repos/ZacharyTStone/ZacharyTStone/contents/.github%2Fscripts%2Fupdate-readme-featured-follower.js?ref=ad0887df5d2cbb3ff8e4d4dfb723ee81b36cb6aa',
-  patch: '@@ -30,6 +30,7 @@ const PLEASE_FEATURE_ME = [\n' +
-    '   "josephjaspers",\n' +
-    '   "Zakkku",\n' +
-    '   "brandonflores647",\n' +
-    '+  "test"\n' +
-    ' ];\n' +
-    ' \n' +
-    ' // ------------------------------ //'
-}
-*/
+    const isModified = file?.status === "modified";
 
-    const fileisCorrectFilename =
-      ".github/scripts/update-readme-featured-follower.js";
-
-    console.log("fileisCorrectFilename", fileisCorrectFilename);
-
-    const isModified = file.status === "modified";
+    if (!isModified) {
+      console.log(
+        `No changes detected in ${filePath} for PR #${pullRequest.number}.`
+      );
+      return;
+    }
 
     console.log("status isModified", isModified);
 
     const fileHas1Change = file.changes === 1;
+
+    if (!fileHas1Change) {
+      console.log(
+        `More than one change detected in ${filePath} for PR #${pullRequest.number}.`
+      );
+      return;
+    }
 
     console.log("fileHas1Change", fileHas1Change);
 
@@ -80,24 +74,22 @@ async function autoMergePR() {
 
     console.log("PRgithubUsername", PRgithubUsername);
 
-    /* check that for this 
-      '+  "test"\n' +
-      it is the correct github username
-
-     */
-
     const findNameAddedOrRemoved = file.patch.includes(PRgithubUsername);
 
+    if (!findNameAddedOrRemoved) {
+      console.log(
+        `The PR github username ${PRgithubUsername} was not found in the file patch.`
+      );
+      return;
+    }
+
     console.log("findNameAddedOrRemoved", findNameAddedOrRemoved);
-
-    // find all instances of +.... + or -.... -
-    // this should be only one instance
-
-    // check that the github username is in the correct place
 
     const allLines = file.patch.split("\n");
 
     console.log("allLines", allLines);
+
+    // PLUS PATH CHECK
 
     const PLUS_REGEX = /^\+  ".*"$/;
 
@@ -124,7 +116,7 @@ async function autoMergePR() {
 
     console.log("validatedLinesWithPlus", validatedLinesWithPlus);
 
-    // do the same for -.... -
+    // MINUS PATH CHECK
 
     const MINUS_REGEX = /^-  ".*"$/;
 
