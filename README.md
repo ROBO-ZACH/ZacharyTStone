@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 09:22 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 09:24 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "If you find yourself in a hole, the first thing to do is stop digging."
-<br>— Will Rogers
+  "What is necessary to change a person is to change his awareness of himself."
+<br>— Abraham Maslow
 </blockquote>
 </h3>
 
