@@ -57,13 +57,13 @@
 
   <summary> 🤖 Featured Follower </summary>
 
-#### 💻 Checkout out [Joseph Jaspers](https://github.com/josephjaspers)! 🎉
+#### 💻 Checkout out [Brandon Flores](https://github.com/brandonflores647)! 🎉
 
 ###### They must be pretty cool if they follow Zach!
 
-###### 👤 [Github](https://github.com/josephjaspers) 
+###### 👤 [Github](https://github.com/brandonflores647) 
 
-<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/20384345?v=4" />
+<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/100805072?v=4" />
 
 ---
 
