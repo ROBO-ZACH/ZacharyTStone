@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 02:03 AM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 10, 03:04 AM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Fine words and an insinuating appearance are seldom associated with true virtue"
-<br>— Confucius
+  "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."
+<br>— Franklin D. Roosevelt
 </blockquote>
 </h3>
 
