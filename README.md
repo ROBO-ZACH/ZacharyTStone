@@ -1,4 +1,4 @@
-<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 07:38 PM EST </a></h2>
+<h2 align="center" style="font-style: italic; font-weight: bold;"><a href="https://github.com/ROBO-ZACH">This readme was last updated by 🤖 on Nov 9, 07:42 PM EST </a></h2>
 
 ---
 
@@ -17,8 +17,8 @@
 
 <h3>
 <blockquote>
-  "Even youngish men can acquire wisdom as time goes by."
-<br>— John Bercow
+  "We must never forget that it is through our actions, words, and thoughts that we have a choice."
+<br>— Sogyal Rinpoche
 </blockquote>
 </h3>
 
