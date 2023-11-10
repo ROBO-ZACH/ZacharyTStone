@@ -2,9 +2,9 @@
 
 ---
 
-🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 5:40 PM - November 10 (EST) 🕙
+🤖 Zach recently worked on [ZacharyTStone/ZacharyTStone](https://github.com/ZacharyTStone/ZacharyTStone) at 6:04 PM - November 10  (EST)  🕙
 
-> ###### 📝 Commit: "[swap commit and commit link](https://api.github.com/repos/ZacharyTStone/ZacharyTStone/commits/073d25d67edf47c179f45027da1d0b1c89398ef8)"
+> ###### 📝 Commit: "[update reame md](https://github.com//ZacharyTStone/ZacharyTStone/commit/f344ea782f5edd0208c3e5567bccd178553c6864)"
 
 🤖 All of Zach's projects are available at [zstone.dev](https://www.zstone.dev/).
 
