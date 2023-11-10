@@ -59,13 +59,13 @@
 
   <summary> 🤖 Featured Follower </summary>
 
-#### 💻 Checkout out [Zachary Andrew Taylor](https://github.com/Zakkku)! 🎉
+#### 💻 Checkout out [Brandon Flores](https://github.com/brandonflores647)! 🎉
 
 ###### They must be pretty cool if they follow Zach!
 
-###### 👤 [Github](https://github.com/josephjaspers)
+###### 👤 [Github](https://github.com/brandonflores647) 
 
-<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/94582199?v=4" />
+<img width="20%" class="github-bio-img" src="https://avatars.githubusercontent.com/u/100805072?v=4" />
 
 ---
 
