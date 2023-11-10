@@ -66,7 +66,7 @@ const updateReadme = async () => {
 
   const timeString = `${time} - ${date}  (EST)  🕙`;
 
-  if (!repoName || !time || !latestCommit || !latestCommitLink) {
+  if (!repoName || !time || !latestCommit || !latestCommitID) {
     console.error("Error parsing event data:", event);
     return;
   }
