@@ -63,19 +63,44 @@ async function autoMergePR() {
 
       const contentLines = contentDecoded.split("\n");
 
-      // Find the PLEASE_FEATURE_ME array definition line
+      /*const PLEASE_FEATURE_ME = [
+  "ROBO-ZACH",
+  "CliffordMorin",
+  "josephjaspers",
+  "Zakkku",
+  "brandonflores647",
+];
+
+*/
+
       const featureMeLineIndex = contentLines.findIndex((line) =>
-        line.trim().startsWith("const PLEASE_FEATURE_ME = [")
+        line.includes("const PLEASE_FEATURE_ME = [")
       );
 
       console.log("featureMeLineIndex", featureMeLineIndex);
 
       // Perform checks on the line where the array is defined
       if (featureMeLineIndex !== -1) {
-        const featureMeLine = contentLines[featureMeLineIndex];
+        const featureMeLineStart = contentLines[featureMeLineIndex];
+
+        console.log("featureMeLineStart", featureMeLineStart);
+
+        // we need to get the full array text that starts from the first [ and ends at the last ]
+
+        const findFirstEndingBacketAfterFeatureMeLineStart =
+          contentDecoded.indexOf("]", featureMeLineStart);
+
+        console.log(
+          "findFirstEndingBacketAfterFeatureMeLineStart",
+          findFirstEndingBacketAfterFeatureMeLineStart
+        );
+
+        const featureMeLine = contentDecoded.substring(
+          featureMeLineStart,
+          findFirstEndingBacketAfterFeatureMeLineStart
+        );
 
         console.log("featureMeLine", featureMeLine);
-
         // we need to figure out if
         // 1. the change is a single element being added to the array or removed from the array
         // 2. the added/removed element is the same as the PR author's username
