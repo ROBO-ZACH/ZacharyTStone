@@ -81,7 +81,7 @@ const updateReadme = async () => {
 
       .replace(
         /📝 Commit Message: "(.*)/,
-        `📝 Commit Message: "[${latestCommitLink}](${latestCommit})"`
+        `📝 Commit Message: "[${latestCommit}](${latestCommitLink})"`
       );
 
     console.log("updatedReadme", updatedReadme);
