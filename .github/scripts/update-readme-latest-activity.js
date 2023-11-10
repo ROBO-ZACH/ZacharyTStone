@@ -39,6 +39,7 @@ const updateReadme = async () => {
   console.log("Updating README with the latest event..");
 
   const latestCommit = event.payload.commits[0]?.message;
+  const latestCommitLink = event.payload.commits[0]?.url;
   const repoName = event.repo.name;
   const baseURL = "https://github.com/";
   const isPublic = event["public"];
@@ -64,7 +65,7 @@ const updateReadme = async () => {
 
   const timeString = `${time} - ${date}  (EST)  🕙`;
 
-  if (!repoName || !time || !latestCommit) {
+  if (!repoName || !time || !latestCommit || !latestCommitLink) {
     console.error("Error parsing event data:", event);
     return;
   }
@@ -78,7 +79,10 @@ const updateReadme = async () => {
         `🤖 Zach recently worked on [${repoName}](${baseURL}${repoName}) at ${timeString}`
       )
 
-      .replace(/🤖 Commit Message: (.*)/, `🤖 Commit Message: ${latestCommit}`);
+      .replace(
+        /📝 Commit Message: (.*)/,
+        `📝 Commit Message: [${latestCommitLink}]("${latestCommit}")`
+      );
 
     console.log("updatedReadme", updatedReadme);
 
